@@ -1,0 +1,2654 @@
+,Postleitzahl,Ort,Straße,"[Latitude, Longitude]",Bäckerei,Anzahl der Leser-Empfehlungen
+0,10115,Berlin,Invalidenstr. 156,"[52.532341, 13.396718]",Taudien,8
+1,10115,Berlin,Gartenstr. 9,"[52.530207, 13.391934]",Alpenstück,7
+2,10117,Berlin,Wilhelmstr. 67,"[52.518365, 13.380688]",Brotliebling.de,2
+3,10117,Berlin,Tucholskystr. 31,"[52.526002, 13.393247]",Wiener Brot,5
+4,10119,Berlin,Zionskirchstr. 52,"[52.533413, 13.406314]",Zessin,14
+5,10119,Berlin,Alte Schönhauser Str. 4,"[52.527913, 13.4086]",Zeit für Brot,29
+6,10178,Berlin,Sophienstr. 30,"[52.526328, 13.399216]",Balzer,20
+7,10179,Berlin,Rungestr. 25-27,"[52.512262, 13.419665]",Sporys,5
+8,10243,Berlin,Palisadenstr. 58,"[52.518825, 13.438732]",Schubbert,30
+9,10243,Berlin,Warschauer Str. 72,"[52.512065, 13.452804]",Hartwich,26
+10,10243,Berlin,Strausberger Str. 46,"[52.521856, 13.43264]",Altberliner Bäckerei,3
+11,10245,Berlin,Warschauer Str. 72,"[52.512065, 13.452804]",Hartwich,6
+12,10245,Berlin,Neue Bahnhofstr. 31,"[52.505331, 13.469266]",Hartwich,6
+13,10245,Berlin,Neue Bahnhofstr. 8,"[52.506464, 13.470767]",Schwäbische Bäckerei,3
+14,10245,Berlin,Wühlischstr. 15-16,"[52.508665, 13.461332]",KuchenRausch,19
+15,10247,Berlin,Weserstr. 25,"[52.511503, 13.463435]",Schwäbische Bäckerei,2
+16,10247,Berlin,Petersburger Str. 89,"[52.517615, 13.453829]",Heinevetter,4
+17,10247,Berlin,Frankfurter Allee 47,"[52.515012, 13.463762]",Wenzel,10
+18,10247,Berlin,Oderstr. 9,"[52.511283, 13.468275]",Böttcher,8
+19,10249,Berlin,Strausberger Str. 46,"[52.521856, 13.43264]",Drescher,2
+20,10315,Berlin,Einbecker Str. 46,"[52.50916, 13.50462]",Richter,3
+21,10318,Berlin,Marksburgstr. 36,"[52.486847, 13.52387]",Vos,4
+22,10367,Berlin,Normannenstr. 41a,"[52.516291, 13.480376]",Hannemann,6
+23,10405,Berlin,Rykestr. 7,"[52.535427, 13.419904]",Manufacture Delicate,5
+24,10405,Berlin,Winsstr. 53,"[52.53475, 13.425834]",Nikolai,4
+25,10405,Berlin,Greifswalder Str. 225,"[52.530173, 13.425654]",Werner,3
+26,10405,Berlin,Prenzlauer Allee 42,"[52.535965, 13.422696]",Nikolai,2
+27,10407,Berlin,Bötzowstr. 19,"[52.530848, 13.432833]",Zessin,3
+28,10407,Berlin,Pasteurstr. 32,"[52.53235, 13.435858]",Lau,34
+29,10407,Berlin,Hufelandstr. 9,"[52.529579, 13.43671]",Kempe,2
+30,10407,Berlin,Danziger Str. 135,"[52.535292, 13.435643]",Kädtler,26
+31,10435,Berlin,Choriner Str. 39,"[52.537217, 13.411234]",Zessin,5
+32,10435,Berlin,Wolliner Str. 16,"[52.538266, 13.402941]",Machleidt,5
+33,10437,Berlin,Kuglerstr. 65,"[52.550979, 13.424146]",Kroll,24
+34,10437,Berlin,Pappelallee 85,"[52.542193, 13.413413]",Rajemann,9
+35,10437,Berlin,Stargarder Str. 69,"[52.546477, 13.418591]",Hacker,51
+36,10437,Berlin,Lettestr. 1,"[52.5428, 13.420715]",Boulangerie,2
+37,10437,Berlin,Dunckerstr. 23,"[52.544196, 13.422624]",Bekarei,17
+38,10437,Berlin,Schönhauser Allee 126,"[52.547134, 13.412881]",Krautzig,8
+39,10439,Berlin,Kuglerstr. 100,"[52.549351, 13.428411]",Blank,6
+40,10439,Berlin,Schivelbeiner Str. 48,"[52.550532, 13.412925]",Backanstalt,10
+41,10439,Berlin,Schönfließer Str. 12,"[52.552853, 13.408238]",Siebert,76
+42,10555,Berlin,Elberfelder Str. 2,"[52.524348, 13.335998]",Zandonai,14
+43,10585,Berlin,Wilmersdorfer Str. 19,"[52.515255, 13.304624]",Hutzelmann,2
+44,10589,Berlin,Kaiserin-Augusta-Allee 37,"[52.52591, 13.312027]",Banach,3
+45,10623,Berlin,Hardenbergstr. 4-5,"[52.508179, 13.328301]",Brot & Butter,2
+46,10627,Berlin,Windscheidstr. 15,"[52.50633, 13.299071]",Weichardt,2
+47,1069,Dresden,Schweizer Str. 4,"[51.041116, 13.721721]",May,3
+48,10707,Berlin,Pariser Str. 20,"[52.498515, 13.317788]",Bäckermann,13
+49,10713,Berlin,Blissestr. 2-6,"[52.486173, 13.320183]",Mälzer,3
+50,10715,Berlin,Berliner Str. 19,"[52.488122, 13.335064]",Czerr,2
+51,10715,Berlin,Mehlitzstr. 7,"[52.485905, 13.326308]",Weichardt,18
+52,10719,Berlin,Pfalzburger Str. 76,"[52.496993, 13.322611]",Aux Delices Normands,3
+53,10719,Berlin,Ludwigkirchstr. 14,"[52.498014, 13.32643]",Tillmann,2
+54,10823,Berlin,Akazienstr. 12,"[52.488611, 13.354412]",Mälzer,2
+55,10827,Berlin,Ebersstr. 42,"[52.478623, 13.345844]",Mayer,22
+56,10829,Berlin,Leberstr. 28,"[52.483744, 13.361286]",Mehlstübchen,11
+57,10829,Berlin,Hochkirchstr. 10,"[52.490573, 13.369]",Seitz,16
+58,10961,Berlin,Gneisenaustr. 58,"[52.489897, 13.40427]",SoLuna,34
+59,10961,Berlin,Zossener Str. 34,"[52.490578, 13.394355]",Beumer & Lutum,4
+60,10965,Berlin,Katzbachstr. 16,"[52.488018, 13.376448]",Haferstich,23
+61,10967,Berlin,Körtestr. 36,"[52.489772, 13.408042]",Beumer & Lutum,7
+62,10967,Berlin,Graefestr. 67,"[52.491406, 13.416814]",Kasper,19
+63,10967,Berlin,Dieffenbachstr. 12,"[52.492874, 13.414977]",BackArt,2
+64,10969,Berlin,Wassertorstr. 2,"[52.499089, 13.411742]",Backstube,8
+65,1099,Dresden,Alaunstr. 31,"[51.065693, 13.75027]",Graf,32
+66,1099,Dresden,Kamenzer Str. 40,"[51.068341, 13.758855]",émoi,18
+67,1099,Dresden,Bautzner Str. 15a,"[51.063552, 13.749763]",Seidel,7
+68,10997,Berlin,Oppelner Str. 4,"[52.500597, 13.441674]",Ladewig,12
+69,10997,Berlin,Schlesische Str. 1,"[52.500721, 13.442061]",Salut,3
+70,10997,Berlin,Eisenbahnstr. 42,"[52.502062, 13.432125]",Sironi,7
+71,10997,Berlin,Cuvrystr. 22,"[52.497063, 13.443181]",Beumer & Lutum,15
+72,1109,Dresden,Markt 1,"[51.108814, 13.761247]",Hellerauer Marktbäcker,7
+73,1109,Dresden,Boltenhagener Str. 15,"[51.115905, 13.782837]",Winkler,8
+74,1127,Dresden,Oschatzer Str. 13,"[51.075847, 13.723817]",Maaß,4
+75,1127,Dresden,Leipziger Str. 111,"[51.077546, 13.716358]",Walther,3
+76,1127,Dresden,Hallesche Str. 9,"[51.072265, 13.729974]",Otto,4
+77,1129,Dresden,Industriestr. 59,"[51.090525, 13.705532]",Werner,5
+78,1129,Dresden,Maxim-Gorki-Str. 70,"[51.089754, 13.72587]",Schnabel,2
+79,1129,Dresden,Großenhainer Str. 221,"[51.095673, 13.719021]",Eckert,2
+80,1129,Dresden,Kronenstr. 32,"[51.093011, 13.714457]",Rothe,8
+81,1157,Dresden,Freiheit 47,"[51.058516, 13.656703]",Krebs,2
+82,1157,Dresden,Alte Meißner Landstr. 45,"[51.064942, 13.674115]",Wolfemann,2
+83,1159,Dresden,Kesselsdorfer Str. 64,"[51.042846, 13.691566]",Andrä,4
+84,1159,Dresden,Hermsdorfer Str. 18,"[51.045632, 13.693466]",Rebs,8
+85,1159,Dresden,Kesselsdorfer Str. 33,"[51.042802, 13.693219]",Gruttke,4
+86,1159,Dresden,Bonhoefferplatz 15,"[51.038022, 13.700776]",Schleinig,3
+87,1159,Dresden,Kesselsdorfer Str. 45,"[51.04239, 13.690035]",Albers,2
+88,1159,Dresden,Clara-Zetkin-Str. 19,"[51.037807, 13.697291]",Marcel,7
+89,1159,Dresden,Cottaer Str. 11,"[51.050628, 13.710522]",Andrä,4
+90,1187,Dresden,Nürnberger Str. 30,"[51.03311, 13.723458]",Uhlig,8
+91,1187,Dresden,Kaitzer Str. 95,"[51.029434, 13.713219]",Werner,3
+92,1189,Dresden,Saarstr. 12,"[51.019226, 13.703108]",Schmich,2
+93,1189,Dresden,Am Hohen Stein 31,"[51.017908, 13.697283]",Sarodnick,5
+94,12043,Berlin,Pannierstr. 2,"[52.485673, 13.430043]",Mehlwurm,31
+95,12047,Berlin,Lenaustr. 10,"[52.490092, 13.427374]",Brezel Company,14
+96,12047,Berlin,Friedelstr. 30,"[52.492814, 13.428249]",Neuköllner Backstube,3
+97,12049,Berlin,Herrfurthstr. 7,"[52.477395, 13.423805]",Schillerbackstube,2
+98,12051,Berlin,Hermannstr. 145,"[52.464128, 13.4335]",Sarah Wiener,2
+99,12059,Berlin,Elsenstr. 52,"[52.485568, 13.449257]",Endorphina,8
+100,12105,Berlin,Viktoriastr. 8-11,"[52.454714, 13.383051]",Ufa-Bäckerei,3
+101,12157,Berlin,Sachsenwaldstr. 30,"[52.462848, 13.341765]",Wieser,7
+102,12161,Berlin,Südwestkorso 9,"[52.475305, 13.323772]",BäckerMann,20
+103,12163,Berlin,Ahornstr. 16a,"[52.461792, 13.319525]",Mälzer,20
+104,1219,Dresden,Dohnaer Str. 18,"[50.991016, 13.809056]",Morenz,23
+105,1219,Dresden,Wiener Str. 70,"[51.033236, 13.756023]",Morenz,23
+106,1219,Dresden,Kreischaer Str. 7,"[51.02786, 13.761009]",Kunadt,2
+107,1219,Dresden,Wilhelm-Franke-Str. 36,"[51.01616, 13.767963]",Bucheckchen,7
+108,12203,Berlin,Hindenburgdamm 93a,"[52.442735, 13.315412]",Hillmann,8
+109,12203,Berlin,Enzianstr. 1,"[52.448337, 13.305383]",Kühnel,11
+110,12209,Berlin,Lankwitzer Str. 2-3,"[52.428651, 13.328812]",Walf,8
+111,12249,Berlin,Kurfürstenstr. 31,"[52.426323, 13.33523]",Woyczechowski,3
+112,12305,Berlin,Lichtenrader Damm 136,"[52.401028, 13.405832]",Obergfell,2
+113,1239,Dresden,Altnickern 27,"[50.994423, 13.788376]",Gehre,4
+114,12435,Berlin,Elsenstr. 30,"[52.488472, 13.453038]",Hartwich,10
+115,12437,Berlin,Baumschulenstr. 70,"[52.462894, 13.483561]",Galander,5
+116,12437,Berlin,Kiefholzstr. 254,"[52.465102, 13.488038]",Matthes,7
+117,12524,Berlin,Rudower Str. 76,"[52.421861, 13.532664]",Werner,3
+118,12555,Berlin,Mahlsdorfer Str. 26,"[52.46436, 13.584471]",Jaenichen,3
+119,12555,Berlin,Müggelheimer Str. 13,"[52.442265, 13.582438]",Scholz,2
+120,12555,Berlin,Borgmannstr. 6,"[52.45697, 13.580827]",Sommerwerk,4
+121,1257,Dresden,Sosaer Str. 7,"[50.999027, 13.825045]",Bierbaum,2
+122,12587,Berlin,Bölschestr. 89,"[52.454071, 13.624815]",Dresdner Feinbäckerei,18
+123,12623,Berlin,Hönower Str. 75,"[52.511413, 13.612104]",Müller,2
+124,1277,Dresden,Schandauer Str. 79,"[51.038797, 13.80747]",Ullrich,13
+125,1277,Dresden,Berggießhübler Str. 12,"[51.035472, 13.811564]",Hünich,2
+126,1277,Dresden,Rothermundtstr. 3a,"[51.032658, 13.784725]",Kunadt,2
+127,1279,Dresden,Laubegaster Ufer 24,"[51.023647, 13.840566]",Siemank,7
+128,1279,Dresden,Hermannstädter Str. 10,"[51.020598, 13.839015]",Neumann,2
+129,1279,Dresden,Österreicher Str. 21,"[51.027015, 13.835889]",Franke,2
+130,13053,Berlin,Suermondstr. 64,"[54.036361, 10.446131]",Rataj,2
+131,13055,Berlin,Sandinostr. 14,"[52.536861, 13.484685]",Rauch,6
+132,1307,Dresden,Florian-Geyer-Str. 58,"[51.058384, 13.765794]",Siemank,2
+133,1309,Dresden,Krenkelstr. 6,"[51.043868, 13.774746]",Grundmann,4
+134,1309,Dresden,Tittmannstr. 28,"[51.047907, 13.782175]",Barthel,8
+135,1309,Dresden,Niederwaldstr. 12,"[51.048699, 13.799429]",Scholz,2
+136,1309,Dresden,Heynahtsstr. 3,"[51.036471, 13.788126]",Henning,2
+137,13125,Berlin,Pankgrafenstr. 25,"[52.614656, 13.467358]",Tubandt Nasch,4
+138,13127,Berlin,Hauptstr. 12,"[52.604469, 13.43195]",Klar,8
+139,13156,Berlin,Uhlandstr. 3,"[52.587341, 13.400638]",Sturm,2
+140,13158,Berlin,Hauptstr. 30,"[52.586844, 13.367621]",Pawlik,6
+141,13187,Berlin,Florastr. 34,"[52.565033, 13.405375]",Gabriel,13
+142,13187,Berlin,Wollankstr. 110,"[52.56557, 13.395634]",John,4
+143,13187,Berlin,Wollankstr. 130,"[52.568431, 13.399773]",Alte-Bäckerei-Pankow,3
+144,13189,Berlin,Kissingenstr. 4,"[52.566115, 13.414636]",Wilhelm,3
+145,13189,Berlin,Kissingenstr. 37,"[52.56714, 13.419215]",John,2
+146,1324,Dresden,Bautzner Landstr. 150,"[51.061828, 13.853052]",Richter,2
+147,1324,Dresden,Rißweg 60,"[51.061582, 13.823166]",Walther,2
+148,1324,Dresden,Bautzner Landstr. 64,"[51.06165, 13.831518]",Scheinert,22
+149,1326,Dresden,Gönnsdorfer Str. 1,"[51.051211, 13.846104]",Ringel,3
+150,1326,Dresden,Altwachwitz 1,"[51.037678, 13.831493]",Schulze,2
+151,1326,Dresden,Söbringer Str. 1,"[51.049329, 13.738144]",Wippler,8
+152,1326,Dresden,Körnerplatz 2,"[51.053918, 13.814671]",Wippler,8
+153,1328,Dresden,Schulstr. 14,"[51.087479, 13.631591]",Casper,4
+154,13347,Berlin,Ravenestr. 1,"[52.542816, 13.370476]",Bucco,6
+155,13467,Berlin,Heinsestr. 37,"[52.617693, 13.305868]",Laufer,11
+156,13467,Berlin,Seebadstr. 32,"[52.617049, 13.325315]",Laufer,11
+157,13469,Berlin,Artemisstr. 4,"[52.607044, 13.31843]",Rücker,2
+158,13591,Berlin,Magistratsweg 130,"[52.534613, 13.157474]",Zimmermann,2
+159,14057,Berlin,Suarezstr. 21,"[52.506099, 13.294179]",Suarez,2
+160,14059,Berlin,Knobelsdorffstr. 39,"[52.513042, 13.290476]",Bernhardt,8
+161,14059,Berlin,Seelingstr. 30,"[52.51557, 13.292299]",Brotgarten,42
+162,14129,Berlin,Von-Luck-Str. 27,"[52.430824, 13.206566]",Café von Luck,3
+163,14169,Berlin,Berliner Str. 49,"[52.439024, 13.272382]",Aux Delices Normands,6
+164,14169,Berlin,Berliner Str. 19,"[52.436419, 13.266369]",Strauch,3
+165,14195,Berlin,Ihnestr. 29,"[52.448346, 13.275884]",Aux Delices Normands,3
+166,14197,Berlin,Laubacher Str. 14,"[52.471332, 13.320317]",Wieslau,14
+167,1445,Radebeul,Kötzschenbrodaer Str. 43,"[51.096236, 13.658891]",Kühn,4
+168,1445,Radebeul,Graue-Presse-Weg 1,"[51.117134, 13.676397]",Jacob,3
+169,14467,Potsdam,Friedrich-Ebert-Str. 101,"[52.400268, 13.057477]",Braune,36
+170,14467,Potsdam,Dortusstr. 51,"[52.400982, 13.062221]",Schröter,5
+171,14471,Potsdam,Geschwister-Scholl-Str. 8,"[52.394002, 13.035833]",Lenz,2
+172,14482,Potsdam,Benzstr. 21,"[52.391611, 13.100485]",Schmidtke,4
+173,14482,Potsdam,Karl-Liebknecht-Str. 21,"[52.393925, 13.093213]",Fahland,7
+174,14532,Stahnsdorf,Dorfplatz 6,"[52.392783, 13.215632]",Aux Delices Normands,3
+175,14547,Beelitz,Clara-Zetkin-Str. 25,"[52.235312, 12.97829]",Schrey,2
+176,14550,Groß Kreutz,Götzer Chausseestr. 6,"[52.404822, 12.778962]",Fischer,2
+177,14552,Michendorf,Michendorfer Platz 6b,"[52.329462, 13.057042]",Fahland,2
+178,14558,Nuthetal,Arthur-Scheunert-Allee 125,"[52.344223, 13.107212]",Ihre Kleine Backstube,4
+179,1458,Ottendorf-Okrilla,Prof.-Nagel-Str. 2,"[51.162689, 13.844662]",Böhme,4
+180,14612,Falkensee,Bahnhofstr. 6/8,"[52.565228, 13.101873]",BioBackHaus,3
+181,14612,Falkensee,Friedrich-Engels-Allee 105,"[52.575699, 13.065744]",Ziehm,2
+182,1465,Dresden,Hauptstr. 14,"[51.059198, 13.885309]",Müller,3
+183,1468,Moritzburg,Dorfstr. 53,"[51.205112, 13.626652]",Sperling,2
+184,1471,Radeburg,Berbisdorfer Hauptstr. 49a,"[51.183428, 13.721375]",Franke,2
+185,14712,Rathenow,Göttliner Str. 56,"[52.607094, 12.312082]",Möhring,4
+186,14727,Premnitz,Alte Hauptstr. 45,"[52.535131, 12.328801]",Wernsdorf,2
+187,14728,Rhinow,Mittelstr. 11,"[52.751204, 12.341799]",Schulze,3
+188,14770,Brandenburg,Bäckerstr. 12,"[52.413902, 12.555356]",Rettig,4
+189,14776,Brandenburg,Steinstr. 46,"[52.408141, 12.561964]",Röhe,3
+190,14797,Kloster Lehnin,Görnseestr. 19,"[52.33947, 12.654816]",Schmidt,2
+191,14806,Bad Belzig,Bahnhofstr. 3,"[52.138233, 12.588307]",Gericke,4
+192,14913,Jüterbog,Pferdestr. 21,"[51.990261, 13.077512]",Große,2
+193,14959,Trebbin,Blankenseer Dorfstr. 22,"[52.240029, 13.125671]",Röhrig,3
+194,15232,Frankfurt,Dresdener Str. 8,"[52.336855, 14.540738]",Jannusch,4
+195,15366,Neuenhagen bei Berlin,Rathausstr. 21,"[52.519448, 13.687567]",Schröder,2
+196,15377,Buckow,Werderstr. 38,"[52.569001, 14.071285]",Berendt,2
+197,15537,Erkner,Berliner Str. 22,"[52.426941, 13.750028]",Schmidt,2
+198,15537,Gosen,Eichwalder Str. 13,"[52.39338, 13.712347]",Just,2
+199,15566,Schöneiche,Goethestr. 9,"[52.469331, 13.692483]",Petersik,4
+200,1561,Thiendorf,Radeburger Str. 9,"[51.25261, 13.739251]",Bicknäse,2
+201,15711,Königs Wusterhausen,Am Erlengrund 25,"[52.284344, 13.635708]",Bergzog,2
+202,15745,Wildau,Bergstr. 31,"[52.319647, 13.619658]",Scholz,3
+203,15806,Zossen,Cottbuser Str. 22,"[52.146096, 13.480024]",Lehmann,2
+204,15848,Beeskow,Breite Str. 3,"[52.17157, 14.250137]",Monin,4
+205,15859,Storkow,Kummersdorfer Str. 1,"[52.263563, 13.936027]",Storkower Landbäckerei,2
+206,15910,Bersteland,Hauptstr. 9,"[51.965089, 13.746541]",Kuske,2
+207,15913,Straupitz,Bahnhofstr. 3,"[51.912477, 14.120818]",Vater,2
+208,16225,Eberswalde,Friedrich-Ebert-Str. 13,"[52.833584, 13.817362]",Wiese,4
+209,16227,Eberswalde,Kastanienallee 6,"[52.835844, 13.731822]",Dellinger,2
+210,16230,Melchow,Alte Dorfstr. 1,"[52.775575, 13.703351]",Haupt,2
+211,16259,Hohenwutzen,Dorfstr. 44,"[52.874643, 14.141541]",Ritter,5
+212,16359,Biesenthal,Bahnhofstr. 48,"[52.759551, 13.659522]",Benndorf,3
+213,1640,Coswig,Genossenschaftsstr. 8,"[51.13697, 13.583168]",Claus,2
+214,16515,Oranienburg,Kanalstr. 29,"[52.754761, 13.224009]",Prussog,3
+215,16540,Hohen Neuendorf,Schönfließer Str. 46,"[52.669371, 13.287542]",Hoffmann,8
+216,16540,Hohen Neuendorf,Berliner Str. 51,"[52.666793, 13.282811]",Hoffmann,8
+217,16556,Hohen Neuendorf,Berliner Str. 32,"[52.709445, 13.276094]",Soost,2
+218,1662,Meißen,Neumarkt 37,"[51.1576, 13.47014]",Adam,2
+219,1662,Meißen,Ossietzkystr. 14,"[51.143336, 13.45933]",Riedel,2
+220,1665,Klipphausen,Alte Silberstr. 18,"[51.119626, 13.514888]",Schöne,3
+221,16727,Oberkrämer,Dorfstr. 43,"[52.736136, 13.085323]",Plentz,2
+222,16798,Fürstenberg,Unter den Linden 13,"[53.18832, 13.145647]",Eckert,3
+223,16816,Neuruppin,Friedrich-Engels-Str. 49,"[52.92696, 12.811584]",Plagemann,5
+224,16816,Neuruppin,Seestr. 22,"[52.925113, 12.812708]",Gröpler,4
+225,16837,Flecken,Markt 1,"[53.158179, 12.768723]",Janke,2
+226,16845,Temnitztal,Lindenhof 2,"[52.85282, 12.603703]",Vollkern,2
+227,17036,Neubrandenburg,Ziolkowskistr. 13,"[53.553063, 13.300564]",Gesche,3
+228,17154,Neukalen,Am Markt 13,"[53.822735, 12.790627]",Zingelmann,2
+229,17166,Groß Roge,Pösel 3,"[53.77813, 12.505084]",Bastian,3
+230,17192,Waren (Müritz),Malchiner Str. 22,"[53.521539, 12.683127]",Bünger,2
+231,17213,Malchow,Lange Str. 56,"[53.474656, 12.433474]",Kosegarten,2
+232,1723,Wilsdruff,Oberstr. 50,"[51.050848, 13.57573]",Schilling,3
+233,17291,Nordwestuckermark,Karl-Marx-Str. 36,"[53.393369, 13.582086]",Ihlenfeldt,2
+234,17406,Stolpe auf Usedom,Alte Dorfstr. 30,"[53.867379, 13.986242]",Langhoff,3
+235,1744,Dippoldiswalde,Nicolaistr. 2,"[50.891976, 13.667398]",Grosche,3
+236,17489,Greifswald,Am St. Georgsfeld 39,"[54.096548, 13.404553]",Grätsch,15
+237,17489,Greifswald,Wolgaster Str. 13,"[54.094953, 13.391934]",Käßler,8
+238,17493,Greifswald,Wolgaster Landstr. 25,"[54.088569, 13.4522]",Marquardt,2
+239,1768,Glashütte,Müglitztalstr. 23,"[50.8903, 13.811008]",Degenkolbe,2
+240,18055,Rostock,Grubenstr. 38,"[54.090558, 12.143422]",Grubenbäckerei,69
+241,18055,Rostock,Blücherstr. 26,"[54.080816, 12.14315]",Kentzler,3
+242,18057,Rostock,Wismarsche Str. 24,"[54.086511, 12.11991]",Kentzler Traditionsbäckerei,2
+243,18057,Rostock,Friedrichstr. 37,"[54.089152, 12.122829]",Lemke,7
+244,1809,Dohna,Müglitztalstr. 63,"[50.968123, 13.855763]",Sachse,2
+245,1809,Müglitztal,Altenberger Str. 23,"[50.93639, 13.861839]",Schloßmühle Weesenstein,2
+246,1814,Bad Schandau,Mühlweg 36,"[50.892274, 14.232283]",Schmilka,3
+247,18146,Rostock,Gösselweg 14,"[54.100174, 12.17042]",Lehmann,2
+248,18147,Rostock,Fährstr. 47,"[54.10324, 12.115744]",Mertin,2
+249,18211,Ostseebad Nienhagen,Strandstr. 2,"[54.158546, 11.953831]",Roggensack,2
+250,1833,Stolphen,Talstr. 16,"[51.042187, 14.066686]",Bäckerei Willkommen,2
+251,18347,Wustrow,Karl-Marx-Str. 25,"[54.347368, 12.396612]",Boldt,3
+252,18435,Stralsund,Große Parower Str. 26,"[54.333299, 13.076528]",Krämer,7
+253,18565,Insel Hiddensee,Kirchweg 27,"[54.58675, 13.111183]",Kasten,6
+254,1904,Neukirch/Lausitz,Hauptstr. 51,"[51.09554, 14.309245]",Hultsch,5
+255,19053,Schwerin,Hermannstr. 17,"[53.62177, 11.405907]",Kopf,2
+256,19055,Schwerin,Hauptstr. 16,"[53.65985, 11.395649]",Mühlenbäckerei,4
+257,1920,Räckelwitz,Hauptstr. 51,"[51.256611, 14.224185]",Schlappa,4
+258,1920,Haselbachtal,Dorfstr. 6,"[51.245105, 14.017618]",Schäfer,2
+259,1920,Crostwitz,Str. der Domowina 2,"[51.236856, 14.24117]",Gärtner,2
+260,19230,Hagenow,Hagenower Str. 17,"[53.407631, 11.209809]",Armster,2
+261,19322,Wittenberge,Friedrich-Engels-Str. 1a,"[52.999476, 11.754192]",Deichbäckerei,2
+262,19348,Perleberg,Hamburger Str. 10,"[53.081911, 11.859937]",Eichler,2
+263,1936,Königsbrück,Schloßstr. 1,"[51.263706, 13.901803]",Hartmann,5
+264,1945,Hermsdorf,Alte Guteborner Str. 1,"[51.407729, 13.901886]",Boeltzig,2
+265,1945,Ruhland,Mittelstr. 1,"[51.457964, 13.867429]",Jacobi,2
+266,1945,Frauendorf,Hauptstr. 94,"[51.406444, 13.772853]",Günther,2
+267,20144,Hamburg,Beim Schlump 14,"[53.570995, 9.976538]",Karens Konditorei,13
+268,20146,Hamburg,Grindelhof 7,"[53.571198, 9.983273]",Springer,3
+269,20146,Hamburg,Rutschbahn 18,"[53.570682, 9.981709]",Effenberg,11
+270,20251,Hamburg,Geschwister-Scholl-Str. 155,"[53.594241, 9.975832]",Ellenas Back-Bistro,2
+271,20251,Hamburg,Breitenfelder Str. 16,"[53.584801, 9.971775]",Brandt,4
+272,20253,Hamburg,Hoheluftchaussee 32,"[53.580248, 9.974451]",Gaues,4
+273,20255,Hamburg,Osterstr. 176,"[53.579398, 9.946223]",Die kleine Konditorei,41
+274,20255,Hamburg,Lutterothstr. 9-11,"[53.581857, 9.94221]",Die kleine Konditorei,28
+275,20259,Hamburg,Eppendorfer Weg 52,"[53.571621, 9.958868]",Wulf,13
+276,20259,Hamburg,Fruchtallee 118,"[53.572359, 9.951346]",Peukert,6
+277,20354,Hamburg,Dammtor-Bahnhof,"[53.560852, 9.98959]",Effenberg,3
+278,20354,Hamburg,Gänsemarkt 44,"[53.555586, 9.98843]",Stadtbäckerei,4
+279,20355,Hamburg,Dag-Hammarskjöld-Platz,"[53.560886, 9.988477]",Effenberger,3
+280,20357,Hamburg,Schulterblatt 61,"[53.561417, 9.962233]",Stenzel,5
+281,20359,Hamburg,Hein-Hoyer-Str. 52,"[53.552591, 9.962991]",Rönnfeld,28
+282,20535,Hamburg,Klaus-Groth-Str. 40,"[53.555175, 10.030694]",Rettungsbrot,22
+283,21035,Hamburg,Nettelnburger Str. 61,"[53.477176, 10.187861]",Schultze,2
+284,21037,Hamburg,Ochsenwerder Landstr. 98,"[53.484037, 10.073719]",Lütte Backstuv,4
+285,21073,Hamburg,Bremer Str. 149,"[53.450313, 9.968707]",Bartels,3
+286,21073,Hamburg,Eißendorfer Str. 181,"[53.456048, 9.956693]",Janeke,3
+287,21077,Hamburg,Ernst-Bergeest-Weg 59,"[53.441051, 9.959708]",Becker,5
+288,21129,Hamburg,Naßdeich 167,"[53.550341, 10.000654]",Bahde,2
+289,21224,Rosengarten,Mühlenstr. 9,"[53.368004, 9.936346]",Danker,4
+290,21256,Handeloh,Im Dorf 2,"[53.262508, 9.865512]",Wörme,5
+291,21335,Lüneburg,Soltauer Str. 54,"[53.233046, 10.396043]",Harms,4
+292,21335,Lüneburg,Bei der Lüner Mühle,"[53.250698, 10.414067]",Bergström,2
+293,21357,Bardowick,Kuhstr. 1,"[53.301199, 10.390547]",Meyer,2
+294,21365,Adendorf,Kirchweg 50f,"[53.283904, 10.44021]",Probst,3
+295,21376,Salzhausen,Tangensieck 1,"[53.224369, 10.16938]",Diekert,3
+296,21379,Scharnebeck,Hauptstr. 24,"[53.290819, 10.50524]",Vollkornbäckerei Scharnebeck,4
+297,21406,Barnstedt,Hauptstr. 16,"[53.138723, 10.372269]",Kruse,3
+298,21423,Drage,Elbstorfer Str. 63,"[53.421051, 10.28753]",Schuhmacher,2
+299,21423,Winsen-Borstel,Rathausstr. 28,"[53.363083, 10.207514]",Soetebier,2
+300,21438,Brackel,Dorfstr. 32,"[53.297479, 10.038851]",Schröder,4
+301,21445,Wulfsen,Mühlenweg 35,"[53.298257, 10.13653]",Graue,7
+302,21465,Wentorf,Hauptstr. 5,"[53.49241, 10.252549]",Flindt,6
+303,21502,Geesthacht,Hohenkamp 15,"[53.446784, 10.376131]",Sievert,3
+304,21509,Glinde,Mühlenstr. 10,"[53.543978, 10.213211]",Schäfer,3
+305,21514,Büchen,Bahnhofstr. 2,"[53.478257, 10.620576]",Hondt,3
+306,21614,Buxtehude,Kählerstr. 1,"[53.467169, 9.680152]",Behnken,2
+307,21629,Neu Wulmstorf,Koppelweg 2,"[53.420654, 9.80021]",Brotkorb,2
+308,21644,Sauensiek,Hauptstr. 30a,"[53.386195, 9.598484]",Holzofenbäcker,6
+309,21680,Stade,Harsefelder Str. 24,"[53.584212, 9.472538]",Heyderich,16
+310,21706,Drochtersen,Ulmenstr. 2,"[53.738652, 9.3383]",Hintelmann,2
+311,21717,Deinste,Im Mühlenfeld 3,"[53.530166, 9.434521]",Heinbokel,3
+312,21717,Fredenbeck,Dinghorner Str. 7,"[53.516442, 9.376646]",Bösch,2
+313,22041,Hamburg,Ahrensburger Str. 95,"[53.579599, 10.101009]",Iden,2
+314,22047,Hamburg,Am Stadtrand 45,"[53.590232, 10.097267]",Springer,2
+315,22083,Hamburg,Beethovenstr. 20,"[53.576123, 10.023895]",Pritsch,3
+316,22083,Hamburg,Sentastr. 37,"[53.583587, 10.036473]",Hönig,4
+317,22083,Hamburg,Weidestr. 26,"[53.580433, 10.037303]",Münch,4
+318,22087,Hamburg,Papenhuder Str. 39,"[53.567361, 10.018534]",Pritsch,21
+319,22087,Hamburg,Lübecker Str. 29,"[53.56125, 10.030687]",The Village Den,2
+320,22147,Hamburg,Greifenberger Str. 63,"[53.618677, 10.147749]",Wrede,2
+321,22159,Hamburg,Berner Heerweg 391,"[53.626863, 10.138143]",Jacobs,2
+322,22159,Hamburg,Neusurenland 109,"[53.616496, 10.114848]",Rohlfs,3
+323,22297,Hamburg,Alsterdorfer Str. 292,"[53.608304, 10.009801]",Fastert,3
+324,22299,Hamburg,Winterhuder Marktplatz 13,"[53.595142, 9.999943]",Rohlf,2
+325,22301,Hamburg,Poelchaukamp 2-4,"[53.580922, 10.007466]",Gaues,2
+326,22303,Hamburg,Mühlenkamp 37,"[53.581634, 10.011235]",Effenberger,2
+327,22303,Hamburg,Poelchaukamp 2-4,"[53.580922, 10.007466]",Gaue,3
+328,22335,Hamburg,Erdkampsweg 12,"[53.627263, 10.02514]",Café Luise,22
+329,22397,Hamburg,Lemsahler Dorfstr. 53,"[53.686341, 10.104761]",Cordes,4
+330,22397,Hamburg,Herrenhausallee 9,"[53.711, 10.137222]",Hinze,2
+331,22397,Hamburg,Im Ellernbusch 18,"[53.707029, 10.10708]",Schacht,4
+332,22399,Hamburg,Poppenbüttler Hauptstr. 37,"[53.665146, 10.089627]",Reinhardt,7
+333,22457,Hamburg,Frohmestr. 34,"[53.633162, 9.920031]",Stechmann,9
+334,22459,Hamburg,Ordulfstr. 2,"[53.620598, 9.944845]",Hönig,11
+335,22525,Hamburg,Langenfelder Damm 75,"[53.58151, 9.937154]",Die kleine Konditorei,12
+336,22525,Hamburg,Warnstedtstr. 28-32,"[53.585178, 9.929581]",Die kleine Konditorei,12
+337,22529,Hamburg,Grelckstr. 10a,"[53.600752, 9.956447]",Horn,2
+338,22559,Hamburg,Wedeler Landstr. 37,"[53.581615, 9.757061]",Hansen,2
+339,22587,Hamburg,Blankeneser Landstr. 13,"[53.563248, 9.810207]",Körner,16
+340,22589,Hamburg,Sülldorfer Kirchenweg 195,"[53.579867, 9.796591]",Dutz,8
+341,22589,Hamburg,Sülldorfer Landstr. 143,"[53.577787, 9.813539]",Hansen,2
+342,22763,Hamburg,Daimlerstr. 2,"[53.556241, 9.921784]",Wiedenroth,43
+343,22846,Norderstedt,Ulzburger Str. 483,"[53.721937, 9.997831]",Nitt,2
+344,22846,Norderstedt,Erlengang 5-7,"[53.726436, 9.991218]",Nitt,2
+345,22880,Wedel,Pinneberger Str. 12,"[53.584512, 9.701123]",Hackradt,2
+346,22889,Tangstedt,Wulksfelder Damm 15-17,"[53.72546, 10.103743]",Wulksfelder,5
+347,22926,Ahrensburg,Bornkampsweg 39,"[53.660673, 10.202062]",Hollerbach,3
+348,22941,Bargteheide,Johannes-Gutenberg-Str. 10,"[53.722073, 10.270381]",Wittmaack,2
+349,22941,Bargteheide,Alte Landstr. 43,"[53.725993, 10.246969]",Bielfeldt,4
+350,23552,Lübeck,Glockengießerstr. 42,"[53.868907, 10.692701]",Freibackhaus,16
+351,23564,Lübeck,Antonistr. 9,"[53.859163, 10.696046]",Remmert,19
+352,23617,Stockelsdorf,Segeberger Str. 7,"[53.885904, 10.651671]",Ronneberger,4
+353,23626,Ratekau,Alte Schulstr. 4,"[53.948914, 10.73616]",Köster,3
+354,23701,Eutin,Albert-Mahlstedt-Str. 65,"[54.134626, 10.614036]",Klausberger,2
+355,23743,Grömitz,Klostersee 1,"[54.14411, 10.95885]",Hof Klostersee,3
+356,23769,Fehmarn,Osterstr. 2,"[54.439608, 11.199147]",Börke,4
+357,23795,Bad Segeberg,Kurhausstr. 56,"[53.942109, 10.30642]",Villwock,3
+358,23826,Bark,Dorfstr. 22,"[53.905757, 10.184565]",Rittschers'Backhus,2
+359,23843,Bad Oldesloe,Wiesenstr. 38a,"[53.818845, 10.373399]",Die Kleine Bäckerei,3
+360,23860,Groß Schenkenberg,Gut Rothenhausen 4,"[53.80574, 10.60064]",Gut Rothenhausen,3
+361,23863,Kayhude,Segeberger Str. 60,"[53.755306, 10.128628]",Matthiesen,2
+362,23919,Berkenthin,Oldesloer Str. 13,"[53.734541, 10.641665]",Berkenthiner Dorfbackstube,2
+363,23966,Wismar,Claus-Jesup-Str. 34,"[53.893155, 11.458756]",Tilsen,2
+364,23974,Neuburg,Gänsemarkt 4,"[53.947964, 11.586966]",Woest,4
+365,23992,Neukloster,Bützowerstr. 2,"[53.86508, 11.689072]",Lüth,2
+366,23999,Insel Poel,Kieckelbergstr. 4,"[53.997451, 11.437561]",Groth,4
+367,24103,Kiel,Exerzierplatz 7,"[54.320397, 10.12825]",Brotgarten,3
+368,24105,Kiel,Knooper Weg 132,"[54.3332, 10.128759]",Lyck,3
+369,24105,Kiel,Holtenauer Str. 208,"[54.343878, 10.133507]",Pursche,2
+370,24105,Kiel,Yorckstr. 4,"[54.343819, 10.139316]",Schmeer,3
+371,24106,Kiel,Projensdorfer Str. 16,"[54.347659, 10.131433]",Lyck,2
+372,24109,Kiel,Hofholzallee 220,"[54.31735, 10.066981]",Knuust,3
+373,24116,Kiel,Sternstr. 18,"[54.323786, 10.122551]",Restez,14
+374,24143,Kiel,Heischstr. 19,"[54.303442, 10.140093]",Vorbeck,13
+375,24145,Kiel,Liebigstr. 29,"[54.279819, 10.146297]",Brotgarten,3
+376,24145,Kiel,Grot Steenbusch 30-40,"[54.283777, 10.131654]",Rönnau,6
+377,24147,Kiel,Ellerbeker Weg 109,"[54.303617, 10.176682]",Lyck,11
+378,24159,Kiel,Eckenerweg 8,"[54.372321, 10.137778]",Ahrens,3
+379,24214,Schinkel,Raiffeisenstr. 2,"[54.355558, 9.954329]",Kornkraft,13
+380,24235,Stein,Strandstr. 18,"[54.417311, 10.272269]",Alte Dorfbäckerei,2
+381,24247,Rodenbek,Dorfstr. 17a,"[54.276605, 10.018809]",Rodenbäcker,3
+382,24253,Passade,Dörpstraat 11,"[54.36541, 10.317562]",Passader Backhaus,6
+383,24306,Plön,Johannisstr. 8,"[54.158561, 10.410984]",Jess,2
+384,24340,Eckernförde,Langebrückstr. 22,"[54.472761, 9.834645]",Kornkraft,2
+385,24357,Fleckeby,Hauptstr. 7,"[54.482109, 9.699092]",Detlefsen,3
+386,24376,Hasselberg,Schwackendorf 47,"[54.708598, 9.936894]",Ohm,3
+387,24402,Esgrus,An der Kirche 4,"[54.72284, 9.78126]",Hansen,3
+388,24539,Neumünster,Segeberger Str. 39,"[54.050106, 10.022682]",Kohls,2
+389,24576,Bad Bramstedt,Landweg 14,"[53.921064, 9.882839]",Wittorf,3
+390,24582,Bordesholm,Eiderhöhe 10-14,"[54.184581, 10.052608]",Reesdorfer Hof,4
+391,24589,Nortorf,Poststr. 11,"[54.166228, 9.856177]",Büller,4
+392,24629,Kisdorf,Dorfstr. 11,"[53.810929, 10.014814]",Hamann,3
+393,24782,Büdelsdorf,Hollerstr. 98,"[54.316178, 9.681399]",Drews,7
+394,24784,Westerrönfeld,Dorfstr. 66,"[54.282457, 9.645845]",Richmann & Neu,3
+395,24800,Elsdorf-Westermühlen,Hauptstr. 12,"[54.259202, 9.527653]",Green,3
+396,24850,Schuby,Am Ochsenweg 13,"[54.514081, 9.47971]",Kalinka,2
+397,24939,Flensburg,Norderstr. 9,"[54.795501, 9.430214]",Migge's Danish Bakery,3
+398,24963,Jerrishoe,Eggebeker Str. 8,"[54.655446, 9.368377]",Hof Neue Erde,3
+399,24986,Mittelangeln,Flensburger Str. 10,"[54.692296, 9.601245]",Bahnsen,2
+400,25335,Elmshorn,Mühlendamm 10,"[53.755536, 9.664085]",Rohwer,3
+401,25355,Barmstedt,Kuhberg 5,"[53.789826, 9.769129]",Saß,2
+402,25355,Barmstedt,Reichenstr. 22,"[53.789926, 9.775628]",Hütter,2
+403,25364,Brande,Kreuzweg 1,"[53.848596, 9.717589]",Schümannhof,2
+404,25364,Brande,Kreuzweg 1,"[53.848596, 9.717589]",Schümannhof,2
+405,25421,Pinneberg,Dingstätte 12,"[53.661067, 9.799056]",Münster's Backstube,4
+406,25421,Pinneberg,Diesterwegstr. 36,"[53.643732, 9.811456]",Münster's Backstube,4
+407,25421,Pinneberg,Mühlenstr. 26,"[53.658843, 9.786741]",Dwenger,2
+408,25436,Tornesch,Pinneberger Str. 3,"[53.681407, 9.737586]",Pein,3
+409,25469,Halstenbek,Dockenhudener Chaussee 48,"[53.627032, 9.832736]",Schlüter,2
+410,25524,Itzehoe,Krämerstr. 2-4,"[53.92118, 9.516508]",Carstens,4
+411,25709,Marne,Feldstr. 58a,"[53.957871, 9.016823]",Kalle-Bäcker,2
+412,25746,Heide,Blumenstr. 1,"[54.192166, 9.089057]",Mühlenbäcker,3
+413,25813,Husum,Süderstr. 9,"[54.477058, 9.053642]",Lassen,2
+414,25862,Joldelund,Norderweg 7,"[54.654155, 9.138215]",Lorenzen,3
+415,25938,Wrixum,Ohl Dörp 47,"[54.701109, 8.548262]",Hansen,2
+416,25997,Hörnum,Rantumer Str. 1-3,"[54.763515, 8.284499]",Lund,5
+417,26123,Oldenburg,Nadorster Str. 107,"[53.154249, 8.218932]",Brockshus,2
+418,26129,Oldenburg,Ammerländer Heerstr. 397,"[53.144465, 8.19076]",Schröder,2
+419,26133,Oldenburg,Münnichstr. 40,"[53.112937, 8.213259]",Schindler,2
+420,26188,Edewecht,Scharreler Damm 11,"[53.108202, 8.056083]",Janssen,6
+421,26188,Edewecht,Hauptstr. 60,"[53.126219, 7.983532]",Ratscafe,2
+422,26215,Wiefelstede,Hauptstr. 33,"[53.25513, 8.116882]",Butterfly,2
+423,2625,Bautzen,Wendischer Graben 22,"[51.181038, 14.428012]",Marx,2
+424,26316,Varel,Bürgermeister-Osterloh-Str. 61,"[53.381824, 8.138912]",Kappen,10
+425,26340,Zetel,Horster Str. 30,"[53.41992, 7.955416]",Lübben,4
+426,26382,Wilhelmshaven,Rheinstr. 170,"[53.517295, 8.116331]",Pröger,2
+427,26434,Wangerland,Bismarckstr. 2b,"[53.661836, 7.916919]",Buss,3
+428,26441,Jever,St.-Annen-Str. 27,"[53.573876, 7.897712]",Klatt,3
+429,26446,Friedeburg,Wieseder Str. 24,"[53.448166, 7.830509]",Meeske,2
+430,26465,Langeoog,Gartenstr. 14,"[53.748036, 7.484611]",Seekrug,3
+431,26532,Großheide,Westerender Str. 12,"[53.610829, 7.370729]",Dollmann,2
+432,26571,Juist,Billstr. 2,"[53.67684, 6.990465]",Remmers,3
+433,26632,Ihlow,Auricher Str. 17,"[53.44538, 7.421965]",Schuirmann,3
+434,26655,Westerstede,Gaststr. 13,"[53.256287, 7.929825]",Grehl,2
+435,26689,Apen,Tiegelstr. 1,"[53.247306, 7.77082]",Ripken,5
+436,26789,Leer,Brunnenstr. 38,"[53.228524, 7.450851]",Aits,2
+437,26802,Moormerland,Königsstr. 47,"[53.305432, 7.48587]",Reck,3
+438,26810,Westoverledingen,Ihrener Str. 241,"[53.137448, 7.476145]",Janssen,2
+439,26939,Ovelgönne,Neustädter Str. 25,"[53.345552, 8.346318]",Büsing,4
+440,26969,Butjadingen,Butjadinger Str. 67,"[53.598748, 8.287759]",Jürgens,2
+441,2708,Lawalde,Löbauer Str. 28,"[51.082753, 14.571576]",Mersiowsky,2
+442,27232,Sulingen,Nienburger Str. 28,"[52.682844, 8.817161]",Schumacher-Teerling,2
+443,27254,Siedenburg,Mühlenstr. 23,"[52.69226, 8.940781]",Schau- und Naturbäcker Siedenburg,2
+444,27308,Kirchlinteln,Holtumer Dorfstr. 30,"[52.999608, 9.32471]",Rotermundt,2
+445,27327,Martfeld,Hollen 25,"[52.872643, 9.0263]",Hollen,4
+446,27327,Schwarme,Eichenstr. 32,"[52.900423, 9.022409]",Orlamünde,3
+447,27367,Sottrum,Am Eichkamp 13,"[53.114149, 9.226976]",Holste,6
+448,27374,Visselhövede,Wittorfer Str. 69,"[53.01108, 9.516238]",Tamke,2
+449,2739,Kottmar,Weberstr. 17,"[50.997668, 14.633276]",Berndt,6
+450,27412,Tarmstedt,Ostentor 17,"[53.226641, 9.0884]",Bruns,2
+451,27419,Sittensen,Bahnhofstr. 11,"[53.28079, 9.505456]",Grimm,2
+452,2747,Herrnhut,Löbauer Str. 4,"[51.016198, 14.743232]",Paul,3
+453,27619,Schiffdorf,Am Gunort 17,"[53.535538, 8.662196]",Otten,2
+454,2763,Bertsdorf-Hörnitz,Hauptstr. 132,"[50.880454, 14.723101]",Hahmann,2
+455,2763,Zittau,Gubenstr. 25,"[50.901331, 14.815022]",Bernhardt,2
+456,27749,Delmenhorst,Grüne Str. 86,"[53.047921, 8.64215]",Becker,6
+457,27777,Ganderkesee,Übern Berg 4,"[53.097975, 8.541738]",Stubbemann,3
+458,2791,Oderwitz,August-Bebel-Str. 1,"[50.956721, 14.723625]",Schuster,2
+459,28195,Bremen,Am Wall 201,"[53.073733, 8.812357]",Stefan,2
+460,28195,Bremen,Papenstr. 2-4,"[53.078143, 8.804685]",Haferkamp,3
+461,28199,Bremen,Friedrich-Ebert-Str. 153,"[53.066287, 8.793301]",Schmieder,6
+462,28201,Bremen,Buntentorsteinweg 60/62,"[53.067033, 8.803359]",Trage,4
+463,28201,Bremen,Kornstr. 20,"[53.049131, 8.819673]",Markwort,3
+464,28203,Bremen,Vor Dem Steintor 42,"[53.073131, 8.825648]",Effenberger,4
+465,28203,Bremen,St.-Jürgen-Str. 106,"[53.074534, 8.835907]",Otten,3
+466,28203,Bremen,St.-Jürgen-Str. 161,"[53.077379, 8.837829]",Thräm,15
+467,28203,Bremen,Vor dem Steintor 125-127,"[53.071515, 8.830182]",Thräm,13
+468,28203,Bremen,Vor dem Steintor 127-127,"[53.071522, 8.830171]",Thräm,15
+469,28203,Bremen,Sielwall 59,"[53.070212, 8.823923]",Groth's Backstube,2
+470,28203,Bremen,St.-Jürgen-Str. 161,"[53.077379, 8.837829]",Thräm,15
+471,28215,Bremen,Findorff-Markt,"[53.074815, 8.807431]",Orlamünde,2
+472,28219,Bremen,Fiegenstr. 50,"[53.104414, 8.792197]",Schröder,12
+473,2826,Görlitz,Weberstr. 16,"[51.155466, 14.991872]",Borrmann,2
+474,2826,Görlitz,Langenstr. 33,"[51.156318, 14.986491]",Karsubke,2
+475,2829,Königshain,Dorfstr. 155,"[51.186659, 14.848274]",Melzer,4
+476,28359,Bremen,Am Brahmkamp 54,"[53.100853, 8.874536]",Ruchel,3
+477,28755,Bremen,Lindenstr. 21,"[53.176156, 8.608559]",Vegesack,4
+478,28757,Bremen,Breite Str. 8,"[53.171658, 8.620615]",Hellweg,2
+479,28816,Stuhr,Syker Str. 57,"[53.007942, 8.790514]",Meyer,2
+480,28816,Stuhr,Hauptstr. 28,"[52.947125, 8.711078]",Hansemann,2
+481,28816,Stuhr,Hauptstr. 204,"[52.947125, 8.711078]",Fahrenhorster Dorfbäckerei,2
+482,28816,Stuhr,Delmenhorster Str. 34,"[53.010855, 8.701926]",Eggers,2
+483,2906,Waldhufen,Arnsdorfer Str. 106,"[51.21917, 14.777623]",Herkner,2
+484,29221,Celle,Großer Plan 5a,"[52.622699, 10.08125]",Rönitz,7
+485,2929,Rothenburg,Spreehammer 27,"[49.37719, 10.178881]",Lausitzbrot,2
+486,29320,Hermannsburg,Lotharstr. 41,"[52.829255, 10.101022]",Broge,2
+487,29328,Faßberg,Alte Dorfstr. 11,"[52.875913, 10.116949]",Hoffmann´s Backhus,3
+488,29331,Lachendorf,Ahnsbecker Str. 6,"[52.621681, 10.251136]",Gaues,4
+489,29386,Hankensbüttel,Celler Str. 4,"[52.730723, 10.602038]",Schmidt,2
+490,29456,Hitzacker,Hauptstr. 4,"[53.151395, 11.046844]",Stahlbock,2
+491,29499,Zernien,Göhrdestr. 3,"[53.067179, 10.885107]",Rasche,5
+492,29640,Schneverdingen,Rotenburger Str. 5,"[53.118399, 9.785461]",Hoppe,2
+493,29664,Walsrode,Quintusstr. 31,"[52.862351, 9.597893]",Stadtländer,3
+494,29664,Walsrode,Stellichte 8,"[52.936849, 9.522816]",Hewekerl,2
+495,30159,Hannover,Kramerstr. 14,"[52.371571, 9.733087]",Back- und Naschwerk,3
+496,30163,Hannover,Isernhagener Str. 58,"[52.392715, 9.740409]",Back- und Naschwerk,2
+497,30163,Hannover,Podbielskistr. 1,"[52.389027, 9.750856]",Buck,2
+498,30163,Hannover,Husarenstr. 21,"[52.392644, 9.743858]",Back- und Naschwerk,2
+499,30167,Hannover,Am Kleinen Felde 15,"[52.384628, 9.722308]",Die Kleine Bäckerei,22
+500,30169,Hannover,Hildesheimer Str. 44,"[52.363833, 9.747378]",Borchers,5
+501,30169,Hannover,Calenberger Str. 37,"[52.369865, 9.725948]",Kranz,3
+502,30171,Hannover,Lutherstr. 69,"[52.367771, 9.756557]",Handbäcker,10
+503,30171,Hannover,Lutherstr. 26,"[52.365933, 9.750478]",Gaues,2
+504,30171,Hannover,Schlägerstr. 2,"[52.364967, 9.747614]",Langrehr,11
+505,30173,Hannover,Heinrich-Heine-Str. 38,"[52.3571, 9.759629]",Backwerk,5
+506,30173,Hannover,Bertha-von-Suttner-Platz 8,"[52.358867, 9.760755]",Handbäcker,3
+507,30175,Hannover,Königstr. 54,"[52.375487, 9.746641]",Fahrenhorst,6
+508,30177,Hannover,Mengendamm 3,"[52.396562, 9.757319]",Langrehr,14
+509,30177,Hannover,Podbielskistr. 181,"[52.399076, 9.776568]",Migge,3
+510,30177,Hannover,Podbielskistr. 107,"[52.395901, 9.765094]",Hofbäckerei,16
+511,30419,Hannover,Am Fuhrenkampe 12,"[52.41128, 9.684606]",Künne,2
+512,30419,Hannover,Am Fuhrenkampe 37,"[52.409973, 9.689639]",Pramme,2
+513,3044,Cottbus,Goyatzer Str. 3,"[51.774782, 14.325328]",Hanuschka,3
+514,3044,Cottbus,Karlstr. 93,"[51.7662, 14.333952]",Weiland,3
+515,30451,Hannover,Bethlehemplatz 4,"[52.372704, 9.702712]",Jeske,2
+516,30451,Hannover,Ungerstr. 20,"[52.376825, 9.704765]",Linden,6
+517,30451,Hannover,Limmerstr. 58,"[52.374006, 9.706263]",Doppelkorn,2
+518,3046,Cottbus,Str. der Jugend 83,"[51.748452, 14.332149]",Schmidt,3
+519,30519,Hannover,Borgentrickstr. 14,"[52.338415, 9.765814]",Schmelzer,4
+520,30655,Hannover,Groß-Buchholzer-Str. 51,"[52.399142, 9.804115]",Behnecke,2
+521,30659,Hannover,Sutelstr. 6,"[52.410097, 9.79935]",Langrehr,5
+522,30823,Garbsen,Am Hasenberge 14,"[52.407787, 9.608668]",Langrehr,37
+523,30823,Garbsen,Granatstr. 41,"[52.429022, 9.601308]",Langrehr,37
+524,30823,Garbsen,Hannoversche Str. 88,"[52.408114, 9.603731]",Langrehr,37
+525,30823,Garbsen,Hannoversche Str. 159,"[52.409309, 9.597002]",Langrehr,37
+526,30823,Garbsen,Planetenring 25,"[52.417649, 9.597471]",Langrehr,37
+527,30826,Garbsen,Steinwartskamp 1,"[52.440275, 9.553825]",Langrehr,6
+528,30826,Garbsen,Am Hasenberge 14,"[52.407787, 9.608668]",Langrehr,6
+529,30851,Langenhagen,Angerstr. 1,"[52.433597, 9.730658]",Zwick,6
+530,30853,Langenhagen,Karl-Kellner-Str. 48,"[52.452536, 9.738926]",Brandes,3
+531,30853,Langenhagen,Hoppegartenring 1,"[52.442109, 9.755613]",Langrehr,4
+532,30855,Langenhagen,Straßburger Platz 20,"[52.43907, 9.727419]",Langrehr,4
+533,30855,Langenhagen,Heidestr. 2a,"[52.44709, 9.667049]",Langrehr,4
+534,30880,Laatzen,Osterstr. 24,"[52.272937, 9.84125]",Volkmann,8
+535,30890,Barsinghausen,Rehrbrinkstr. 1,"[52.303418, 9.458776]",Hünerberg,3
+536,30890,Barsinghausen,Suhlenstr. 7,"[52.303971, 9.534779]",Sprengel,5
+537,30900,Wedemark,Wasserwerkstr. 38,"[52.579793, 9.735692]",Springhetti,3
+538,30916,Isernhagen,Krendelstr. 4,"[52.42693, 9.838084]",Langrehr,2
+539,30916,Isernhagen,An der Riehe 29,"[52.435332, 9.851278]",Jasiek,2
+540,30926,Seelze,Große Rehre 2,"[52.396464, 9.594287]",Langrehr,5
+541,30926,Seelze,Calenberger Str. 8,"[52.402697, 9.548736]",Langrehr,5
+542,30926,Seelze,Am Kreuzweg 11,"[52.395894, 9.590037]",Uhde,4
+543,30926,Seelze,Humboldtstr. 2,"[52.396342, 9.59886]",Langrehr,5
+544,30938,Burgwedel,Bäckerstr. 1,"[52.497529, 9.94168]",Filusch,2
+545,30938,Burgwedel,Dorfstr. 5,"[52.563196, 9.84744]",Adam,2
+546,30966,Hemmingen,Hauptstr. 31,"[52.282279, 9.71312]",Kampfelder Hof,2
+547,30974,Wennigsen,Am Häuserhof 2,"[52.270746, 9.567894]",Siehndel,3
+548,30982,Pattensen,Schliekumer Str. 5,"[52.218661, 9.795874]",Hache,2
+549,31061,Alfeld,Warnetalstr. 39,"[51.999029, 9.857915]",Zieseniß,2
+550,31084,Freden,Bachstr. 14,"[51.928378, 9.890984]",Stolzenberg,2
+551,31134,Hildesheim,Goschenstr. 41,"[52.146768, 9.957932]",Safft,15
+552,31137,Hildesheim,Elzer Str. 120,"[52.15633, 9.924168]",Krohne,2
+553,31141,Hildesheim,Scharnhorststr. 1,"[52.135387, 9.97085]",Mierisch,5
+554,31177,Harsum,Mittelstr. 13,"[52.210275, 9.961725]",Fleige,2
+555,31246,Lahstedt,Am Thie 7,"[52.244661, 10.218191]",Hanko,6
+556,31275,Lehrte,Marktstr. 13,"[52.373012, 9.979144]",Maaßen,2
+557,31275,Lehrte,Kurfürstenstr. 4,"[52.372389, 10.124327]",Balkenholl,2
+558,3149,Forst (Lausitz),Noßdorfer Str. 28,"[51.722448, 14.61762]",Fumfahr,3
+559,31515,Wunstorf,Hautpstr. 32,"[52.425798, 9.429443]",Langrehr,2
+560,31535,Neustadt,Höltystr. 34,"[52.561335, 9.48703]",Gebecke,2
+561,31552,Rodenberg,Alleestr. 33,"[52.312935, 9.358381]",Strietzel,2
+562,31582,Nienburg,Cretschmarstr. 32,"[52.633068, 9.21074]",Kattner,3
+563,31699,Beckedorf,Westerntor 1,"[52.346129, 9.301051]",Beckedorfer Backstube,3
+564,31712,Niedernwöhren,Hauptstr. 26,"[52.35222, 9.147122]",Wilke,2
+565,31719,Wiedensahl,Hauptstr. 151,"[52.38992, 9.118281]",Wilkening,3
+566,31737,Rinteln,Am Anger 13,"[52.169992, 9.097454]",Keßler,3
+567,31787,Hameln,Klütstr. 3,"[52.100555, 9.347339]",Mensing,2
+568,31787,Hameln,Breiter Weg 21,"[52.105666, 9.345235]",Susdorf,4
+569,3185,Peitz,Juri-Gagarin-Straße 11,"[51.85231, 14.431837]",Uhlmann,2
+570,31855,Aerzen,Schulstr. 11,"[52.072649, 9.226287]",Kornblume,2
+571,32051,Herford,Engerstr. 102,"[52.122277, 8.646109]",Farina,2
+572,32051,Herford,Engerstr. 190,"[52.127683, 8.627429]",Schnarre,3
+573,32107,Bad Salzuflen,Hauptstr. 39,"[52.028867, 8.757477]",Wiebusch,4
+574,32130,Enger,Bredenstr. 12,"[52.149159, 8.521679]",Göhne,2
+575,32278,Kirchlengern,Lübbecker Str. 91,"[52.197893, 8.641869]",Schuster,2
+576,32312,Lübbecke,Kösterkampstr. 1,"[52.309026, 8.659392]",Oltersdorf,5
+577,32339,Espelkamp,Tannenbergplatz 6,"[52.380586, 8.604064]",Röbelt,2
+578,32369,Rahden,Bahnhofstr. 11,"[52.433218, 8.620527]",Langhorst,2
+579,32423,Minden,Obermarktstr. 12,"[52.287145, 8.915563]",Battermann,2
+580,32427,Minden,Rodenbecker Str. 79a,"[52.286354, 8.892652]",Rahlmeyer,4
+581,32457,Porta Westfalica,Hauptstr. 78,"[52.225718, 9.040228]",Gottlob,3
+582,32469,Petershagen,Bahnhofstr. 5,"[52.369985, 8.993662]",Reimers,2
+583,32479,Hille,Lerchenstr. 1,"[52.274281, 8.78926]",Schortemeyer,2
+584,32545,Bad Oeynhausen,Schulstr. 79,"[52.195416, 8.813849]",Brante,2
+585,32547,Bad Oeynhausen,Südbahnstr. 35,"[52.196857, 8.803906]",Seeger,2
+586,32584,Löhne,Herforder Str. 75,"[52.173431, 8.685325]",Krumme,2
+587,32584,Löhne,Rüscherstr. 33,"[52.196224, 8.767704]",Simon,2
+588,32657,Lemgo,Paulinenstr. 19,"[52.023051, 8.896664]",Meffert,10
+589,32657,Lemgo,Papenstr. 31,"[52.027557, 8.903989]",Eikmeier,5
+590,32694,Dörentrup,Rawaule 3,"[52.050255, 8.997145]",Winter,2
+591,32699,Extertal,Mittelstr. 6,"[52.068494, 9.123697]",Dreimann,2
+592,32756,Detmold,Bruchstr. 34,"[51.935656, 8.875891]",Heidsiek,2
+593,32756,Detmold,Krumme Str. 24,"[51.93433, 8.876956]",Meffert,8
+594,33039,Nieheim,Marktstr. 13,"[51.80399, 9.112552]",Rieks,2
+595,33098,Paderborn,Westernmauer 7,"[51.716419, 8.747176]",Benslips,2
+596,33098,Paderborn,Am Bogen 1,"[51.718853, 8.75775]",Benslips,2
+597,33098,Paderborn,Geroldstr. 20,"[51.712843, 8.750485]",Kloke,15
+598,33098,Paderborn,Adelheidstr. 28,"[51.704936, 8.755812]",Hermisch,4
+599,33100,Paderborn,Detmolder Str. 210,"[51.745101, 8.77436]",Mertens,3
+600,33104,Paderborn,Bendesloh 10,"[51.717704, 8.752653]",Mertens,2
+601,33129,Delbrück,Alter Markt 10,"[51.765119, 8.562321]",Benslips,3
+602,33165,Lichtenau,Dammstr. 54,"[51.598706, 8.777845]",Zacharias,3
+603,33178,Borchen,Schloss Hamborn,"[51.661554, 8.735364]",Schloss Hamborn,2
+604,33189,Schlangen,Paderborner Str. 14,"[51.808143, 8.842081]",Nowosad,3
+605,33330,Gütersloh,Sprengerstr. 1,"[51.9064, 8.378208]",Fritzenkötter,2
+606,33332,Gütersloh,Sundernstr. 124,"[51.903574, 8.416686]",Meier,2
+607,33378,Rheda-Wiedenbrück,Herzebrocker Str. 17,"[51.858163, 8.281572]",Reker,14
+608,33397,Rietberg,Rathausstr. 54,"[51.810551, 8.428042]",Reineke,4
+609,33442,Herzebrock-Clarholz,Klosterstr. 25,"[51.886349, 8.247259]",Möllenbrock,3
+610,33602,Bielefeld,Friedrich-Ebert-Str. 6,"[52.024674, 8.53537]",Möller,2
+611,33602,Bielefeld,Niederwall 61,"[52.017178, 8.533467]",Gutzeit,2
+612,33602,Bielefeld,Jüngststr. 2,"[52.016075, 8.536135]",Voss,2
+613,33607,Bielefeld,Heeper Str. 210,"[52.024664, 8.567071]",Hollmann,3
+614,33615,Bielefeld,Stapenhorststr. 54,"[52.026816, 8.520863]",Pörschke,7
+615,33824,Werther,Engerstr. 6,"[52.072965, 8.412431]",Bossert,3
+616,33829,Borgholzhausen,Kaiserstr. 4,"[52.103247, 8.302049]",Welpinghus,11
+617,34117,Kassel,Friedrich-Ebert-Str. 141,"[51.314692, 9.485428]",Brotgarten,3
+618,34119,Kassel,Friedrich-Ebert-Str. 141,"[51.315976, 9.466624]",Brotgarten,13
+619,34119,Kassel,Friedrich-Ebert-Str. 119,"[51.315981, 9.4701]",Becker,11
+620,34125,Kassel,Hartwigstr. 14,"[51.322831, 9.514536]",Streiter,5
+621,34128,Kassel,Wolfhager Str. 391,"[51.336949, 9.437725]",Streiter,2
+622,34130,Kassel,Zentgrafenstr. 23,"[51.323084, 9.445371]",Gandert,7
+623,34131,Kassel,Kunoldstr. 25,"[51.314515, 9.440127]",Umbach,7
+624,34314,Espenau,Immehäuser Str. 2,"[51.391256, 9.457884]",Waldeck,2
+625,34346,Hann. Münden,Oppertor 10,"[51.389104, 9.766019]",Spangenberg,3
+626,34393,Grebenstein,Bahnhofstr. 4,"[51.447243, 9.415301]",Thomas,2
+627,34593,Knüllwald,Schneidemühle 5,"[51.01453, 9.532869]",Schneidemüller,2
+628,35037,Marburg,Gutenbergstr. 11,"[50.806225, 8.768775]",Siebenkorn,2
+629,35037,Marburg,Reitgasse 4,"[50.808719, 8.771755]",Vetter,3
+630,35037,Marburg,Weidenhäuser Str. 79,"[50.805562, 8.776012]",Carle,3
+631,35039,Marburg,Neue Kasseler Str. 23a,"[50.830972, 8.773128]",Siebenkorn,6
+632,35043,Marburg,Schröcker Str. 35,"[50.784492, 8.829699]",Nau,5
+633,35085,Ebsdorfergrund,Potsdamer Str. 7,"[50.7591, 8.883424]",Duske,2
+634,35096,Weimar,Alte Bahnhofstr. 1,"[50.758838, 8.731901]",Holzapfel,4
+635,35096,Weimar,Herborner Str. 49,"[50.759522, 8.727257]",Velte,2
+636,35104,Lichtenfels,Landesstr. 28,"[51.125284, 8.789946]",Weber,2
+637,35112,Fronhausen,Fronhäuser Str. 4,"[50.703257, 8.719726]",Bierau,4
+638,35216,Biedenkopf,Untere Bergstr. 9,"[50.883177, 8.548436]",Fischbach,2
+639,35232,Dautphetal,Steingasse 10,"[50.813667, 8.528687]",Leinweber,2
+640,35274,Kirchhain,Bahnhofsstr. 13a,"[50.820915, 8.919946]",Bergmann,2
+641,35305,Grünberg,Marktgasse 18,"[50.59254, 8.959169]",Lukasch,2
+642,35315,Homberg,Berliner Str. 2,"[50.731045, 9.000721]",Wolf,3
+643,35321,Laubach,Marktplatz 7,"[50.542622, 8.990076]",Cafè am Markt,2
+644,35390,Gießen,Bruchstr. 32,"[50.579647, 8.676781]",Braun,21
+645,35392,Gießen,Händelstr. 5,"[50.571571, 8.659567]",Bender,11
+646,35396,Gießen,Alte Schulstr. 10,"[50.604211, 8.703578]",Weller,6
+647,35398,Gießen,Untergasse 37,"[50.55165, 8.620611]",Steinmüller,4
+648,35398,Gießen,Krofdorfer Str. 35,"[50.591447, 8.662883]",Lambertz,13
+649,35398,Gießen,Weigelstr. 11,"[50.559048, 8.645968]",Lutz,4
+650,35415,Pohlheim,Gießener Str. 98,"[50.541374, 8.70702]",Langgärtner,2
+651,35423,Lich,Kirchenplatz 1,"[50.520367, 8.81985]",Röhm,5
+652,35435,Wettenberg,Banngartenstr. 1,"[50.62714, 8.63486]",Seidl,5
+653,35447,Reiskirchen,Brunnenstr. 1,"[50.577466, 8.817055]",Fleischer,6
+654,35452,Heuchelheim,Jahnstr. 13,"[50.583301, 8.633015]",Volkmann,2
+655,35519,Rockenberg,Obergasse 7,"[50.428993, 8.736133]",Schmidt,3
+656,35576,Wetzlar,Hohe Str. 5,"[50.564831, 8.476897]",Eckhardt,2
+657,35606,Solms,Am Hüttenfeld 4a,"[50.517267, 8.410631]",Die Maisterei,2
+658,35625,Hüttenberg,Hauptstr. 91,"[50.520153, 8.631622]",Weber,4
+659,35633,Lahnau,Kreuzerstr. 33,"[50.586007, 8.54857]",Drescher,2
+660,35638,Leun,Wetzlarer Str. 14,"[50.548878, 8.358086]",Die Maisterei,2
+661,35641,Schöffengrund,Hauptstr. 28,"[50.496316, 8.471047]",Schuppner & Koschare,3
+662,35683,Dillenburg,Hauptstr. 85,"[50.774428, 8.302461]",Stoll,7
+663,35708,Haiger,Haigerer Str. 36,"[50.791547, 8.204967]",Paul,2
+664,35708,Haiger,Hauptstr. 23,"[50.741576, 8.205596]",Steinseifer,4
+665,35716,Dietzhölztal,Mittelbergstr. 15,"[50.829162, 8.311602]",Der Bienenwiesenbäcker,2
+666,35745,Herborn,Burger Hauptstr. 40,"[50.694121, 8.303008]",Weber,2
+667,36037,Fulda,Petersberger Str. 48,"[50.55001, 9.686799]",Regulski,2
+668,36037,Fulda,Severiberg 4,"[50.552103, 9.674203]",Ballmaier,13
+669,36039,Fulda,Bonifatiusstr. 11,"[50.564149, 9.660501]",Dietrich,3
+670,36137,Großenlüder,Mittelstr. 23,"[50.592109, 9.541178]",Brähler,2
+671,36163,Poppenhausen,Hohensteg 5,"[50.499071, 9.876088]",Gensler,2
+672,36179,Bebra,Hersfelder Str. 109,"[50.962215, 9.791992]",Thiel,2
+673,36251,Bad Hersfeld,Kathuser Str. 1,"[50.871183, 9.757227]",Lerch,2
+674,36251,Bad Hersfeld,Linggplatz 15,"[50.867484, 9.705916]",Jäger,11
+675,36277,Schenklengsfeld,Konroderstr. 1,"[50.817338, 9.834916]",Reichardt,2
+676,36304,Alsfeld,Mellenbergstr. 11,"[50.759015, 9.272151]",Köhler,3
+677,36323,Grebenau-Udenhausen,Bürgermeister-Lorentz-Str. 12,"[50.712801, 9.448394]",Udenhausener Bauernbrot,2
+678,36326,Antrifttal,Alsfelder Str. 5,"[50.788742, 9.195161]",Selzer,2
+679,36341,Lauterbach,Eisenbacher Tor 2,"[50.636141, 9.39577]",Schrimpf,2
+680,36355,Grebenhain,An der Cent 2,"[50.485074, 9.348231]",Müller,8
+681,36396,Steinau,Brüder-Grimm-Str. 101,"[50.311577, 9.455137]",Fink,3
+682,36448,Bad Liebenstein,Herzog-Georg-Str. 32,"[50.815465, 10.352731]",Leinweber,2
+683,37073,Göttingen,Böttingerstr. 21,"[51.526004, 9.929825]",Hemer,9
+684,37073,Göttingen,Weender Str. 88,"[51.536859, 9.934537]",Lutze,8
+685,37130,Gleichen,Steinslieth 2,"[51.492575, 10.009275]",Backhaus,11
+686,37133,Friedland,Landstr. 22,"[51.436071, 9.929517]",Könnecke,3
+687,37136,Göttingen,Zur Nordwiese 3,"[51.566053, 10.135969]",Der Göttinger Feuerbäcker,19
+688,37154,Northeim,Hagenstr. 34,"[51.7044, 10.000021]",Fiebig,3
+689,37170,Uslar,Stiftstr. 2,"[51.661872, 9.639455]",Westbomke,3
+690,37186,Moringen,Am Nonnenbach 5,"[51.73539, 9.791724]",Spellauge,2
+691,37269,Eschwege,Neustadt 66,"[51.184733, 10.059757]",Hufgard,4
+692,37269,Eschwege,Neustadt 2,"[51.184678, 10.06008]",Große,2
+693,37287,Wehretal,Leipziger Str. 27,"[51.133988, 9.968995]",Bechthold-Stange,3
+694,37297,Berkatal,Am Wasser 9,"[51.235172, 9.922234]",Schill,14
+695,37308,Heilbad Heiligenstadt,Wilhelmstr. 49,"[51.377504, 10.13789]",Fromm,2
+696,37308,Heilbad Heiligenstadt,Wilhelmstr. 80,"[51.376866, 10.144555]",Schade,3
+697,37581,Bad Gandersheim,Steinweg,"[51.870718, 10.022745]",Brackel,2
+698,37581,Bad Gandersheim,Am Plan 5,"[51.871077, 10.028062]",Kolle,3
+699,37603,Holzminden,Fürstenbergerstr. 3,"[51.826317, 9.449605]",Jünke,2
+700,37671,Höxter,Schlesische Str. 1,"[51.772202, 9.364443]",Westbomke,3
+701,37671,Höxter,Im Ring 1,"[51.705552, 9.289692]",Bielemeier,3
+702,37671,Höxter,Pyrmonter Str. 37,"[51.735798, 9.363025]",Driehorst,2
+703,37671,Höxter,Im Timpen 3,"[51.707416, 9.304399]",Knepper,2
+704,37691,Boffzen,Obere Dorfstr. 9,"[51.748063, 9.386285]",Westbomke,7
+705,38100,Braunschweig,Kuhstr. 32,"[52.260962, 10.527164]",Fucke,11
+706,38102,Braunschweig,Leisewitzstr. 7,"[52.254504, 10.531004]",Martin,5
+707,38102,Braunschweig,Kastanienallee 16,"[52.263183, 10.543346]",Priemer,2
+708,38102,Braunschweig,Altewiekring 29,"[52.267376, 10.540714]",Brotinsel,2
+709,38106,Braunschweig,Gliesmaroder Str. 107,"[52.27381, 10.539502]",Schütze,5
+710,38106,Braunschweig,Schunterstr. 1,"[52.271942, 10.538056]",Mechau,9
+711,38106,Braunschweig,Gliesmaroder Str. 2,"[52.270952, 10.534482]",Kappes,12
+712,38106,Braunschweig,Dürerstr. 30,"[52.271909, 10.544897]",Mechau,9
+713,38118,Braunschweig,Goslarsche Str. 101,"[52.261631, 10.508214]",Mechau,15
+714,38124,Braunschweig,Leipziger Str. 203,"[52.212274, 10.523089]",Tutschek,2
+715,38159,Vechelde,Mölderweg 1,"[52.254736, 10.412013]",Kummer,3
+716,38162,Cremlingen,Destedter Hauptstr. 10,"[52.238687, 10.705914]",Destedter Backhaus,3
+717,38173,Evessen,Dorfstr. 20,"[52.187988, 10.710976]",Brot und Wein,6
+718,38271,Baddeckenstedt,Lindenstr. 6,"[52.087565, 10.232928]",Jendraß,2
+719,38304,Wolfenbüttel,Dr.-Heinrich-Jasper-Str. 65,"[52.163997, 10.526219]",Richter,2
+720,38350,Helmstedt,Braunschweiger Str. 11,"[52.22871, 11.004389]",Durzynski,3
+721,38440,Wolfsburg,Stadtbrücke,"[52.429236, 10.791459]",Das Brot,3
+722,38442,Wolfsburg,Westerbreite 45,"[52.421181, 10.704908]",Kutzner,7
+723,38477,Jembke,Hoitlinger Str. 4,"[52.497903, 10.762088]",Arste,2
+724,38486,Apenburg,Vorderstr. 23,"[52.707968, 11.203463]",Landbäckerei,6
+725,38518,Gifhorn,Braunschweiger Str. 88,"[52.46817, 10.542562]",Pöthig,6
+726,38536,Meinersen,Dorfstr. 14,"[52.4842, 10.336229]",Hacke,7
+727,38678,Clausthal-Zellerfeld,Adolph-Römer-Str. 5,"[51.804873, 10.333615]",Biel,3
+728,38685,Langelsheim,Freiheitsstr. 8,"[51.936977, 10.336688]",Grauer,2
+729,38723,Seesen,Lange Str. 54,"[51.889666, 10.171327]",Reubert,3
+730,38855,Wernigerode,Marktstr. 37,"[51.831667, 10.78626]",Hellmund,5
+731,39108,Magdeburg,Immermannstr. 14,"[52.135145, 11.609143]",Braune,20
+732,39108,Magdeburg,Arndtstr. 48,"[52.128548, 11.612105]",Ebel,28
+733,39112,Magdeburg,Leipziger Str. 68,"[52.117601, 11.619945]",Mund,4
+734,39164,Wanzleben-Börde,Rabbethgestr. 7,"[52.070142, 11.359613]",Groth,2
+735,39175,Gerwisch,Breiter Weg 18,"[52.17374, 11.747019]",Döring,2
+736,39261,Zerbst,Breite 17,"[51.964594, 12.087424]",Handrich,48
+737,39279,Möckern,Alte Str. 9,"[52.114881, 12.075832]",Görner,2
+738,39326,Colbitz,Lindenstr. 23,"[52.302423, 11.593921]",Düsedau,5
+739,39606,Berge,Lindenstr. 7,"[52.820753, 11.996511]",Obara,3
+740,40210,Düsseldorf,Oststr. 113,"[51.222009, 6.785684]",Schlüter,2
+741,40211,Düsseldorf,Schirmerstr. 80,"[51.229736, 6.796315]",Allee-Café,6
+742,40213,Düsseldorf,Carlsplatz 24,"[51.223839, 6.773068]",Bastian's,4
+743,40213,Düsseldorf,Hohe Str. 31,"[51.221208, 6.773963]",Hinkel,50
+744,40213,Düsseldorf,Mittelstr. 25,"[51.223929, 6.774124]",Hinkel,50
+745,40215,Düsseldorf,Hohe Str. 31,"[51.221208, 6.773963]",Hinkel,2
+746,40219,Düsseldorf,Friedenstr. 56,"[51.210468, 6.76663]",Tiggelkamp,2
+747,40239,Düsseldorf,Rethelstr. 144,"[51.23834, 6.799568]",Schüren,2
+748,40468,Düsseldorf,Irenenstr. 82,"[51.26831, 6.777942]",Jösten,5
+749,40474,Düsseldorf,Uerdinger Str. 28,"[51.250221, 6.764131]",Kapust,2
+750,40474,Düsseldorf,Alte Flughafenstr. 11,"[51.273808, 6.746691]",Lück,3
+751,40476,Düsseldorf,Ulmenstr. 120,"[51.250623, 6.781629]",Hercules,24
+752,40477,Düsseldorf,Nordstr. 77,"[51.239002, 6.78041]",Schüren,6
+753,40479,Düsseldorf,Duisburgerstr. 50,"[51.235329, 6.782576]",Terbuyken,4
+754,40545,Düsseldorf,Luegallee 21,"[51.231375, 6.757879]",Puppe,2
+755,40593,Düsseldorf,Reutlinger Str. 9,"[51.151916, 6.877045]",Pohl,7
+756,40593,Düsseldorf,Gänsestr. 2,"[51.14646, 6.864836]",Zimtstern,4
+757,40597,Düsseldorf,Hauptstr. 5,"[51.162627, 6.873932]",Schüren,2
+758,40625,Düsseldorf,Benderstr. 99,"[51.238701, 6.849924]",Schmalz,3
+759,40668,Meerbusch,Uerdinger Str. 87,"[51.30876, 6.676328]",Schmedders,2
+760,40668,Meerbusch,Hauptstr. 36,"[51.301052, 6.68209]",Wieler,2
+761,40668,Meerbusch,Hauptstr. 39,"[51.30337, 6.680575]",Bölte,6
+762,40670,Meerbusch,Düsseldorfer Straße 116,"[51.244472, 6.697824]",Wieler,2
+763,40670,Meerbusch,Strümper Str. 60,"[51.27482, 6.628145]",Hilgers,7
+764,40723,Hilden,Baustr. 47,"[51.163299, 6.942851]",Suckow,2
+765,40724,Hilden,Mühlenbachweg 9,"[51.170757, 6.951182]",Schüren,13
+766,40885,Ratingen,Speestr. 24,"[51.335439, 6.833516]",Steingen,2
+767,4103,Leipzig,Hans-Poeche-Str. 13,"[51.345065, 12.389128]",Göbecke,19
+768,4105,Leipzig,Feuerbachstr. 21,"[51.345512, 12.355124]",Schultz,6
+769,4105,Leipzig,Hinrichsenstr. 30,"[51.344471, 12.359115]",Böhm,7
+770,4105,Leipzig,Gustav-Adolf-Str. 42,"[51.343582, 12.35975]",Drescher,2
+771,4105,Leipzig,Eutritzscher Str. 15a,"[51.350055, 12.376496]",Falland,2
+772,41061,Mönchengladbach,Eickener Str. 74,"[51.202148, 6.445521]",Keusen,14
+773,41061,Mönchengladbach,Marktstieg 8,"[51.194752, 6.432646]",Oehmen,7
+774,41061,Mönchengladbach,Am Steinberg 70,"[51.200743, 6.421303]",Klütsch,20
+775,41061,Mönchengladbach,Aachener Str. 144,"[51.192245, 6.424069]",Hommers,2
+776,41061,Mönchengladbach,Sandradstr. 28,"[51.197099, 6.430522]",Hommers,2
+777,41063,Mönchengladbach,Eickener Str. 74,"[51.215698, 6.448387]",Keusen,2
+778,41063,Mönchengladbach,Eickener Str. 284,"[51.211228, 6.448379]",Boos,4
+779,41063,Mönchengladbach,Marktfeldstr. 91,"[51.20093, 6.421135]",Klütsch,3
+780,41063,Mönchengladbach,Lindenstr. 82,"[51.201842, 6.422691]",Landen,2
+781,41065,Mönchengladbach,Neusser Str. 293,"[51.204284, 6.476056]",Clerx,19
+782,41065,Mönchengladbach,Pescherstr. 217,"[51.194648, 6.456002]",Deussen,3
+783,41066,Mönchengladbach,Dünner Str. 195,"[51.22453, 6.467915]",Jacobs,2
+784,41068,Mönchengladbach,Roermonderstr. 414,"[51.19796, 6.390379]",Beines,2
+785,41068,Mönchengladbach,Venner Gasse 1,"[51.206694, 6.39121]",Riethmacher,5
+786,41069,Mönchengladbach,Aachener Str. 422,"[51.182565, 6.410055]",Schiffer,2
+787,41069,Mönchengladbach,Hehner Str. 195,"[51.186847, 6.404755]",Gingter,3
+788,4107,Leipzig,Riemannstr. 48,"[51.331416, 12.372951]",Friedemann,7
+789,4107,Leipzig,Beethovenstr. 21,"[51.331897, 12.366467]",Lotzmann,3
+790,4109,Leipzig,Markgrafenstr. 10,"[51.337543, 12.372274]",Macis,3
+791,4109,Leipzig,Friedrich-Ebert-Str. 33,"[51.337586, 12.363773]",Schlett,2
+792,4109,Leipzig,Jahnallee 29,"[51.341988, 12.359317]",Cafe am Waldplatz,3
+793,4109,Leipzig,Zimmerstr. 3,"[51.33762, 12.368158]",Hachmeister,3
+794,41169,Mönchengladbach,Frankenfeld 7,"[51.196948, 6.347037]",Reuß,5
+795,41189,Mönchengladbach,Op de Fleet 38,"[51.132408, 6.416776]",Bähren,2
+796,41199,Mönchengladbach,Hanns-Martin-Schleyer-Str. 43,"[51.115069, 6.442509]",Kelzenberger,2
+797,41238,Mönchengladbach,Am Sternenfeld 63,"[51.161832, 6.484121]",Held,9
+798,41238,Mönchengladbach,Konstantinstr. 249,"[51.155054, 6.49458]",Kaulhausen,3
+799,41238,Mönchengladbach,Konstantinstr. 117,"[51.15632, 6.485044]",Tetz,7
+800,41238,Mönchengladbach,Konstantinstr. 142,"[51.155803, 6.486236]",Hannen,2
+801,41239,Mönchengladbach,Pongser Str. 203,"[51.165996, 6.41258]",Junkers,5
+802,41334,Nettetal,Haagstr. 13,"[51.298163, 6.251128]",Göbbels,4
+803,41352,Korschenbroich,Mühlenstr. 6,"[51.190039, 6.511758]",Otten,47
+804,41352,Korschenbroich,Rheydter Str. 184,"[51.178437, 6.487047]",Huppertz,8
+805,41363,Jüchen,In der Bausch 11,"[51.120665, 6.560595]",Lenders,5
+806,41379,Brüggen,Hülst 2,"[51.29124, 6.196142]",Lehnen,2
+807,41460,Neuss,Breite Str. 14,"[51.194656, 6.691042]",Lohmann,2
+808,41464,Neuss,Rheydter Str. 62,"[51.199247, 6.676195]",Gummersbach,2
+809,41464,Neuss,Am Krausenbaum 42,"[51.18487, 6.685073]",Puppe,2
+810,41468,Neuss,Rheinfährstr. 160,"[51.163949, 6.789877]",Klein,23
+811,41469,Neuss,Bahnstr. 38,"[51.160851, 6.73018]",Soumagne,3
+812,41515,Grevenbroich,Grabenstr. 31,"[51.103412, 6.585051]",Troll,2
+813,41515,Grevenbroich,Noithausener Str. 2,"[51.100202, 6.577903]",Herter,2
+814,41516,Grevenbroich,Am Eichenbroich 29,"[51.115928, 6.650649]",Erschfeld,3
+815,41517,Grevenbroich,Auf dem Wiler 26,"[51.069728, 6.565648]",Spitz,3
+816,41539,Dormagen,Virchowstr. 1-3,"[51.100204, 6.829576]",Kraus,4
+817,41540,Dormagen,Salm-Reifferscheidt-Allee 35c,"[51.061129, 6.818274]",Kraus,3
+818,41540,Dormagen,Heesenstr. 1,"[51.09638, 6.812751]",Kraus,3
+819,41540,Dormagen,Von Stauffenbergstr. 1,"[51.082705, 6.780553]",Kraus,3
+820,41542,Dormagen,Hindenburgstr. 55,"[51.112665, 6.763818]",Kraus,2
+821,41542,Dormagen,Wilhem-Zaun-Str. 62,"[51.094166, 6.840793]",Kraus,2
+822,41569,Rommerskirchen,Venloer Str. 2,"[51.032932, 6.69318]",Voosen,2
+823,41569,Rommerskirchen,Bahnstr. 75,"[51.036334, 6.697092]",Voosen,2
+824,4159,Leipzig,Georg-Schumann-Str. 318,"[51.374551, 12.324279]",Kulbe,6
+825,41751,Viersen,Karlstr. 1,"[51.262803, 6.338429]",Rongelraths,5
+826,4177,Leipzig,Henrichstr. 40,"[51.339183, 12.381055]",Jackisch,9
+827,4178,Leipzig,Bienitzstr. 9,"[51.353167, 12.254468]",Angermann,2
+828,4179,Leipzig,Lützner Str. 164,"[51.33587, 12.331755]",Kleinert,4
+829,4179,Leipzig,Morgensternstr. 2,"[51.334743, 12.311684]",Tippner,2
+830,42103,Wuppertal,Briller Str. 1,"[51.253523, 7.132562]",Myska,21
+831,42105,Wuppertal,Briller Str. 1,"[51.253523, 7.132562]",Myska,6
+832,42105,Wuppertal,Hochstr. 96,"[51.260582, 7.143761]",Myska,6
+833,42107,Wuppertal,Ostersbaum 68,"[51.265304, 7.157834]",Myska,2
+834,42111,Wuppertal,Westfalenweg 11,"[51.28114, 7.125469]",Myska,5
+835,42115,Wuppertal,Briller Str. 1,"[51.265683, 7.13037]",Myska,4
+836,42277,Wuppertal,Kreuzstr. 54,"[51.287294, 7.218109]",Röder,2
+837,4229,Leipzig,Karl-Heine-Str. 40,"[51.332183, 12.335874]",Seidel,5
+838,4229,Leipzig,Weißenfelser Str. 14,"[51.330414, 12.34064]",Die Backbrüder,4
+839,4229,Leipzig,Blümnerstr. 10,"[51.32218, 12.341421]",Jänig (ehem. Erbert),18
+840,4229,Leipzig,Creuziger Str. 3,"[51.317197, 12.326515]",Sperling,9
+841,4229,Leipzig,Naumburger Str. 55,"[51.32684, 12.324915]",Renelt,15
+842,42329,Wuppertal,Bahnstr. 10,"[51.23198, 7.07057]",Schüren,3
+843,42329,Wuppertal,Rubensstr. 1,"[51.230001, 7.06805]",Schüren,3
+844,42369,Wuppertal,Nibelungenstr. 14,"[51.224723, 7.208098]",Fischer,4
+845,42489,Wülfrath,Mettmanner Str. 115,"[51.27635, 7.025613]",Schmitz,2
+846,4249,Leipzig,Huttenstr. 16,"[51.300694, 12.327858]",Freiberger,3
+847,42657,Solingen,Glockenstr. 32,"[51.160429, 7.072119]",Marchese,3
+848,42659,Solingen,Burger Landstr. 82,"[51.158116, 7.117431]",Mondry,2
+849,42697,Solingen,Forststr. 1a,"[51.161336, 6.999996]",Schüren,2
+850,4275,Leipzig,Kochstr. 34,"[51.320539, 12.371287]",Dünkel,8
+851,4275,Leipzig,Karl-Liebknecht-Str. 71,"[51.314931, 12.373238]",Lotzmann,32
+852,4275,Leipzig,Hardenbergstr. 54,"[51.318424, 12.376417]",Unser Schulbäcker,3
+853,4275,Leipzig,Scharnhorststr. 44,"[51.319361, 12.382334]",Perduß,3
+854,4275,Leipzig,Karl-Liebknecht-Str. 137,"[51.316124, 12.373665]",Pflügner,7
+855,4277,Leipzig,Karl-Liebknecht-Str. 165,"[51.310495, 12.373545]",Gey,24
+856,4277,Leipzig,Wolfgang-Heinze-Str. 12,"[51.308843, 12.372983]",Naturbackstube,5
+857,42781,Haan,Marktpassage 3,"[51.193226, 7.01195]",Schüren,3
+858,42799,Leichlingen,Mittelstr. 24,"[51.109202, 7.016411]",Kohls,4
+859,42855,Remscheid,Ronsdorfer Str. 146,"[51.197153, 7.191782]",Kurth,2
+860,4299,Leipzig,Arnoldstr. 30,"[51.320505, 12.418971]",Weck,13
+861,4317,Leipzig,Kippenbergstr. 20,"[51.336099, 12.4062]",Glowka,22
+862,4317,Leipzig,Täubchenweg 47,"[51.336298, 12.400379]",Gey,2
+863,4317,Leipzig,Oststr. 18,"[51.332087, 12.398276]",Eßrich,2
+864,4317,Leipzig,Oststr. 100,"[51.330834, 12.412295]",Wissel,25
+865,4318,Leipzig,Zweinaundorfer Str. 9,"[51.335345, 12.40957]",Hachmeister,2
+866,4318,Leipzig,Sellerhäuser Str. 1,"[51.336629, 12.415078]",Brause,9
+867,4328,Leipzig,Weidlichstr. 1,"[51.3493, 12.43702]",Plötz,3
+868,4347,Leipzig,Zittauer Str. 18,"[51.356239, 12.408306]",Feinbäckerei am Mariannenpark,3
+869,44137,Dortmund,Betenstr. 14,"[51.512846, 7.46724]",Fischer,21
+870,44141,Dortmund,Märkische Str. 137,"[51.500874, 7.481644]",Kohlpoth,2
+871,44143,Dortmund,Davidisstr. 37,"[51.512872, 7.495887]",Dreischulte,10
+872,44147,Dortmund,Rheinische Str. 155,"[51.511506, 7.429354]",Düwell,4
+873,4416,Markkleeberg,Koburger Str. 206,"[51.285194, 12.365699]",Scholz,6
+874,44229,Dortmund,Hagener Str. 357,"[51.448541, 7.457395]",Kreis,5
+875,44265,Dortmund,Am Klusenberg 2,"[51.425463, 7.467148]",Müller's Backes,2
+876,44269,Dortmund,Gevelsbergstr. 26,"[51.496844, 7.536715]",Schürener Backparadies,12
+877,44269,Dortmund,Schüruferstr. 183,"[51.490926, 7.539107]",Musebrink,3
+878,44287,Dortmund,Apolloweg 17,"[51.483146, 7.550367]",Wulff,3
+879,44287,Dortmund,Ravensweg 2,"[51.50063, 7.560729]",Breimhorst,2
+880,44369,Dortmund,Rahmer Str. 33,"[51.52987, 7.413301]",Wulf,4
+881,44532,Lünen,Bebelstr. 47,"[51.603989, 7.525324]",Wulf,2
+882,44628,Herne,Roonstr. 82,"[51.550829, 7.225215]",Stöwe,2
+883,4463,Großpösna,Auenhainer Str. 31,"[51.257793, 12.447975]",Hans,2
+884,44787,Bochum,Huestr. 32,"[51.479969, 7.217666]",Wickenburg,2
+885,44789,Bochum,Wasserstr. 262,"[51.460869, 7.221167]",Bäumer,2
+886,44789,Bochum,Hattinger Str. 66,"[51.470979, 7.211565]",Keul,6
+887,44791,Bochum,Castroper Str. 87,"[51.486484, 7.230301]",Lingemann,6
+888,44791,Bochum,Castroper Str. 199,"[51.491408, 7.242372]",Risken,2
+889,44793,Bochum,Essener Str. 29,"[51.471661, 7.171034]",Naber,2
+890,44795,Bochum,Hattingerstr. 188,"[51.462796, 7.202807]",Hutzel,3
+891,44795,Bochum,Hattinger Str. 188,"[51.462796, 7.202807]",Hutzel,15
+892,44795,Bochum,Karl-Friedrich-Str. 115,"[51.440822, 7.210461]",Hengst,4
+893,44803,Bochum,Wittener Str. 228,"[51.472213, 7.253926]",Wickenburg,22
+894,44866,Bochum,Markusstr. 1,"[51.487309, 7.137608]",Blankenhaus,5
+895,45128,Essen,Kahrstr. 62,"[51.441921, 7.000071]",Holtkamp,2
+896,45130,Essen,Rüttenscheider Str. 119,"[51.436324, 7.005349]",Backbord,3
+897,45133,Essen,Bredeneyer Str. 107,"[51.393882, 6.996905]",Eicker,2
+898,45147,Essen,Holsterhauser Str. 83,"[51.447225, 7.002956]",Ahlf,6
+899,45147,Essen,Gemarkenstr. 43,"[51.441674, 6.995844]",Backbord,2
+900,45239,Essen,Klemensborn 62,"[51.386871, 7.00392]",Küpper,3
+901,45239,Essen,Im Löwental 74,"[51.386319, 6.99838]",Troll,3
+902,45239,Essen,Heckstr. 47,"[51.392974, 7.0002]",Nacke,3
+903,45307,Essen,Hochfeldstr. 159,"[51.460976, 7.092133]",Förster,3
+904,4539,Groitzsch,Altenburger Str. 19,"[51.154262, 12.281191]",Schützka,2
+905,45468,Mülheim,Goetheplatz 3,"[51.434639, 6.894424]",Lübben,6
+906,45472,Mülheim,Paul-Kosmalla-Str. 25,"[51.431798, 6.926824]",Broehenhorst,3
+907,45549,Sprockhövel,Engelsfeld 2,"[51.322431, 7.26126]",Die Zwei,3
+908,4564,Böhlen,Röthaer Str. 19,"[51.200021, 12.390149]",Danz,4
+909,45657,Recklinghausen,Steinstr. 9,"[51.61375, 7.194811]",Prang,2
+910,45659,Recklinghausen,Mühlenstr. 9,"[51.604224, 7.186474]",Hartwig,3
+911,45663,Recklinghausen,Marienstr. 96,"[51.571644, 7.225541]",Küper,4
+912,45721,Haltern am See,Merschstr. 14,"[51.74265, 7.186022]",Wehren,5
+913,45731,Waltrop,Hochstr. 38,"[51.624561, 7.395971]",Hohoff,14
+914,45879,Gelsenkirchen,Hauptstr. 85,"[51.514102, 7.101585]",Wegmann,8
+915,45884,Gelsenkirchen,Achternbergstr. 42,"[51.483771, 7.080018]",König,2
+916,45888,Gelsenkirchen,Hauptstr. 85,"[51.515024, 7.10278]",Wegmann,2
+917,46049,Oberhausen,Bebelstr. 259,"[51.459064, 6.832393]",Kühnen,3
+918,46049,Oberhausen,Alstadener Str. 137,"[51.465771, 6.839635]",Agethen,2
+919,4618,Langenleuba-Niederhain,Hauptstr. 23,"[50.958932, 12.59205]",Hans,2
+920,46240,Bottrop,Osterfeldstr. 117,"[51.521581, 6.929204]",Kiefer,2
+921,46240,Bottrop,Gladbeckerstr. 184,"[51.548401, 6.937573]",Kiefer,2
+922,46282,Dorsten,Kirchhellener Allee 92,"[51.660441, 6.964966]",Krietemeyer,2
+923,46325,Borken,Markt 8,"[51.843355, 6.85856]",Thebing,2
+924,46325,Borken,Augustin-Wibbelt-Str. 4,"[51.865161, 6.857507]",Ingenhorst,2
+925,46325,Borken,Markt 1,"[51.84422, 6.858776]",Mensing,2
+926,46325,Borken,Stegge 9,"[51.905184, 6.856087]",Späker,2
+927,46342,Velen,Südring 52,"[51.876175, 6.915414]",Mensing,8
+928,46342,Velen,Lange Str. 17,"[51.887295, 6.919661]",Mensing,8
+929,46354,Südlohn,Kirchstr. 15,"[51.944523, 6.863963]",Tenk-Bomkamp,7
+930,46359,Heiden,Velener Str. 9,"[51.826958, 6.931897]",Becker,2
+931,4639,Gößnitz,Neubau 11,"[50.885425, 12.431432]",Martin,2
+932,4639,Gößnitz,Neumarkt 7,"[50.888062, 12.431595]",Martin,2
+933,46397,Bocholt,Wesemannstr. 5,"[51.83945, 6.617139]",Schröer,4
+934,46414,Rhede,Burloer Str. 22,"[51.845985, 6.70015]",Stenneken,2
+935,4643,Geithain,Chemnitzer Str. 31,"[51.053064, 12.696998]",Otto,2
+936,46446,Emmerich,Steinstr. 22,"[51.83115, 6.23861]",Korten,2
+937,46459,Rees,Bahnhofstr. 33,"[51.774582, 6.459112]",Jansen,5
+938,46485,Wesel,Feldstr. 11-13,"[51.670693, 6.654603]",Büscher,2
+939,46499,Hamminkeln,Marienvreder Str. 2,"[51.769853, 6.610927]",Wanders,2
+940,46499,Hamminkeln,Brüner Str. 2,"[51.729044, 6.601642]",Overkamp,3
+941,46509,Xanten,Nordwall 5,"[51.663572, 6.450602]",Kriemhildmühle,7
+942,4683,Naunhof,Hauptstr. 14,"[51.235018, 12.549154]",Wolf,2
+943,4688,Grimma,Serkaerstr. 2,"[51.271652, 12.854071]",Wagelwitz,2
+944,47055,Duisburg,Fliederstr. 113a,"[51.402358, 6.756769]",Kabouter,4
+945,47055,Duisburg,Im Schlenk 60f,"[51.401128, 6.773306]",Vormann,4
+946,47058,Duisburg,Martinstr. 51,"[51.435098, 6.78922]",Lufen,5
+947,47058,Duisburg,Moltkestr. 33,"[51.434488, 6.789641]",Rüdel,2
+948,47137,Duisburg,Unter den Ulmen 90,"[51.46492, 6.762019]",Kabouter,2
+949,47229,Duisburg,Kaiserstr. 22,"[51.391036, 6.707269]",Bertram,2
+950,47475,Kamp-Lintfort,Friedrich-Heinrich-Allee 182,"[51.476064, 6.547129]",Berns,2
+951,47475,Kamp-Lintfort,Rundstr. 35,"[51.489108, 6.534626]",Gerhards,7
+952,47509,Rheurdt,Rathausstr. 20,"[51.466089, 6.471328]",Schomaker,14
+953,4758,Cavertitz,Str. der Einheit 23,"[51.384003, 13.038764]",Rentzsch,9
+954,47589,Uedem,Weberplatz 1,"[51.667757, 6.271526]",Spiegelhoff,5
+955,47608,Geldern,Issumer Str. 23,"[51.518182, 6.323474]",Pooten,2
+956,47623,Kevelaer,Busmannstr. 17,"[51.581291, 6.244857]",Jansen-Heursen,2
+957,47623,Kevelaer,Egmontstr. 15,"[51.583613, 6.237445]",Wasser,4
+958,47798,Krefeld,Breite Str. 54,"[51.329537, 6.561306]",Ullrich,4
+959,47804,Krefeld,Hückelsmaystr. 342,"[51.307946, 6.515988]",Weißert,2
+960,47807,Krefeld,Breuershofstr. 33,"[51.29943, 6.566505]",Ullrich,2
+961,47807,Krefeld,Kölner Str. 608,"[51.302424, 6.590551]",Odenthal,2
+962,4808,Lossatal,Kühnitzscher Dorfstr. 2,"[51.381448, 12.827239]",Fischer,5
+963,4808,Wurzen,Am Wachtelberg 18,"[51.351643, 12.734111]",Landgut Nemt,2
+964,4808,Wurzen,Jacobsplatz 7,"[51.370295, 12.739198]",Schwarze,3
+965,48143,Münster,Rothenburg 53,"[51.961227, 7.62725]",Pohlmeyer,8
+966,48143,Münster,Roggenmarkt 1,"[51.963366, 7.627861]",Tollkötter,16
+967,48143,Münster,Rothenburg 53,"[51.961227, 7.62725]",Pohlmeyer,8
+968,48143,Münster,Prinzipalmarkt 42,"[51.962652, 7.62809]",Tollkötter,16
+969,48143,Münster,Rothenburg 20,"[51.960434, 7.624654]",Tollkötter,16
+970,48143,Münster,Bäckergasse 6,"[51.963004, 7.618595]",Der Bäcker & die Kaffeetante,2
+971,48145,Münster,Warendorfer Str. 121,"[51.964802, 7.649883]",Wiemeler,7
+972,48149,Münster,Kellermannstr. 1,"[51.970422, 7.618307]",Uekötter,10
+973,48153,Münster,Südstr. 62,"[51.950263, 7.629283]",Brotkorb,2
+974,48155,Münster,Bremer Str. 56,"[51.95343, 7.636569]",Cibaria,16
+975,48155,Münster,Loddenheide 45,"[51.932099, 7.64515]",Krimphove,3
+976,48163,Münster,Mersmannsstiege 33,"[51.928603, 7.600846]",Tollkötter,4
+977,48231,Warendorf,Industriestr. 1,"[51.920937, 7.964552]",Reeken,2
+978,48249,Dülmen,Lüdinghauserstr. 54,"[51.824336, 7.287515]",Uckelmann,2
+979,48249,Dülmen,Am Luchtkamp 18,"[51.840366, 7.275205]",Böckmann,2
+980,4827,Gerichshain,Leipziger Str. 6,"[51.360235, 12.597787]",Keller,2
+981,4828,Bennewitz,Leipziger Str. 20,"[51.360813, 12.715022]",Schwarze,20
+982,48301,Nottuln,Stiftsplatz 9,"[51.929828, 7.353435]",Boer,3
+983,48336,Sassenberg,Von-Galen-Str. 8,"[51.988114, 8.04159]",Arenhövel,2
+984,48351,Everswinkel,Grothues 12,"[51.931807, 7.854519]",Diepenbrock,2
+985,48351,Everswinkel,Vitusstr. 22,"[51.924845, 7.84476]",Diepenbrock,2
+986,48366,Laer,Hohe Str. 24,"[52.054542, 7.359715]",Lengers,2
+987,48429,Rheine,Elterstr. 40,"[52.277966, 7.448362]",Schönebeck,2
+988,48653,Coesfeld,Borkener Str. 124,"[51.940576, 7.140179]",Mey,4
+989,48653,Coesfeld,Münsterstr. 29,"[51.945203, 7.170268]",Schapmann,2
+990,48683,Ahaus,Wallstr. 9,"[52.075204, 7.005966]",Bio-Laden,2
+991,48691,Vreden,Freiheit 5,"[52.036565, 6.82163]",Geelink,8
+992,48703,Stadtlohn,Stegerstr. 1,"[51.992209, 6.917708]",Zumbusch,2
+993,48727,Billerbeck,Ludgeristr. 10,"[51.978231, 7.290107]",Ahlers,2
+994,49074,Osnabrück,Krahnstr. 4,"[52.276652, 8.04179]",Läer,8
+995,49076,Osnabrück,Birkenallee 64,"[52.273595, 7.956184]",Wellmann,2
+996,49080,Osnabrück,Rehmstr. 14,"[52.265989, 8.034806]",Bröcker,10
+997,49080,Osnabrück,Parkstr. 3,"[52.263533, 8.044395]",Böhne,18
+998,49084,Osnabrück,Meller Str. 67,"[52.255618, 8.087228]",Heuer,3
+999,49088,Osnabrück,Bramscher Str. 47,"[52.28566, 8.041884]",Coppenrath,2
+1000,49152,Bad Essen,Lindenstr. 59,"[52.320341, 8.364741]",Titgemeyer,2
+1001,4916,Herzberg (Elster),Torgauer Str. 20,"[51.691073, 13.230822]",Café Plätzchen,3
+1002,49163,Bohmte,Bremer Str. 54,"[52.375366, 8.305545]",Lübbert,2
+1003,49191,Belm,Lindenstr. 75,"[52.302324, 8.141456]",Steuwer,4
+1004,49196,Bad Laer,Iburger Str. 9,"[52.102415, 8.086992]",Meyer,3
+1005,49214,Bad Rothenfelde,Bahnhofstr. 42,"[52.11221, 8.180249]",Volkmann,5
+1006,49356,Diepholz,Hindenburgstr. 67,"[52.609358, 8.370596]",Härtel,2
+1007,49356,Diepholz,Bahnhofstr. 8,"[52.605436, 8.376076]",Nobbis Lütt Backstuv,2
+1008,49377,Vechta,Bremer Str. 24,"[52.73174, 8.290002]",Meyer,2
+1009,49377,Vechta,Bremer Tor 10,"[52.731101, 8.289726]",Burrichter,5
+1010,49406,Drentwede,Kirchstr. 15,"[52.736749, 8.560604]",Bramstedt,2
+1011,49497,Mettingen,Landrat-Schulz-Str. 1-3,"[52.316166, 7.783688]",Sültemeyer Lampe,2
+1012,49549,Ladbergen,Mühlenstr. 3,"[52.134105, 7.738354]",Blömker,2
+1013,49565,Bramsche,Große Str. 9,"[52.408892, 7.980139]",Tackenberg,4
+1014,49637,Menslage,Bomes Weg 7,"[52.669019, 7.836568]",Wieruper Hof,2
+1015,49808,Lingen,Jägerstr. 28,"[52.537159, 7.32796]",Plock,2
+1016,49809,Lingen,Loosstr. 7a,"[52.515172, 7.326064]",Hinken,6
+1017,49843,Uelsen,Am Markt 3-4,"[52.495299, 6.888171]",Meier's Backshop,3
+1018,50129,Bergheim,Büsdorfer Str. 5a,"[50.974304, 6.679659]",Grumann,2
+1019,50169,Kerpen,Heerstr. 459,"[50.84744, 6.778016]",Heinemann,3
+1020,50169,Kerpen,Hauptstr. 331-335,"[50.898501, 6.716721]",Klein's Backstube,3
+1021,50169,Kerpen,Heerstr. 318,"[50.852757, 6.765333]",Klein's Backstube,3
+1022,50169,Kerpen,Heerstr. 507,"[50.845357, 6.784464]",Klein's Backstube,3
+1023,50169,Kerpen,Hauptstr. 164,"[50.91409, 6.710001]",Heinemann,3
+1024,50169,Kerpen,Am Park 8,"[50.869635, 6.694734]",Heinemann,3
+1025,50189,Elsdorf,Eschgasse 11,"[50.937131, 6.56983]",Wolf,2
+1026,50226,Frechen,Klosterstr. 73,"[50.913761, 6.749144]",Klein's Backstube,8
+1027,50226,Frechen,Hauptstr. 119,"[50.909712, 6.807179]",Klein's Backstube,8
+1028,50226,Frechen,Aachener Str. 587,"[50.936147, 6.773632]",Klein's Backstube,8
+1029,50226,Frechen,Hohenschutzstr. 2,"[50.907726, 6.788881]",Klein's Backstube,8
+1030,50226,Frechen,Hubert-Prott-Str. 155,"[50.904669, 6.812595]",Klein's Backstube,8
+1031,50226,Frechen,Aachener Str. 682,"[50.93637, 6.773327]",Mohr,12
+1032,50226,Frechen,Aegidiusstr. 13,"[50.923007, 6.802507]",Klein's Backstube,8
+1033,50226,Frechen,Europaallee 13,"[50.915429, 6.834623]",Klein's Backstube,8
+1034,50226,Frechen,Hauptstr. 60,"[50.910002, 6.814565]",Halver,2
+1035,50226,Frechen,Ulrichstr. 55,"[50.92798, 6.794244]",Klein's Backstube,8
+1036,50226,Frechen,Hauptstr. 124,"[50.909104, 6.807667]",Heinemann,2
+1037,50259,Pulheim,Order Str. 25,"[51.003926, 6.81025]",Voosen,8
+1038,50259,Pulheim,Eschgasse 11,"[51.01808, 6.755629]",Flock,2
+1039,50259,Pulheim,Josef-Gladbach-Platz 12,"[51.01992, 6.760906]",Voosen,8
+1040,50259,Pulheim,Ehrenfriedstr. 24,"[50.962605, 6.781289]",Voosen,8
+1041,50259,Pulheim,Sintherner Str. 59,"[50.977519, 6.785446]",Klein's Backstube,2
+1042,50259,Pulheim,Auf dem Driesch 9,"[50.998592, 6.802071]",Voosen,8
+1043,50259,Pulheim,Sachsstr. 7,"[50.958596, 6.801916]",Voosen,8
+1044,50259,Pulheim,Farehamstr. 200,"[50.998934, 6.801207]",Klein's Backstube,2
+1045,50259,Pulheim,Nordring 28,"[51.003137, 6.812004]",Voosen,8
+1046,50259,Pulheim,Venloer Str. 95,"[50.987789, 6.829577]",Kayser,6
+1047,50259,Pulheim,von-Frentz-Str. 9,"[50.981322, 6.786293]",Voosen,8
+1048,50321,Brühl,Uhlstr. 34,"[50.824828, 6.900065]",Klein's Backstube,6
+1049,50321,Brühl,Thüringer Platz 12,"[50.8399, 6.895546]",Klein's Backstube,6
+1050,50321,Brühl,Steingasse 4,"[50.806814, 6.898932]",Klein's Backstube,6
+1051,50321,Brühl,Lessingstr. 1-3,"[50.821761, 6.894054]",Klein's Backstube,6
+1052,50321,Brühl,Bergerstr. 3,"[50.830117, 6.921776]",Klein's Backstube,6
+1053,50321,Brühl,Berzdorferstr. 3,"[50.837397, 6.919273]",Klein's Backstube,6
+1054,50354,Hürth,Kaulardstr. 47,"[50.895108, 6.901177]",Schmitz & Nittenwilm,3
+1055,50354,Hürth,Horbeller Str. 4,"[50.887112, 6.878013]",Schmitz & Nittenwilm,3
+1056,50354,Hürth,Ernst-Reuter-Str. 34,"[50.8882, 6.830647]",Heinemann,3
+1057,50354,Hürth,Luxemburger Str. 71,"[50.897481, 6.908453]",Heinemann,3
+1058,50354,Hürth,Von-Geyr-Ring 76,"[50.880817, 6.84728]",Welter,2
+1059,50354,Hürth,Weierstr. 41,"[50.869252, 6.867822]",Dittmann,2
+1060,50354,Hürth,Eschweilerstr. 2,"[50.873012, 6.888295]",Heinemann,3
+1061,50374,Erftstadt,Kölner Ring 2,"[50.802909, 6.779885]",Klein's Backstube,3
+1062,50374,Erftstadt,Peter-May-Str. 3,"[50.82643, 6.806509]",Klein's Backstube,3
+1063,50374,Erftstadt,An der Patria 13,"[50.798144, 6.777456]",Heinemann,3
+1064,50374,Erftstadt,Markt 26,"[50.799809, 6.76614]",Heinemann,3
+1065,50374,Erftstadt,Gustav Heinemannstr. 2,"[50.801447, 6.815515]",Klein's Backstube,3
+1066,50374,Erftstadt,Frankenstr. 60,"[50.782277, 6.819465]",Horst,4
+1067,50374,Erftstadt,Schloßstr. 8,"[50.800633, 6.766678]",Schloßcafé Minten,5
+1068,50374,Erftstadt,Schloßstr. 6,"[50.800576, 6.766676]",Minten,2
+1069,50374,Erftstadt,Dirmenzeimer Str. 48,"[50.789982, 6.781549]",Heinemann,3
+1070,50389,Wesseling,Sternenstr. 1-3,"[50.831538, 6.946625]",Meschede,3
+1071,50667,Köln,Apostelnstr. 27,"[50.938336, 6.944943]",Balkhausen,53
+1072,50667,Köln,Neumarkt 8-10,"[50.936776, 6.94794]",Merzenich,2
+1073,50667,Köln,Auf dem Berlich 3-5,"[50.939396, 6.947693]",Bastians,3
+1074,50668,Köln,Blumenthalstr. 68,"[50.955027, 6.965267]",Brotspezialist,20
+1075,50668,Köln,Eigelstein 89-91,"[50.947986, 6.956521]",Merzenich,2
+1076,50670,Köln,Blumenthalstr. 68,"[50.955347, 6.962702]",Koett,4
+1077,50670,Köln,Neusser Str. 30,"[50.952589, 6.957383]",Epi,3
+1078,50670,Köln,Weißenburgstr. 62,"[50.953816, 6.960664]",Kohlenbeck,2
+1079,50672,Köln,Ehrenstr. 75,"[50.93822, 6.940439]",Zimmermann,46
+1080,50672,Köln,Brüsseler Platz 4,"[50.938608, 6.935044]",Becher,2
+1081,50674,Köln,Brüsseler Str. 50,"[50.936964, 6.934793]",Probst,3
+1082,50674,Köln,Zülpicher Str. 3,"[50.92985, 6.938784]",Schmitz & Nittenwilm,3
+1083,50674,Köln,Barbarossaplatz 1,"[50.928348, 6.94212]",Schmitz & Nittenwilm,3
+1084,50674,Köln,Hohenstaufenring 29-37,"[50.931703, 6.940071]",Schmitz & Nittenwilm,3
+1085,50676,Köln,Kleiner Griechenmarkt 42,"[50.931026, 6.947632]",Probst,5
+1086,50677,Köln,Salierring 4,"[50.926522, 6.946449]",Newzella,3
+1087,50677,Köln,Salierring 4,"[50.926522, 6.946449]",Newzella,3
+1088,50677,Köln,Merowingerstr. 24,"[50.92056, 6.956497]",Schmitz & Nittenwilm,2
+1089,50678,Köln,Severinstr. 59,"[50.924344, 6.95854]",Saitner,4
+1090,50678,Köln,Severinstr. 5,"[50.922219, 6.959074]",Brochmann,7
+1091,50679,Köln,Deutzer Freiheit 53-57,"[50.9369, 6.976531]",Hansen,3
+1092,50679,Köln,Deutzer Freiheit 112,"[50.93685, 6.977067]",Hütten,5
+1093,50733,Köln,Simon-Meister-Str. 40,"[50.966086, 6.950887]",Güsgen,11
+1094,50733,Köln,Neusser Str. 455,"[50.972596, 6.950864]",Newzella,2
+1095,50733,Köln,Kuenstr. 23,"[50.96124, 6.957621]",Lautwein,9
+1096,50733,Köln,Nohlstr. 24,"[50.958942, 6.945796]",Hardt,2
+1097,50733,Köln,Neusser Str. 319,"[50.959949, 6.954473]",Stöve,5
+1098,50733,Köln,Sechzigstr. 23,"[50.959306, 6.944423]",Adolph,2
+1099,50735,Köln,Stammheimer Str. 107,"[50.964765, 6.976373]",Schmidt,6
+1100,50735,Köln,Barbarastr. 3,"[50.970332, 6.972256]",Schmitz & Nittenwilm,3
+1101,50735,Köln,Sebastianstr. 28-32,"[50.989473, 6.961346]",Schmitz & Nittenwilm,3
+1102,50735,Köln,Weidenpescher Str. 1,"[50.977175, 6.960388]",Schmitz & Nittenwilm,3
+1103,50735,Köln,Stammheimer Str. 125,"[50.965539, 6.977045]",Kraus,2
+1104,50735,Köln,Niehler Str. 312,"[50.975576, 6.960091]",Kraus,2
+1105,50737,Köln,Neusser Str. 559,"[50.9803, 6.947918]",Adolph,9
+1106,50739,Köln,Robert-Perthel-Str. 86,"[50.990579, 6.906687]",Kraus,2
+1107,50739,Köln,Schiefersburger Weg 17,"[50.968798, 6.938735]",Kraus,2
+1108,50739,Köln,Escher Str. 75,"[50.959117, 6.940001]",Vecker,8
+1109,50765,Köln,Mailänder Passage 1,"[51.020318, 6.896412]",Kraus,3
+1110,50765,Köln,Frohnhofstr. 28,"[51.014849, 6.859187]",Kraus,3
+1111,50765,Köln,Geiersbergstr. 78-80,"[51.035528, 6.881866]",Kraus,3
+1112,50767,Köln,Johannisstr. 2,"[50.554367, 6.764207]",Voosen,2
+1113,50767,Köln,Donatusstr. 8,"[51.004662, 6.871558]",Voosen,2
+1114,50767,Köln,Longericher Str. 29,"[50.998217, 6.877054]",Kraus,2
+1115,50769,Köln,Merkenicher Hauptstr. 170,"[51.026406, 6.958125]",Grüttner,3
+1116,50769,Köln,Hackhauser Weg 4,"[51.063428, 6.862555]",Schüler,3
+1117,50769,Köln,St.-Tönnis-Str. 110,"[51.054531, 6.852004]",Newrzella,2
+1118,50769,Köln,St.-Tönis-Str. 55,"[51.063464, 6.863472]",Kraus,4
+1119,50769,Köln,Neusser Landstr. 57,"[51.038031, 6.902738]",Kraus,4
+1120,50769,Köln,Merkenicher Hauptstr. 150,"[51.024889, 6.959672]",Kraus,4
+1121,50769,Köln,Bitterstr. 4,"[51.064097, 6.859778]",Kraus,4
+1122,50769,Köln,Matareweg 51,"[51.018981, 6.901063]",Newrzella,2
+1123,50823,Köln,Ottostr. 61,"[50.95467, 6.924772]",Becher,5
+1124,50823,Köln,Ehrenfeldgürtel 151,"[50.954914, 6.92119]",Schweitzer,6
+1125,50823,Köln,Venloer Str. 290,"[50.948454, 6.920249]",Merzenich,2
+1126,50823,Köln,Venloer Str. 344,"[50.950055, 6.917186]",Merzenich,2
+1127,50825,Köln,Leyendeckerstr. 2a,"[50.951048, 6.908461]",Klein's Backstube,2
+1128,50825,Köln,Subbelrather Str. 277,"[50.956604, 6.912993]",Schragen,3
+1129,50825,Köln,Iltisstr. 6,"[50.957783, 6.91892]",Klötsch,12
+1130,50825,Köln,Alpenerplatz 1,"[50.955973, 6.906605]",Valerien,6
+1131,50827,Köln,Venloer Str. 601-603,"[50.95727, 6.899396]",Kraus,3
+1132,50827,Köln,Masiusstr. 1,"[50.96774, 6.900679]",Kuhl,2
+1133,50827,Köln,Mathias-Brüggen-Str. 80,"[50.97691, 6.891874]",Kraus,3
+1134,50829,Köln,Görlinger Zentrum 24,"[50.979716, 6.867561]",Voosen,2
+1135,50829,Köln,Hauptstr. 100,"[50.967282, 6.839969]",Voosen,2
+1136,50858,Köln,Bistritzer Str. 94,"[50.932387, 6.842576]",Schmitz & Nittenwilm,3
+1137,50858,Köln,René-Magritte-Promenade 1,"[50.924594, 6.872983]",Schmitz & Nittenwilm,3
+1138,50858,Köln,Wilhelm-von-Capitaine-Str. 9,"[50.93085, 6.855067]",Pulm,6
+1139,50858,Köln,Kirchweg 133-135,"[50.932228, 6.857853]",Schmitz & Nittenwilm,3
+1140,50931,Köln,Dürener Str. 199-203,"[50.929999, 6.913973]",Merzenich,2
+1141,50931,Köln,Dürener Str. 100,"[50.931847, 6.919975]",Merlê,12
+1142,50931,Köln,Dürener Str. 142,"[50.930735, 6.917039]",Merzenich,2
+1143,50933,Köln,Widdersdorfer Str. 407,"[50.947113, 6.886394]",Klein,2
+1144,50933,Köln,Aachener Str. 517,"[50.936981, 6.899179]",Ecke,13
+1145,50935,Köln,Gleueler Str. 241,"[50.921852, 6.907581]",Bergheim,13
+1146,50937,Köln,Luxemburger Str. 244,"[50.916134, 6.927591]",Schmitz & Nittenwilm,4
+1147,50937,Köln,Sülzgürtel 96,"[50.920264, 6.915633]",Bergheim's,10
+1148,50937,Köln,Weißhausstr. 18-20,"[50.920811, 6.932797]",Klein's Backstube,3
+1149,50937,Köln,Sülzburgstr. 48,"[50.916355, 6.926204]",Klein's Backstube,3
+1150,50937,Köln,Weyertal 1,"[50.921552, 6.928829]",Schmitz & Nittenwilm,4
+1151,50937,Köln,Rheinbacher Str. 34,"[50.919336, 6.919742]",Schmitz & Nittenwilm,4
+1152,50937,Köln,Berrenrather Str. 367,"[50.915192, 6.922122]",Schmitz & Nittenwilm,4
+1153,50939,Köln,Siebengebirgsallee 70,"[50.911691, 6.928576]",Merscher,11
+1154,50968,Köln,Bonner Str. 211,"[50.91173, 6.96347]",Schmitz & Nittenwilm,2
+1155,50968,Köln,Bonner Str. 231,"[50.910078, 6.963153]",Merzenich,2
+1156,50968,Köln,Golsteinstr. 91,"[50.9081938, 6.9705882]",Merzenich,4
+1157,50969,Köln,Vorgebirgsstr. 16,"[50.812831, 6.995376]",Schmitz & Nittenwilm,5
+1158,50969,Köln,Leichweg 1,"[50.904959, 6.950229]",Schmitz & Nittenwilm,5
+1159,50969,Köln,Weyerstr. 147,"[50.930423, 6.94426]",Schmitz & Nittenwilm,5
+1160,50996,Köln,Hauptstr. 130,"[50.891236, 6.996312]",Merscher,2
+1161,50997,Köln,Otto-Hahn-Str. 6-8,"[50.859598, 6.971725]",Klein's Backstube,4
+1162,50997,Köln,Alte Kölnstr. 1,"[50.860472, 6.926858]",Klein's Backstube,4
+1163,50997,Köln,Rondorfer Hauptstr. 31,"[50.873398, 6.954057]",Klein's Backstube,4
+1164,50997,Köln,Rodenkirchener Str. 150,"[50.876342, 6.95837]",Klein's Backstube,4
+1165,50999,Köln,Sürther Hauptstr. 261,"[50.870189, 7.024063]",Pistono,4
+1166,51061,Köln,Edelhofstr. 15,"[50.999159, 6.980631]",Kraus,2
+1167,51063,Köln,Adam-Stegerwald-Str. 7,"[50.950357, 6.989354]",Kohlenbeck,2
+1168,51063,Köln,Dünnwalder Str. 34,"[50.968278, 7.004963]",Kohlenbeck,2
+1169,51065,Köln,Frankfurter Str. 48,"[50.952879, 7.014269]",Merzenich,2
+1170,51065,Köln,Frankfurter Str. 15,"[50.952879, 7.014269]",Merzenich,2
+1171,51067,Köln,Bergisch Gladbacherstr. 585,"[50.967784, 7.036284]",Schlechtrimen,4
+1172,51067,Köln,Piccoloministr. 304,"[50.97183, 7.043088]",Ährensache,5
+1173,51069,Köln,Diepeschrather Str. 29,"[50.984445, 7.067822]",Förster,2
+1174,51069,Köln,Berliner Str. 850,"[50.996627, 7.037214]",Graetz,2
+1175,51069,Köln,Berliner Str. 923,"[50.995475, 7.035558]",Heinrich,7
+1176,51103,Köln,Kalker Hauptstr. 210,"[50.938465, 7.007444]",Schlechtrimen,7
+1177,51103,Köln,Istanbulstr. 20,"[50.94381, 6.99618]",Klein's Backstube,2
+1178,51103,Köln,Kalker Hauptstr. 78,"[50.937407, 6.999254]",Klein's Backstube,2
+1179,51103,Köln,Kalker Hauptstr. 102,"[50.937575, 7.000808]",Hesterbrink,26
+1180,51105,Köln,Usingerstr. 37,"[50.932843, 6.999167]",Johannsen,2
+1181,51107,Köln,Rösrather Str. 547,"[50.92247, 7.081251]",Lauten,10
+1182,51107,Köln,Rösrather Str. 592,"[50.921784, 7.083227]",Arminius,4
+1183,51145,Köln,Frankfurter Str. 601,"[50.894684, 7.078263]",Hardt,2
+1184,51145,Köln,Frankfurter Str. 565,"[50.891701, 7.077792]",Hardt,2
+1185,51147,Köln,Friedensstr. 57,"[50.87607, 7.098958]",Hardt,2
+1186,51147,Köln,Heidestr. 161,"[50.859395, 7.098917]",Hardt,2
+1187,51371,Leverkusen,Hitdorfer Str. 248,"[51.051894, 6.941422]",Eilers,4
+1188,51373,Leverkusen,Otto-Grimm-Str. 1,"[51.031087, 6.985721]",Merzenich,2
+1189,51373,Leverkusen,Friedrich-Ebert-Platz 7,"[51.032036, 6.988142]",Merzenich,2
+1190,51375,Leverkusen,Saarstr. 69,"[51.022166, 7.050798]",Curtius,2
+1191,51379,Leverkusen,Düsseldorfer Str. 11,"[51.074356, 6.994335]",Nöres,2
+1192,51399,Burscheid,Kölner Str. 50,"[51.099592, 7.153106]",Kretzer,4
+1193,51427,Bergisch Gladbach,Wickenpfädchen 7,"[50.953848, 7.117534]",Eilers,5
+1194,51429,Bergisch Gladbach,Kölner Str. 71-77,"[50.965525, 7.155355]",Kraus,2
+1195,51429,Bergisch Gladbach,Ball 20,"[50.986989, 7.191894]",Der Backofen,2
+1196,51467,Bergisch Gladbach,Altenberger-Dom-Str. 100,"[51.022548, 7.088584]",Pieper,3
+1197,51469,Bergisch Gladbach,De-Gasperi-Str. 1,"[50.976975, 7.122235]",Merzenich,2
+1198,51469,Bergisch Gladbach,Flachsberg 14,"[50.99924, 7.101761]",Lob,6
+1199,51469,Bergisch Gladbach,Gustav-Stresemann-Str. 16,"[50.989963, 7.10698]",Scherbarth,4
+1200,51503,Rösrath,Hauptstr. 270,"[50.915531, 7.198368]",Rosenow,4
+1201,51688,Wipperfürth,Untere Str. 43,"[51.117701, 7.397948]",Felder,2
+1202,52062,Aachen,Templergraben 2,"[50.775668, 6.075901]",Kaussen,10
+1203,52064,Aachen,Templergraben 1,"[50.77558, 6.075483]",Kaussen,6
+1204,52064,Aachen,Königstr. 42,"[50.775704, 6.076078]",Kaussen,6
+1205,52064,Aachen,Jakobstr. 88,"[50.773724, 6.078062]",Simais,2
+1206,52066,Aachen,Dammstr. 10,"[50.763998, 6.093587]",Dahmen,3
+1207,52070,Aachen,Adalbertsteinweg 56,"[50.774375, 6.100941]",Mehlkopf,11
+1208,52070,Aachen,Jülicherstr. 313,"[50.789192, 6.115286]",Töllerei,5
+1209,52072,Aachen,Roermonderstr. 14,"[50.782633, 6.077247]",Kaussen,16
+1210,52074,Aachen,Hasselholzer Weg 2,"[50.763498, 6.068646]",Mannebach,11
+1211,52074,Aachen,Ahornstr. 35,"[50.780203, 6.062047]",Moss,3
+1212,52080,Aachen,Steinstr. 6,"[50.778052, 6.157953]",Schauer,6
+1213,52134,Herzogenrath,Oststr. 35,"[50.84116, 6.098856]",Baggen,6
+1214,52134,Herzogenrath,Kleikstr. 27,"[50.8678, 6.092209]",Heep,2
+1215,52349,Düren,Oberstr. 43,"[50.800146, 6.485136]",Reinartz,2
+1216,52379,Langerwehe,Hauptstr. 5,"[50.81851, 6.356159]",Peters Landbrot,6
+1217,52388,Nörvenich,Marktplatz 5,"[50.806947, 6.644829]",Klein's Backstube,2
+1218,52388,Nörvenich,Gewerbepark 12,"[50.808375, 6.658631]",Klein's Backstube,2
+1219,52428,Jülich,Kleine Rurstr. 15,"[50.921307, 6.356707]",Mainz-Weitz,4
+1220,52428,Jülich,Marktstr. 6,"[50.92122, 6.357917]",Mainz-Weitz,4
+1221,52525,Heinsberg,Industriestr. 54a,"[51.061744, 6.115895]",Dick,2
+1222,52538,Gangelt,Bahnhofstr. 147,"[51.010313, 6.060235]",Maria von Heel,4
+1223,53111,Bonn,Römerstr. 96,"[50.745417, 7.099778]",Schell,4
+1224,53111,Bonn,Heerstr. 141,"[50.737509, 7.090452]",Klein,3
+1225,53111,Bonn,Wenzelgasse 7,"[50.736031, 7.102223]",Bergfeld's,4
+1226,53111,Bonn,Adolfstr. 53,"[50.739906, 7.090426]",Klein,3
+1227,53113,Bonn,Reuterstr. 105,"[50.721427, 7.103728]",Kocaman,4
+1228,53121,Bonn,Frongasse 33,"[50.726423, 7.074735]",Gruhn,27
+1229,53127,Bonn,Ippendorfer Allee 135,"[50.70384, 7.082142]",Laib & Seele,5
+1230,53129,Bonn,Burbacher Str. 161,"[50.713656, 7.109862]",Pesch,20
+1231,53129,Bonn,Hausdorffstr. 181,"[50.70932, 7.109517]",Zimmermann,4
+1232,53173,Bonn,Plittersdorfer Str. 142,"[50.695095, 7.161369]",Markmann,2
+1233,53175,Bonn,Annaberger Str. 211,"[50.696099, 7.124768]",Ott,3
+1234,53175,Bonn,Annabergerstr. 204,"[50.695842, 7.124079]",Markmann,2
+1235,53177,Bonn,Brunnenallee 1,"[50.679848, 7.147862]",Maus,4
+1236,53225,Bonn,Clemensstr. 8,"[50.747886, 7.117222]",Schmitz,3
+1237,53225,Bonn,Hermannstr. 32-34,"[50.737197, 7.116855]",Schlösser,3
+1238,53227,Bonn,Königswinterer Str. 697,"[50.712767, 7.166487]",Breuer,3
+1239,53227,Bonn,Königswinterer Str. 698,"[50.710639, 7.168979]",Knipp,4
+1240,53229,Bonn,Adolf-Quad-Str. 7,"[50.758062, 7.144208]",Dziuba,2
+1241,53332,Bornheim,Willmuthstr. 2,"[50.788937, 6.954392]",Zündorf,3
+1242,53332,Bornheim,Ploon 4,"[50.755747, 6.973019]",Landsberg,2
+1243,53332,Bornheim,Mittelstr. 13,"[50.762486, 6.949035]",Ost,2
+1244,53347,Alfter,Pelzstr. 7,"[50.73701, 7.013444]",Kluth,2
+1245,53347,Alfter,Am Herrenwingert 12,"[50.737401, 7.00977]",Kluth,2
+1246,53424,Remagen,Marktstr. 79,"[50.57861, 7.230762]",Müller,6
+1247,53424,Remagen,Quellenstr. 51,"[50.560133, 7.271027]",Etscheid,3
+1248,53474,Bad Neuenahr-Ahrweiler,Jesuitenstr. 18,"[50.545531, 7.139952]",Brand,2
+1249,53518,Adenau,Hauptstr. 122,"[50.383249, 6.92662]",Lehmann,2
+1250,53520,Schuld,Hauptstr. 22,"[50.446624, 6.875105]",Schlösser,2
+1251,53604,Bad Honnef,Hauptstr. 41a,"[50.645639, 7.225817]",Welsch,3
+1252,53639,Königswinter,Dollendorfer Str. 396,"[50.695001, 7.226416]",Else's Backstube,2
+1253,53757,Sankt Augustin,Hauptstr. 47,"[50.771771, 7.21467]",Profittlich,2
+1254,53757,Sankt Augustin,Von-Gahlen-Str. 47,"[50.785199, 7.154984]",Könsgen,2
+1255,53757,Sankt Augustin,Hammstr. 17,"[50.768788, 7.1823]",Oehmigen,3
+1256,53773,Hennef,Conrad-Roentgen-Str. 3,"[50.769001, 7.311335]",Mühlenbäckerei,5
+1257,53797,Lohmar,Birker Str. 24,"[50.834539, 7.278682]",Franken,4
+1258,53804,Much,Dorfstr. 4,"[50.889553, 7.444602]",Funken,2
+1259,53819,Neunkirchen-Seelscheid,Hennefer Str. 34,"[50.832041, 7.326256]",Stommel,4
+1260,53842,Troisdorf,Hauptstr. 142,"[50.82735, 7.120992]",Hardt,2
+1261,53842,Troisdorf,Kölner Str. 34a,"[50.817626, 7.148547]",Hardt,2
+1262,53844,Troisdorf,Rathausstr. 39,"[50.800892, 7.122609]",Hauptmann,13
+1263,53881,Euskirchen,Kessenicher Str. 114,"[50.667321, 6.787358]",Klein's Backstube,2
+1264,53881,Euskirchen,Narzissenweg 25,"[50.645596, 6.802971]",Klein's Backstube,2
+1265,53902,Bad Münstereifel,Kölner Str. 39,"[50.563433, 6.762942]",Klein's Backstube,2
+1266,53902,Bad Münstereifel,Josef-Jonas-Str. 5,"[50.569857, 6.763564]",Klein's Backstube,2
+1267,53947,Nettersheim,Burgstr. 2,"[50.476964, 6.578235]",Heinen,3
+1268,54290,Trier,Jakobstr. 12,"[49.757542, 6.640768]",Rudolf,6
+1269,54292,Trier,Paulinstr. 142,"[49.76441, 6.652109]",Greif,3
+1270,54292,Trier,Paulinstr. 70,"[49.76441, 6.652109]",Benz,2
+1271,54292,Trier,Maarstr. 36,"[49.764815, 6.641867]",Olbertz,4
+1272,54311,Trierweiler,Hauptstr. 22a,"[49.763655, 6.593283]",De Bääker,4
+1273,54316,Pluwig,Am alten Dorfplatz 2,"[49.690169, 6.713646]",Bollig,2
+1274,54343,Föhren,Hauptstr. 36,"[49.858816, 6.76551]",Göbel,2
+1275,54346,Mehring,Bachstr. 41,"[49.794023, 6.821246]",Frick,4
+1276,54470,Lieser,Am Markt 40,"[49.917336, 7.021931]",Licht,2
+1277,54550,Daun,Abt-Richard-Str. 3a,"[50.196597, 6.828104]",Utters,3
+1278,54552,Dockweiler,Hauptstr. 6,"[50.254097, 6.782155]",Utters,24
+1279,54574,Birresborn,Kopper Str. 3,"[50.175702, 6.624969]",Blasius,3
+1280,54578,Kerpen,Im Kapelleneck 20,"[50.311522, 6.731314]",Emondts,2
+1281,54597,Lünebach,Hahnengasse 15,"[50.141124, 6.343919]",Prümtaler Mühlenbäckerei,2
+1282,54636,Brecht,Mühlenstr. 7a,"[49.981944, 6.435074]",Schüller,2
+1283,55116,Mainz,Klarastr. 19,"[50.002061, 8.267687]",Café Gerster,2
+1284,55116,Mainz,Jakobsbergstr. 4,"[49.995585, 8.276522]",Vetters Backstube,31
+1285,55116,Mainz,Große Bleiche 34,"[50.002107, 8.266613]",Kaiser,2
+1286,55116,Mainz,Weißliliengasse 23,"[49.996528, 8.270969]",Kornland,13
+1287,55118,Mainz,Boppstr. 54,"[50.005979, 8.256565]",Olemutz,3
+1288,55120,Mainz,Hauptstr. 60,"[50.026178, 8.204438]",Olemutz,3
+1289,55120,Mainz,Hauptstr. 98,"[50.021878, 8.227977]",Schwind,6
+1290,55122,Mainz,Werrastr. 5,"[50.005811, 8.220509]",Eyüp,2
+1291,55126,Mainz,Kirchgasse 32,"[49.986306, 8.17383]",Wagner,5
+1292,55126,Mainz,Poststr. 126,"[49.984823, 8.17492]",Pfaff,12
+1293,55128,Mainz,Wilhelmsstr. 8,"[49.980504, 8.241482]",Nolda,2
+1294,55130,Mainz,Heiligkreuzweg 66,"[49.979957, 8.294535]",Heitmann,2
+1295,55131,Mainz,Landwehrweg 50,"[49.990005, 8.257479]",Rieck,4
+1296,55218,Ingelheim,Binger Str. 223,"[49.972616, 8.034884]",Lang,2
+1297,55218,Ingelheim,Altegasse 37,"[49.963008, 8.056975]",Finkenauer,13
+1298,55234,Eppelsheim,Blaugasse 2,"[49.705347, 8.167733]",Best,2
+1299,55252,Mainz-Kastel,Fritz-Ullmann-Str. 8,"[50.027731, 8.277171]",Kaiser,2
+1300,55257,Budenheim,Hauptstr. 28,"[50.025183, 8.172955]",Berg,2
+1301,55257,Budenheim,Hauptstr. 6,"[50.025831, 8.172382]",Pankratius,2
+1302,55268,Nieder-Olm,Alte Landstr. 28,"[49.909017, 8.20176]",Knußmann,3
+1303,55270,Schwabenheim an der Selz,Backhausstr. 6,"[49.930708, 8.095711]",Doll,5
+1304,55278,Hahnheim,Bahnhofstr. 81,"[49.861099, 8.246766]",Förster,7
+1305,55283,Nierstein,An der Kaiserlinde 4,"[49.872064, 8.339259]",Strub,2
+1306,55286,Wörrstadt,Friedrich-Ebert-Str. 92,"[49.845679, 8.112011]",Bäckerei Kindlmann,2
+1307,55288,Gabsheim,Hauptstr. 10,"[49.827871, 8.174382]",Schnabel,3
+1308,55294,Bodenheim,Zwerchgasse 22,"[49.929185, 8.304294]",Siener,9
+1309,55411,Bingen,Salzstr. 19,"[49.968782, 7.895096]",Stamm,11
+1310,55411,Bingen,Rheinhessenstr. 71,"[49.923052, 7.965042]",Fleck,2
+1311,55411,Bingen,Saarlandstr. 190,"[49.949027, 7.912149]",Müller,3
+1312,55411,Bingen,Mainzer Str. 402,"[49.969203, 7.912449]",Bonacker,2
+1313,55435,Gau-Algesheim,Kloppgasse 4,"[49.956092, 8.015406]",Bonacker,2
+1314,55452,Guldental,Hauptstr. 24,"[49.891542, 7.842991]",Ruß,8
+1315,55543,Bad Kreuznach,Mannheimerstr. 260,"[49.845002, 7.857294]",Baumann's Backhaus,3
+1316,55743,Idar,Layenstr. 55,"[49.725974, 7.304581]",Erbach,3
+1317,55767,Schwollen,Hauptstr. 38,"[49.706944, 7.186965]",Hofmann,2
+1318,56068,Koblenz,Kurfürstenstr. 62,"[50.346141, 7.592726]",Barth,9
+1319,56068,Koblenz,Hohenzollernstr. 80,"[50.34723, 7.589939]",Kamp,4
+1320,56072,Koblenz,Aachener Str. 94,"[50.371945, 7.523996]",Kläs,2
+1321,56072,Koblenz,Im Kimmelberg 1,"[50.360765, 7.55436]",Ollig,2
+1322,56073,Koblenz,Am Kirmesplatz 11,"[50.322018, 7.537646]",Alsbach,2
+1323,56077,Koblenz,Hinterdorfstr. 42,"[50.355173, 7.632199]",Gassen,3
+1324,56112,Lahnstein,Brückenstr. 11,"[50.307186, 7.60414]",Kugel,2
+1325,56132,Nievern,Schulstr. 8,"[50.3373, 7.680041]",Walldorf,2
+1326,56154,Boppard,Heerstr. 191,"[50.231909, 7.586673]",Colonia Cafe,2
+1327,56203,Höhr-Grenzhausen,Mittelstr. 13,"[50.433029, 7.672513]",Conrad,4
+1328,56269,Dierdorf,Hauptstr. 20,"[50.547208, 7.65721]",Rosenow,2
+1329,56288,Kastellaun,Marktstr. 2,"[50.071806, 7.440275]",Burgstadtbäcker Schuster,2
+1330,56299,Ochtendung,Polcher Str. 1,"[50.338749, 7.395869]",BrotArt,2
+1331,56332,Niederfell,Von Wiltbergstr. 1,"[50.290229, 7.462119]",Becker,3
+1332,56332,Niederfell,Kehrstr. 19,"[50.290456, 7.463129]",Barth,13
+1333,56333,Winningen,Marktstr. 11,"[50.31367, 7.518088]",Pistono,2
+1334,56338,Braubach,Oberalleestr. 1,"[50.274124, 7.645785]",Maaß,2
+1335,56368,Katzenelnbogen,Stiftstr. 2,"[50.267245, 7.976259]",Zorn,2
+1336,56410,Montabaur,Alleestr. 2,"[50.43751, 7.833743]",Marx,2
+1337,56414,Salz,Untergasse 14,"[50.508332, 7.959443]",Schönberger,2
+1338,56457,Westerburg,Bergstr. 1,"[50.553143, 7.93895]",Garcia,5
+1339,56566,Neuwied,Bachstr. 5,"[50.441707, 7.542819]",Herres,6
+1340,56594,Willroth,Grubenstr. 1,"[50.566882, 7.525745]",Backfreund,3
+1341,56743,Mending,Pellenzstr. 66,"[50.37378, 7.273518]",Lempertz,7
+1342,56745,Rieden,Oberstr. 25,"[50.393022, 7.18043]",Hilger,2
+1343,57074,Siegen,Hauptstr. 81,"[50.870057, 8.073842]",Irle,3
+1344,57078,Siegen,Rathausstr. 16,"[50.91478, 8.012163]",Stutte,2
+1345,57078,Siegen,Friedrichsplatz 7,"[50.914626, 8.008503]",Frank,2
+1346,57223,Kreuztal,Kredenbacher Str. 28,"[50.962989, 8.040239]",Fischer,5
+1347,57234,Wilnsdorf,Werkstr. 1,"[50.841541, 8.139914]",Hellmann,6
+1348,57250,Netphen,Siegtalstr. 12,"[50.885681, 8.164075]",Kiehl,3
+1349,57319,Bad Berleburg,Am Böhl 5,"[51.030994, 8.377777]",Klinker,2
+1350,57334,Bad Laasphe,Sieg-Lahn-Str. 32,"[50.940214, 8.324357]",Müller,2
+1351,57392,Schmallenberg,Oststr. 6,"[51.15116, 8.284335]",Dommes,34
+1352,57392,Schmallenberg,Am Rarbach 3,"[51.152594, 8.283601]",Heinemann,2
+1353,57392,Schmallenberg,Oststr. 57,"[51.15285, 8.283814]",Blanke,7
+1354,57462,Olpe,Martinstr. 39,"[51.029615, 7.850483]",Rötz,2
+1355,57612,Eichelhardt,Kirchstr. 4,"[50.718166, 7.701384]",Schumacher,3
+1356,58093,Hagen,Rohrstr. 24,"[51.380384, 7.516807]",Niemand,11
+1357,58099,Hagen,Schwerter Str. 57,"[51.388673, 7.462161]",Kamp,2
+1358,58135,Hagen,Enneperstr. 89,"[51.339956, 7.399141]",Die Zwei,3
+1359,58239,Schwerte,Bahnhofstr. 21a,"[51.44205, 7.561503]",Becker,4
+1360,58332,Schwelm,Martinstr. 2,"[51.298056, 7.283161]",Müller,4
+1361,58332,Schwelm,Hauptstr. 130,"[51.28898, 7.302111]",Müller,4
+1362,58455,Witten,Steinhügel 18,"[51.439055, 7.30724]",Zehner,2
+1363,58455,Witten,Sonnenschein 69,"[51.455511, 7.338027]",Browatzki,3
+1364,58511,Lüdenscheid,Reckenstr. 5,"[51.217593, 7.641469]",Engelhardt,4
+1365,58706,Menden,Kirchstr. 6,"[51.43845, 7.794899]",Hollmann,3
+1366,58708,Menden,Heidestr. 74,"[51.455223, 7.753578]",Lintz,3
+1367,58762,Altena,Hauptstr. 23,"[51.300075, 7.754127]",Timmermann,4
+1368,58840,Plettenberg,Lennestr. 21,"[51.234751, 7.841306]",Schubert,4
+1369,59069,Hamm,Menzelstr. 14,"[51.653217, 7.847116]",Potthoff,2
+1370,59320,Ennigerloh,Luisenstr. 4,"[51.838434, 8.024967]",Gerkmann,3
+1371,59348,Lüdinghausen,Steverstraße 6,"[51.768518, 7.437474]",Terjung,3
+1372,59394,Nordkirchen,Mauritiusplatz 2,"[51.738366, 7.525908]",Roggenkamp,2
+1373,59394,Nordkirchen,Oberstr. 10,"[51.711028, 7.545471]",Kallwey,2
+1374,59423,Unna,Schulstr. 29,"[51.535128, 7.687179]",Schwierk,3
+1375,59423,Unna,Gerhart-Hauptmannstr. 3,"[51.535294, 7.68912]",Muhr,3
+1376,59427,Unna,Kühlstr. 14,"[51.548863, 7.81189]",Stricker,20
+1377,59457,Werl,Breite Str. 47,"[51.554849, 7.964067]",Wolf,2
+1378,59494,Soest,Werler Landstr. 227,"[51.552308, 8.05189]",Horn,2
+1379,59494,Soest,Brüderstr. 59,"[51.576188, 8.103129]",Herr von Myra,7
+1380,59557,Lippstadt,Weingarten 18a,"[51.666406, 8.34296]",Hoppe,2
+1381,59558,Lippstadt,Bismarckstr. 36,"[51.713953, 8.377809]",Bals,3
+1382,59581,Warstein,Hauptstr. 92,"[51.442833, 8.354417]",Nolte,3
+1383,59597,Erwitte,Schützenhausstr. 14,"[51.60161, 8.214422]",Morgenstern,2
+1384,59757,Arnsberg,Hönnetalstr. 62,"[51.408653, 7.912667]",Jürgens,2
+1385,59821,Arnsberg,Clemens-August-Str. 33,"[51.405117, 8.067097]",Kemper,2
+1386,60316,Frankfurt,Vogelsbergstr. 19,"[50.124439, 8.69511]",Kronberger,23
+1387,60316,Frankfurt,Friedberger Anlage 14,"[50.11629, 8.694651]",Kahl,4
+1388,60316,Frankfurt,Bergerstr. 120,"[50.122479, 8.700771]",Klein,4
+1389,60318,Frankfurt,Eckenheimer Landstr. 128,"[50.131569, 8.684173]",Gehlfuß,9
+1390,60318,Frankfurt,Oeder Weg 15,"[50.119428, 8.679552]",Zeit für Brot,19
+1391,60323,Frankfurt,Grüneburgweg 55,"[50.121692, 8.669475]",Kröger,2
+1392,60385,Frankfurt,Berger Str. 196,"[50.125737, 8.707428]",Denninger,9
+1393,60385,Frankfurt,Bornheimer Landwehr 48,"[50.122557, 8.708819]",Bornheimer Backhaus,3
+1394,60389,Frankfurt,Rohrbachstr. 27,"[50.128162, 8.69691]",Kornkammer,17
+1395,60431,Frankfurt,Hügelstr. 190,"[50.146524, 8.658755]",Härdtlein,3
+1396,60433,Frankfurt,Alt-Eschersheim 82,"[50.162349, 8.656988]",Hessenthaler,2
+1397,60487,Frankfurt,Leipziger Str. 58,"[50.122714, 8.645882]",Kröger,7
+1398,60489,Frankfurt,Reichsburgstr. 12,"[50.124987, 8.611655]",Graff,7
+1399,60489,Frankfurt,Alexanderstr. 51,"[50.126954, 8.611767]",Huck,8
+1400,60529,Frankfurt,Tannenkopfweg 33,"[50.082332, 8.604269]",Beringer,3
+1401,60594,Frankfurt,Brückenstr. 56,"[50.104655, 8.687091]",Hanss,17
+1402,60596,Frankfurt,Schwanthaler Str. 53,"[50.100396, 8.680043]",Köger,3
+1403,60598,Frankfurt,Ziegelhüttenweg 4,"[50.094841, 8.681486]",Ritter,5
+1404,60599,Frankfurt,Offenbacher Landstr. 126,"[50.099775, 8.703241]",Kling,2
+1405,6108,Halle,Adam-Kuckhoff-Str. 31,"[51.490626, 11.972027]",Neubauer,29
+1406,6108,Halle,Rannische Str. 13,"[51.478787, 11.970168]",Hopfgarten,2
+1407,6108,Halle,Geiststr. 38,"[51.49086, 11.966023]",Jentzsch,5
+1408,6108,Halle,Große Ulrichstr. 40,"[51.486481, 11.967327]",Kornliebchen,21
+1409,6110,Halle,Bernhardystr. 46,"[51.473131, 11.978234]",König,2
+1410,61118,Bad Vilbel,Dottenfelder Hof 1,"[50.193932, 8.753375]",Dottenfelder Hof,5
+1411,6112,Halle,Krausenstr. 23,"[51.4874, 11.980574]",Tannert,6
+1412,6112,Halle,Freiimfelder Str. 36,"[51.483948, 11.994357]",Rödel,2
+1413,61130,Nidderau,Limesstr. 20,"[50.22634, 8.910373]",Brückner,11
+1414,6114,Halle,Reilstr. 104,"[51.502668, 11.966878]",Kolb,21
+1415,6114,Halle,Schillerstr. 23,"[51.4936, 11.979469]",Kolb,21
+1416,6114,Halle,Seebenerstr. 174,"[51.505157, 11.959797]",Weidner,4
+1417,6114,Halle,Triftstr. 19,"[51.500039, 11.958193]",Backmarie,2
+1418,6116,Halle,Schkeuditzer Str. 13,"[51.457366, 12.038719]",Baumeyer,2
+1419,61169,Friedberg,Usagasse 14,"[50.339506, 8.755918]",Mörler,9
+1420,6118,Halle,Saalestr. 1,"[51.514032, 11.957035]",Deimig,2
+1421,61191,Rosbach,Hopfengartenstr. 13,"[50.305632, 8.69337]",Debus,2
+1422,61231,Bad Nauheim,Alte Schulstr. 18,"[50.400911, 8.744512]",Faulstich,5
+1423,61231,Bad Nauheim,Hauptstr. 3,"[50.363673, 8.737014]",Stark,2
+1424,61250,Usingen,Bachstr. 5,"[50.355582, 8.534994]",Bachbäcker,2
+1425,61267,Neu-Anspach,Laubweg 5,"[50.27574, 8.524579]",Schäfer,2
+1426,61273,Wehrheim,Gartenstr. 8,"[50.304719, 8.572317]",Etzel,8
+1427,61350,Bad Homburg,Raabstr. 31,"[50.243583, 8.612438]",Hett,3
+1428,61381,Friedrichsdorf,Hugenottenstr. 61,"[50.259633, 8.643797]",Rolf's Backstube,6
+1429,61381,Friedrichsdorf,Köpperner Str. 112,"[50.268604, 8.647496]",Kraus,2
+1430,61440,Oberursel,Austr. 14,"[50.199634, 8.582861]",Matthiesen,6
+1431,61440,Oberursel,Bommersheimmerstr 89,"[50.206213, 8.568772]",Larem,2
+1432,61449,Steinbach,Eschborner Str. 32,"[50.165213, 8.571331]",Windeckers,3
+1433,61462,Königstein,Kirchstr. 2,"[50.18384, 8.465735]",Hees,9
+1434,61476,Kronberg,Friedrich-Ebert-Str. 39,"[50.180222, 8.507114]",Christ,2
+1435,6217,Merseburg (Saale),Erzbergerstr. 2,"[51.354615, 11.986423]",Koblenz,2
+1436,63065,Offenbach,Bieberer Str. 20,"[50.104366, 8.766425]",Beck,6
+1437,63067,Offenbach,Taunusstr. 17,"[50.10786, 8.754554]",Beck,2
+1438,63069,Offenbach,Senefelder Str. 13,"[50.098186, 8.763293]",Ködel,5
+1439,63150,Heusenstamm,Frankfurter Str. 60,"[50.058842, 8.802999]",Fuhr,4
+1440,63165,Mühlheim,Rumpenheimer Str. 1,"[50.126829, 8.827355]",Hoffmann,5
+1441,63263,Neu-Isenburg,Bahnhofstr. 181,"[50.053228, 8.67882]",Ernst,2
+1442,63322,Rödermark,Dieburger Str. 85,"[49.972855, 8.830344]",Schrod,2
+1443,63329,Egelsbach,Taunusstr. 12,"[49.968688, 8.655563]",Hickler,12
+1444,63456,Hanau,Platz des Friedens 8,"[50.107076, 8.91592]",Eiff,4
+1445,63456,Hanau,Ludwigstr. 50,"[50.111901, 8.914796]",Ferdinand,2
+1446,63477,Maintal,Ringstr. Süd 29,"[50.152552, 8.834849]",Unnerbäcker,3
+1447,63500,Seligenstadt,Kapellenstr. 12,"[50.04674, 8.969366]",Mayer,3
+1448,63517,Rodenbach,Hauptstr. 12,"[50.145609, 9.022979]",Briegel,20
+1449,63571,Gelnhausen,Röther Gasse 16,"[50.202915, 9.187608]",Most,2
+1450,63607,Wächtersbach,Vogelsbergstr. 7,"[50.259988, 9.294971]",Fuhrmann,2
+1451,63637,Jossgrund,Frankfurter Str. 38,"[50.194605, 9.473531]",Trüb,6
+1452,63654,Büdingen,Kirchweg 3,"[50.292893, 9.028815]",Mulinbeck,2
+1453,63654,Büdingen,Altstadt 10,"[50.2909, 9.116269]",Brotzeit,5
+1454,63667,Nidda,Schillerstr. 3,"[50.415505, 9.007779]",Rank,3
+1455,63739,Aschaffenburg,Sandgasse 15,"[49.974634, 9.147909]",Hench,3
+1456,63739,Aschaffenburg,Cornelienstr. 26,"[49.972344, 9.152946]",Burger,3
+1457,63741,Aschaffenburg,Ruhlandstr. 75,"[49.973422, 9.110061]",Leiderer,2
+1458,63755,Alzenau,Märkerstr. 7,"[50.085694, 9.074981]",Christ,5
+1459,63762,Großostheim,Breite Str. 77,"[49.917485, 9.077059]",Kern,7
+1460,63762,Großostheim,Pfarrgasse 13,"[49.918477, 9.07869]",Kress,14
+1461,63768,Hösbach,Ringstr. 1,"[50.039069, 9.232634]",Müller,2
+1462,63796,Kahl,Hanauer Landstr. 54,"[50.073421, 9.003783]",Gabi's Backstube,2
+1463,63820,Elsenfeld,Rhönstr. 2,"[49.838384, 9.161256]",Waigand,2
+1464,63825,Schöllkrippen,Laudenbacher Str. 9,"[50.08995, 9.247991]",Pfarr,4
+1465,63843,Niedernberg,Hauptstr. 60,"[49.914179, 9.140897]",Hein,2
+1466,63856,Bessenbach,Dorfstr. 2,"[49.961292, 9.245906]",Sauer,2
+1467,63863,Eschau,Kreuzgasse 1,"[49.819467, 9.255227]",Völker,3
+1468,63872,Heimbuchenthal,Hauptstr. 161,"[49.898844, 9.304434]",Schreck,2
+1469,63897,Miltenberg,Ziegelgasse 4,"[49.70111, 9.257182]",Hench,5
+1470,63897,Miltenberg,Hauptstr. 64,"[49.702273, 9.259108]",Hench,5
+1471,63911,Klingenberg,Lindenstr. 8,"[49.781906, 9.181391]",Endres,3
+1472,63927,Bürgstadt,Miltenberger Str. 32,"[49.710317, 9.267738]",Eilbacher,2
+1473,63934,Röllbach,Hauptstr. 73,"[49.770164, 9.247124]",Schnall,3
+1474,64285,Darmstadt,Heidelberger Str. 82,"[49.858047, 8.647116]",Schwind,3
+1475,64285,Darmstadt,Karlstr. 66,"[49.865598, 8.655505]",Breithaupt,6
+1476,64287,Darmstadt,Erbacher Str. 125,"[49.872619, 8.683689]",Hofgut Oberfeld,4
+1477,64289,Darmstadt,Kaupstr. 48,"[49.880804, 8.659076]",Schwerdt,27
+1478,64293,Darmstadt,Pallaswiesenstr. 23,"[49.881207, 8.650173]",Schwerdt,2
+1479,64293,Darmstadt,Otto-Röhm-Str. 20,"[49.884029, 8.644338]",Bormuth,2
+1480,64331,Weiterstadt,Darmstädter Landstr. 13,"[49.92943, 8.599215]",Pons,2
+1481,64342,Seeheim-Jugenheim,Pauerweg 1,"[49.752374, 8.637872]",Speckhardt,3
+1482,64342,Seeheim-Jugenheim,Darmstädter Str. 36,"[49.767232, 8.64709]",Schwind,3
+1483,64354,Reinheim,Habitzheimer Str. 11,"[49.845158, 8.832116]",Mondscheinbäcker,4
+1484,64372,Ober-Ramstadt,Odenwaldstr. 210,"[49.786156, 8.740849]",Rossmann,4
+1485,64385,Reichelsheim (Odenwald),Laudenauer Str. 7,"[49.715993, 8.834889]",Keil,4
+1486,64390,Erzhausen,Bahnstr. 15,"[49.952836, 8.63406]",Keller,2
+1487,64397,Modautal,Gadernheimer Str. 8,"[49.734444, 8.739433]",Reimund,3
+1488,64401,Groß-Bieberau,Marktstr. 50,"[49.798043, 8.822971]",Schellhaas,3
+1489,64521,Groß-Gerau,Darmstädter Str. 32,"[49.914329, 8.492971]",Darmstädter,5
+1490,64546,Mörfelden-Walldorf,Wolfsgartenstr. 4,"[49.976515, 8.564942]",Küchler,2
+1491,64560,Riedstadt,Wilhelm-Leuschner-Str. 36,"[49.836936, 8.464773]",Funk,2
+1492,64579,Gernsheim,Stadthausstr. 1-3,"[49.750439, 8.484998]",Wetzel,6
+1493,64625,Bensheim,Beinengutstr. 47,"[49.677346, 8.612642]",Jakob,3
+1494,64625,Bensheim,Gerbergasse 11,"[49.679402, 8.620857]",Alte Dorfmühle,8
+1495,64625,Bensheim,Friedhofstr. 16,"[49.677407, 8.624199]",Rauen,3
+1496,64625,Bensheim,Hauptstr. 37,"[49.680682, 8.622321]",Jost,4
+1497,64625,Bensheim,Bachgasse 71,"[49.703654, 8.625517]",Alte Dorfmühle,8
+1498,64625,Bensheim,Zeller Str. 14,"[49.678518, 8.623462]",Schulz,3
+1499,64653,Lorsch,Rheinstr. 24,"[49.65738, 8.565743]",Drayß,4
+1500,64673,Zwingenberg,Darmstädter Str. 3,"[49.724495, 8.612412]",Germann,2
+1501,64807,Dieburg,Nordring 23,"[49.913532, 8.856966]",Vollkornbäckerei,2
+1502,64823,Groß-Umstadt,Untergasse 1,"[49.901452, 8.95565]",Vogel,3
+1503,64823,Groß-Umstadt,Obere Marktstr. 12,"[49.867864, 8.928629]",Seliger,5
+1504,6502,Thale,Steuerstr. 23,"[51.748372, 11.086355]",Brehme,3
+1505,65189,Wiesbaden,Rüdigerstr. 2,"[50.060437, 8.262679]",Häuser,3
+1506,65191,Wiesbaden,Poststr. 30,"[50.083756, 8.284632]",Göbels,2
+1507,65195,Wiesbaden,Gneisenaustr. 24,"[50.082391, 8.22481]",Walser,25
+1508,65197,Wiesbaden,Klarenthaler Str. 10,"[50.07773, 8.226763]",Klein,9
+1509,65201,Wiesbaden,Reichsapfelstr. 11,"[50.044552, 8.196682]",Schröder,2
+1510,65203,Wiesbaden,Str. der Republik 24,"[50.041237, 8.241165]",Pfennig,2
+1511,65205,Wiesbaden,Mechtildshausen,"[50.041151, 8.325776]",Domäne Mechtildshausen,4
+1512,65232,Taunusstein,Limburger Str. 14,"[50.166487, 8.212861]",Wittlich,4
+1513,65232,Taunusstein,Aarstr. 218,"[50.153257, 8.181052]",Schrank,2
+1514,65307,Bad Schwalbach,Adolfstr. 105,"[50.143766, 8.074155]",Weller,4
+1515,65329,Hohenstein,Kirchgasse 10,"[50.188694, 8.124562]",Betz,2
+1516,65343,Eltville,Rheingauerstr. 9,"[50.026553, 8.123725]",Eckerich,6
+1517,65344,Eltville,Hauptstr. 13,"[50.04692, 8.123868]",Dahm,5
+1518,65346,Eltville,Hauptstr. 25,"[50.019976, 8.094207]",Eckerich,2
+1519,6536,Roßla,Hallesche Str. 30,"[51.463225, 11.070326]",Bokrant,2
+1520,6537,Kelbra,Goetheplatz 2,"[51.420039, 11.140856]",Bäckerei Bokrant,31
+1521,65375,Oestrich-Winkel,Mühlenstr. 37,"[50.007186, 8.016759]",Drews,2
+1522,65375,Oestrich-Winkel,Rheingaustr. 126,"[50.005579, 8.029084]",de Stalter,2
+1523,65385,Rüdesheim,Fürstbischof-Rudolf-Str. 14,"[49.984472, 7.936375]",Dries,3
+1524,65388,Schlangenbad,Rheingauer Str 59,"[50.094084, 8.103022]",Münz,2
+1525,65388,Schlangenbad,Rheingauen Str. 59,"[50.09328, 8.102596]",Münz,2
+1526,65388,Schlangenbad,Kornweg 23,"[50.087011, 8.120051]",Eckert,2
+1527,65439,Flörsheim,Dalbergstr. 7b,"[50.017159, 8.425409]",Wüst,2
+1528,65462,Ginsheim-Gustavsburg,Ringstr. 21,"[49.965585, 8.342615]",Karl,2
+1529,65468,Trebur,Groß-Gerauer Str. 2,"[49.924042, 8.409891]",Abels,2
+1530,65474,Bischofsheim,Rheinstr. 35,"[49.987859, 8.358274]",Schneider,4
+1531,65510,Idstein,Wiesbadener Str. 6,"[50.220656, 8.267778]",Weingart,3
+1532,65510,Idstein,König-Adolf-Platz 1,"[50.22138, 8.269871]",Huth,3
+1533,65510,Hünstetten,Palmbachstr. 16,"[50.264386, 8.152913]",Gibietz,7
+1534,65510,Idstein,Grunerstr. 12,"[50.216977, 8.267573]",Lamshöft,3
+1535,65549,Limburg,Werner-Senger-Str. 9,"[50.387643, 8.060248]",Huth,19
+1536,65549,Limburg,Industriestr. 15,"[50.376625, 8.05409]",Huth,19
+1537,65549,Limburg,Bahnhofsplatz 1,"[50.38489, 8.062557]",Huth,19
+1538,65549,Limburg,Am Schlag 34,"[50.398374, 8.065636]",Huth,19
+1539,65549,Limburg,Westerwaldstr. 18,"[50.396225, 8.059691]",Huth,19
+1540,65549,Limburg,Kolpingstr. 9,"[50.388113, 8.065806]",Hensler,18
+1541,65594,Runkel,Schloßstr. 3,"[50.418227, 8.096548]",Nordhofen,2
+1542,65604,Elz,Friedrichstr. 18,"[50.408966, 8.032778]",Arnold,2
+1543,65611,Brechen,Hinterstr. 15,"[50.353491, 8.197117]",Roth,2
+1544,65719,Hofheim,Hauptstr. 65,"[50.086701, 8.444001]",Pasticceria Ciao Bella,2
+1545,65779,Kelkheim,Langstr. 1a,"[50.151367, 8.422932]",Wittekind,3
+1546,65795,Hattersheim,Frankfurter Str. 38,"[50.071278, 8.49227]",Grau,3
+1547,65824,Schwalbach,Taunusstr. 15,"[50.151199, 8.534156]",Reichert,6
+1548,65830,Kriftel,Kapellenstr. 39,"[50.07961, 8.460412]",Heislitz,2
+1549,65830,Kriftel,Schulstr. 16,"[50.084015, 8.465378]",Kilb,2
+1550,65929,Frankfurt,Dahlbergstr. 7b,"[50.110653, 8.682093]",Höchster Backstubb,2
+1551,65931,Frankfurt,Sindlinger Bahnstr. 15,"[50.081126, 8.516653]",Richter,2
+1552,65933,Frankfurt,Hartmannsweilerstr. 93,"[50.09168, 8.602246]",Müller,2
+1553,65936,Frankfurt,Kurmainzer Str. 205,"[50.117362, 8.562522]",Kitzel,3
+1554,66111,Saarbrücken,Bahnhofstr. 101,"[49.237603, 6.991648]",Heil,8
+1555,66111,Saarbrücken,Försterstr. 29,"[49.236873, 6.999115]",Sander,38
+1556,66111,Saarbrücken,Trierer Str. 28,"[49.240223, 6.986783]",Heil,8
+1557,66111,Saarbrücken,Dudweilerstr. 2a,"[49.235081, 6.994555]",Heil,8
+1558,66115,Saarbrücken,Bergstr. 46,"[49.242413, 6.940635]",Herrmann,2
+1559,66131,Saarbrücken,Hauptstr. 50,"[49.205468, 7.108843]",Lagaly,2
+1560,6618,Naumburg (Saale),Marienplatz 11,"[51.152237, 11.810208]",Schweinoch,3
+1561,6618,Naumburg (Saale),Lindenring 10,"[51.153573, 11.806949]",Grolle,9
+1562,6618,Naumburg (Saale),Linsenberg 12,"[51.152237, 11.810208]",Pinkwart,2
+1563,66265,Heusweiler,Saarbrücker Str. 28,"[49.336424, 6.93029]",Bost,2
+1564,66265,Heusweiler,Heusweilerstr. 8,"[49.331234, 6.983645]",Lauterbach,2
+1565,66292,Riegelsberg,Walpershofer Str. 1,"[49.317762, 6.936968]",Balzert,2
+1566,66386,St. Ingbert,Josefsthaler Str. 216,"[49.278837, 7.115828]",Weidmann,5
+1567,66399,Mandelbachtal,Bliestalstr. 63,"[49.150314, 7.113573]",Ackermann,8
+1568,66424,Homburg,Untere Allee 29,"[49.314527, 7.350518]",Schäfer,6
+1569,66440,Blieskastel,Im Dorf 14,"[49.220351, 7.203321]",Fetzer,2
+1570,66453,Gersheim,Oberdorfstr. 9,"[49.176453, 7.208663]",Lenert,2
+1571,66453,Gersheim,Hauptstr. 7,"[49.1481, 7.206845]",Mischo,7
+1572,66459,Kirkel,Bahnhofstr. 29,"[49.315937, 7.278494]",Wasem,2
+1573,66459,Kirkel,Bahnstr. 2,"[49.312347, 7.279025]",Hock,8
+1574,66459,Kirkel,Hauptstr. 81,"[49.313709, 7.265074]",Leibrock,4
+1575,66482,Zweibrücken,Lammstr. 3,"[49.247352, 7.365684]",Leiner,3
+1576,66557,Illingen,Rechwies 18,"[49.39788, 7.100549]",Schaefer,2
+1577,66564,Ottweiler,Rathausplatz 12,"[49.40387, 7.161024]",Schäfer,2
+1578,66583,Spiesen-Elversberg,Fichtenstr. 29,"[49.315067, 7.129375]",Krämer,2
+1579,66589,Merchweiler,Bahnhofstr. 2,"[49.371232, 7.086005]",Riefer,2
+1580,66625,Nohfelden,Hauptstr. 95,"[49.598399, 7.058391]",Spindler,2
+1581,66636,Tholey,Bonner Str. 2,"[49.466649, 7.00394]",Bost,3
+1582,66646,Marpingen,Klingenrech 3,"[49.44473, 7.050839]",Leist,2
+1583,66740,Saarlouis,Soutyhofstr. 1,"[49.307714, 6.741476]",Zenner,2
+1584,66740,Saarlouis,Kreuzbergstr. 118,"[49.333229, 6.790007]",Silvanus,2
+1585,66740,Saarlouis,Wallstr. 11,"[49.314569, 6.748272]",Max,3
+1586,6679,Hohenmölsen,Wiesenstr. 19,"[51.166032, 12.08963]",Hanke,2
+1587,6682,Teuchern,Schützenstr. 18,"[51.119841, 12.02696]",Hünniger,2
+1588,66879,Reichenbach-Steegen,Herrenbergstr. 3,"[49.506141, 7.528161]",Kissel,3
+1589,66879,Steinwenden,Moorstr. 34,"[49.456234, 7.528982]",Feil,3
+1590,66954,Pirmasens,Maria-Theresien-Str. 9,"[49.19686, 7.592698]",Drebes,4
+1591,66994,Dahn,Hasenbergstr. 24,"[49.148621, 7.776723]",Hof,2
+1592,67061,Ludwigshafen,Arnulfstr. 29,"[49.474895, 8.444098]",Bisson,2
+1593,67063,Ludwigshafen,Benzstr. 1,"[49.490815, 8.421856]",Lanzet,8
+1594,67065,Ludwigshafen,Niederfeldstr. 16,"[49.473665, 8.403706]",Seibold,2
+1595,67098,Bad Dürkheim,Karl-Kück-Str. 1,"[49.4758, 8.186893]",Sippel,4
+1596,67105,Schifferstadt,Sommerstr. 26,"[49.391617, 8.369246]",Weißenmayer,6
+1597,67117,Limburgerhof,Speyerer Str. 93,"[49.421224, 8.394527]",Biewer,4
+1598,67125,Dannstadt-Schauernheim,Neckarstr. 2,"[49.425381, 8.31452]",Burdan,6
+1599,67227,Frankenthal,Karolinenstr. 32,"[49.534388, 8.35758]",Walz,2
+1600,67269,Grünstadt,Obergasse 8,"[49.562519, 8.161751]",Spangenberger,3
+1601,67317,Altleiningen,Kleinsägemühle 2,"[49.5075, 8.07333]",Kleinsägmühlerhof,2
+1602,67346,Speyer,Stuhlbrudergasse 2,"[49.317821, 8.441123]",Höchemer,2
+1603,67373,Dudenhofen,Kilianstr. 10,"[49.31402, 8.390858]",Klaus Lange,2
+1604,67433,Neustadt,Schlachthofstr. 65,"[49.348765, 8.15619]",Liebenstein,17
+1605,67433,Neustadt,Hauptstr. 96,"[49.354137, 8.136948]",Graf,2
+1606,67435,Neustadt an der Weinstraße,Lilienthalstr. 46,"[49.337067, 8.20573]",Bläss,2
+1607,67435,Neustadt an der Weinstraße,Kurpfalzstr. 6,"[49.372034, 8.169505]",Buchmüller,6
+1608,67480,Edenkoben,Poststr. 21,"[49.28063, 8.123302]",Löwenzahn,2
+1609,67482,Altdorf,Schloßstr. 9,"[49.285771, 8.218729]",Klund,4
+1610,67487,Maikammer,Hartmannstr. 5,"[49.308517, 8.122788]",Stephan,2
+1611,67549,Worms,Friedrich-Ebert-Str. 26,"[49.633513, 8.352457]",Blaser,2
+1612,67655,Kaiserslautern,Bierstr. 49,"[49.44516, 7.757523]",Übel,4
+1613,67655,Kaiserslautern,Mannheimer Str. 29,"[49.446696, 7.779596]",Müller,2
+1614,67655,Kaiserslautern,Gasstr. 37,"[49.442449, 7.776572]",Krummel,7
+1615,67659,Kaiserslautern,Bierstr. 49,"[49.44516, 7.757523]",Übel,4
+1616,67661,Kaiserslautern,Dansenberger Str. 65,"[49.404819, 7.729304]",Heiner,2
+1617,67663,Kaiserslautern,Leipziger Str. 17,"[49.433173, 7.729891]",Schäfer,2
+1618,67705,Trippstadt,Hauptstr. 80,"[49.358393, 7.774884]",Slama,2
+1619,68165,Mannheim,Seckenheimer Str. 78,"[49.478338, 8.482382]",Café d'Or,5
+1620,68259,Mannheim,Schwanen Str. 43,"[49.488795, 8.526816]",Lummerland,9
+1621,68307,Mannheim,Sonnenstr. 26,"[49.545641, 8.448343]",Weber,2
+1622,68309,Mannheim,Rüdesheimer Str. 24,"[49.502801, 8.505927]",Werz,2
+1623,6844,Dessau-Roßlau,Hans-Heinen-Str. 44,"[51.840754, 12.240972]",Meier,4
+1624,6846,Dessau-Roßlau,Kirchstr. 29,"[51.848181, 12.21901]",Franke,2
+1625,6846,Dessau-Roßlau,Kornhausstr. 7,"[51.845423, 12.223163]",Schieke,15
+1626,68535,Edingen-Neckarhausen,Anna-Bender-Str. 1,"[49.44597, 8.613075]",Kapp,34
+1627,68535,Edingen-Neckarhausen,Hauptstr. 386,"[49.465542, 8.601487]",Kapp,34
+1628,68535,Edingen-Neckarhausen,Hauptstr. 394,"[49.466025, 8.600919]",Hemberger,2
+1629,68535,Edingen-Neckarhausen,Amselweg 4,"[49.445868, 8.603682]",Kapp,34
+1630,68623,Lampertheim,Bürstädter Str. 57,"[49.604087, 8.467792]",Schmitt's Backhaus,3
+1631,6869,Coswig,Schloßstr. 8,"[51.882635, 12.45751]",Dorn,5
+1632,68723,Schwetzingen,Wilhelmstr. 1,"[49.388118, 8.575833]",Kias,2
+1633,68723,Schwetzingen,Mannheimer Str. 70,"[49.388456, 8.570871]",Schnabel,4
+1634,68766,Hockenheim,Rathausstr. 7,"[49.318966, 8.551177]",Groß & Deffert,3
+1635,68775,Ketsch,Enderlestr. 1,"[49.369235, 8.528353]",Flörchinger,3
+1636,68789,St. Leon-Rot,Stefanstr. 17,"[49.26758, 8.592288]",Götzmann,2
+1637,68794,Oberhausen-Rheinhausen,Marienstr. 4,"[49.260125, 8.483577]",Fell,2
+1638,68794,Oberhausen-Rheinhausen,Hauptstr. 12,"[49.281213, 8.473178]",Ebner,2
+1639,69115,Heidelberg,Eppelheimer Str. 8,"[49.405584, 8.665858]",Mantei,3
+1640,69115,Heidelberg,Häusserstr. 7,"[49.405534, 8.690941]",Seip,17
+1641,69115,Heidelberg,Bergheimer Str. 131,"[49.408094, 8.667789]",Mantei,3
+1642,69115,Heidelberg,Gaisbergstr. 74,"[49.400419, 8.691811]",Mahlzahn,5
+1643,69117,Heidelberg,Plöck 34,"[49.409251, 8.699735]",Göbes,24
+1644,69117,Heidelberg,Märzgasse 10,"[49.410178, 8.69972]",Grimm,18
+1645,69117,Heidelberg,Hauptstr. 212,"[49.412159, 8.712135]",Gundel,13
+1646,69118,Heidelberg,Peterstaler Str. 131,"[49.427445, 8.749733]",Rühle,2
+1647,69120,Heidelberg,Ladenburgerstr. 15,"[49.414512, 8.69077]",Mahlzahn,2
+1648,69120,Heidelberg,Jahnstr. 34,"[49.412874, 8.678298]",Frisch,6
+1649,69120,Heidelberg,Schulzengasse 6,"[49.413434, 8.69137]",Blank,6
+1650,69121,Heidelberg,Steubenstr. 45,"[49.425419, 8.687169]",Pfänder,4
+1651,69121,Heidelberg,Mühltalstr. 2,"[49.428333, 8.687689]",Mahlzahn,2
+1652,69123,Heidelberg,Waldhofer Str. 21,"[49.427127, 8.642535]",Riegler,2
+1653,69124,Heidelberg,Kurpfalzhof 2,"[49.376579, 8.6161]",Heidelberger Holzofenbäckerei,5
+1654,69126,Heidelberg,Heidelberger Str. 48,"[49.380318, 8.691725]",Rodemer,5
+1655,69126,Heidelberg,Rathausstr. 1,"[49.380209, 8.687955]",Mahlzahn,4
+1656,69151,Neckargemünd,Hauptstr. 6,"[49.392505, 8.800299]",Maier,2
+1657,69151,Neckargemünd,Bahnhofstr. 3,"[49.394594, 8.795668]",Hünnerkopf,3
+1658,69168,Wiesloch,Bahnhofstr. 39,"[49.291742, 8.695761]",Thiemicke,4
+1659,69181,Leimen,Ochsenbacher Str. 13,"[49.340782, 8.755707]",Emert,3
+1660,69190,Walldorf,Ziegelstr. 24,"[49.308247, 8.650638]",Stumpf,2
+1661,69190,Walldorf,Ziegelstr. 24,"[49.308247, 8.650638]",Bäckerei Stumpf,2
+1662,69190,Walldorf,Altrottstr. 50,"[49.291641, 8.652167]",Rutz,4
+1663,69198,Schriesheim,Heidelberger Str. 16,"[49.475067, 8.664804]",Heiß,3
+1664,69198,Schriesheim,Heidelberger Str. 4,"[49.475827, 8.664625]",Höfer,19
+1665,69207,Sandhausen,Bahnhofstr. 12,"[49.342389, 8.660165]",Breitner,2
+1666,69214,Eppelheim,Kirchheimer Str. 2,"[49.399039, 8.626865]",Stern,3
+1667,69221,Dossenheim,Hauptstr. 27,"[49.451373, 8.675056]",Meisel,2
+1668,69231,Rauenberg,Rothenbergerstr. 2,"[49.268005, 8.702288]",Kurz,2
+1669,69234,Dielheim,Hauptstr. 15,"[49.2825, 8.736013]",Laier,3
+1670,69412,Eberbach,Obere Badstr. 12,"[49.462174, 8.985796]",Beisel,3
+1671,69412,Eberbach,Allemühler Str. 2,"[49.451753, 8.952638]",Ralfs Backstube,2
+1672,69469,Weinheim,Tannenstr. 1,"[49.55161, 8.674423]",Wolf,3
+1673,70176,Stuttgart,Ludwigstr. 44,"[48.774199, 9.161789]",Dreßler,4
+1674,70176,Stuttgart,Johannesstr. 87,"[48.78122, 9.158385]",Kratz,5
+1675,70180,Stuttgart,Heusteigstr. 35,"[48.769817, 9.179046]",Hafendörfer,6
+1676,70180,Stuttgart,Heusteigstr. 51,"[48.768769, 9.176929]",Weible,16
+1677,70180,Stuttgart,Strohberg 21,"[48.763186, 9.172773]",Frank,3
+1678,70182,Stuttgart,Wächterstr. 9,"[48.770183, 9.184376]",Frank,12
+1679,70182,Stuttgart,Esslinger Str. 40,"[48.77502, 9.182812]",Nast,3
+1680,70186,Stuttgart,Gablenberger Hauptstr. 70,"[48.777532, 9.205966]",Königsbäck,13
+1681,70188,Stuttgart,Ostendstr. 59,"[48.786141, 9.208087]",Voß,8
+1682,70188,Stuttgart,Schwarenbergstr. 121,"[48.781747, 9.20126]",Königsbäck,8
+1683,70188,Stuttgart,Abelsbergstr. 69,"[48.785767, 9.212826]",Voß,8
+1684,70190,Stuttgart,Werastr. 141,"[48.789106, 9.195968]",Hafendörfer,3
+1685,70193,Stuttgart,Bebelstr. 21,"[48.774881, 9.155796]",Müller,6
+1686,70193,Stuttgart,Schwabstr. 104,"[48.779495, 9.156297]",Bosch,38
+1687,70195,Stuttgart,Eltinger Str. 42,"[48.77947, 9.123352]",Klinsmann,5
+1688,70197,Stuttgart,Schwabstr. 57,"[48.771839, 9.156967]",Hanser,4
+1689,70197,Stuttgart,Bebelstr. 21,"[48.774881, 9.155796]",Müller,2
+1690,70199,Stuttgart,Böblinger Str. 147,"[48.762434, 9.158472]",Metzger,17
+1691,70327,Stuttgart,Biklenstr. 5,"[48.78769, 9.247388]",Benhelm,8
+1692,70372,Stuttgart,Teinacher Str. 29,"[48.809599, 9.222387]",Brezel-Frank,5
+1693,70372,Stuttgart,Marktstr. 31,"[48.804273, 9.214659]",Sailer,4
+1694,70372,Stuttgart,Seelbergstr. 16,"[48.802481, 9.218679]",Sailer,4
+1695,70372,Stuttgart,König-Karl-Str. 33,"[48.805416, 9.219484]",Schurr,18
+1696,70374,Stuttgart,Schmidener Str. 175,"[48.814465, 9.233676]",Bürkle,2
+1697,70376,Stuttgart,Löwentorstr. 259,"[48.824142, 9.209851]",Sailer,3
+1698,70439,Stuttgart,Kornwestheimer Str. 27,"[48.849872, 9.164967]",Bauer,2
+1699,70469,Stuttgart,Stuttgarter Str. 104,"[48.809075, 9.158014]",Trölsch,2
+1700,70565,Stuttgart,Osterbronnstr. 56b,"[48.71803, 9.108139]",Bausch,7
+1701,70567,Stuttgart,Leinenweberstr. 38,"[48.729488, 9.146325]",Schrade,7
+1702,70597,Stuttgart,Albstr. 23,"[48.746379, 9.165723]",Blankenhorn,6
+1703,70599,Stuttgart,Filderhauptstr. 29,"[48.701106, 9.210592]",Gehrung,4
+1704,70736,Fellbach,Charlottenstr. 21,"[48.827575, 9.264274]",Belz,2
+1705,70771,Leinfelden-Echterdingen,Eselsmühle 1,"[48.69018, 9.152573]",Eselsmühle,8
+1706,70794,Filderstadt,Marktstr. 6,"[48.653153, 9.216195]",Böpple,3
+1707,70794,Filderstadt,Sielminger Hauptstr. 63,"[48.673004, 9.239251]",Seidel,3
+1708,70794,Filderstadt,Echterdinger Str. 1,"[48.676206, 9.216529]",Alber,3
+1709,70794,Filderstadt,Nürtinger Str. 30,"[48.678628, 9.219236]",Loucas,2
+1710,70806,Kornwestheim,Stammheimer Str. 72,"[48.855548, 9.17518]",Dannenmann,7
+1711,71032,Böblingen,Am Käppele 9,"[48.686076, 9.017619]",Späth,4
+1712,71032,Böblingen,Klaffensteinstr. 19,"[48.682372, 9.015308]",Pfaff,4
+1713,71063,Sindelfingen,Zimmerstr. 16,"[48.713919, 8.997547]",Bäckerei Großmann,3
+1714,71067,Sindelfingen,Zimmerstr. 16,"[48.713919, 8.997547]",Großmann,2
+1715,71083,Herrenberg,Tübinger Str. 27,"[48.595424, 8.871663]",Schüfer,2
+1716,71083,Herrenberg,Bronngasse 18,"[48.59586, 8.868563]",Baier,14
+1717,71088,Holzgerlingen,Altdorfer Str. 7,"[48.636596, 9.01051]",Binder,3
+1718,71101,Schönaich,Waldenbucher Str. 40,"[48.654059, 9.064342]",Vetter & Faig,4
+1719,71106,Magstadt,Blumenstr. 1,"[48.744475, 8.963647]",Keller,2
+1720,71116,Gärtringen,Kanalgasse 2,"[48.641654, 8.895242]",Glücksbeck,4
+1721,71131,Jettingen,Marktplatz 10,"[48.575825, 8.7746]",Wörner,4
+1722,71154,Nufringen,Silberburgstr. 13,"[48.623605, 8.892056]",Noller,2
+1723,71155,Altdorf,Holzgerlinger Str. 41,"[48.632756, 8.997445]",Raisch,2
+1724,71263,Weil der Stadt,Calwer Gasse 1,"[48.749511, 8.869696]",Mayer,3
+1725,71263,Weil der Stadt,Untere Klostergasse 22,"[48.750922, 8.870786]",Renz,12
+1726,71272,Renningen,Haldenstr. 2,"[48.771227, 8.90601]",Gamm,3
+1727,71332,Waiblingen,Rötestr. 11,"[48.825159, 9.311849]",Wolf,6
+1728,71332,Waiblingen,Lange Str. 27,"[48.83301, 9.316444]",Kauffmann,6
+1729,71334,Waiblingen,Quellenstr. 4,"[48.820194, 9.351518]",Uwe's Backstube,2
+1730,71364,Winnenden,Ringstr. 48,"[48.876492, 9.395614]",Weber,12
+1731,71409,Schwaikheim,Fritz-Ebert-Str. 8,"[48.869868, 9.353862]",Haag,2
+1732,71554,Weissach,Bei der langen Brücke 8,"[48.930875, 9.477363]",Trefz,2
+1733,71636,Ludwigsburg,Wernerstr. 80,"[48.895232, 9.171767]",Rommel,3
+1734,71636,Ludwigsburg,Pflugfelder Str. 2,"[48.89147, 9.183696]",Raab,6
+1735,71638,Ludwigsburg,Wilhelmstr. 18,"[48.896324, 9.190171]",Luckscheiter,3
+1736,71642,Ludwigsburg,Steinheimer Str. 18,"[48.910536, 9.264731]",Kleinle,3
+1737,71672,Marbach,Steinerstr. 26,"[48.938171, 9.258355]",Keim,2
+1738,71711,Murr,Hindenburgstr. 98,"[48.960294, 9.254222]",Ziegler,3
+1739,71726,Benningen,Ludwigsburger Str. 19,"[48.946689, 9.242034]",Schütz,2
+1740,71729,Erdmannhausen,Bahnhofstr. 53,"[48.94485, 9.298205]",Glock,2
+1741,71739,Oberriexingen,Hauptstr. 27,"[48.925632, 9.028477]",Laier,3
+1742,72070,Tübingen,Herrenberger Str. 65,"[48.52381, 9.043596]",Walker,22
+1743,72070,Tübingen,Sindelfingerstr. 4,"[48.522202, 9.037091]",Gehr,3
+1744,72070,Tübingen,Jesinger Hauptstr. 68,"[48.526282, 8.979514]",Stickel,5
+1745,72072,Tübingen,Ulrichstr. 24,"[48.513746, 9.062219]",Fischer,5
+1746,72076,Tübingen,Hartmeyerstr. 11,"[48.542067, 9.046227]",Gauker,5
+1747,72108,Rottenburg,Königstr. 60,"[48.314477, 12.437275]",Vees,4
+1748,72116,Mössingen,Falltorstr. 5,"[48.406291, 9.05774]",Wiech,4
+1749,72141,Walddorfhäslach,Stuttgarter Str. 36,"[48.587837, 9.189475]",Birgel,4
+1750,72145,Hirrlingen,Marktstr. 18,"[48.410308, 8.886558]",Leins,3
+1751,72175,Dornhan,Kirchplatz 2,"[48.349707, 8.512223]",Adlerbeck,4
+1752,72178,Waldachtal,Forchenwaldstr. 6,"[48.489932, 8.563997]",Rupp,4
+1753,72184,Eutingen,Marktstr. 16,"[48.476382, 8.74729]",Plaz,5
+1754,72213,Altensteig,Wilhelmstr. 60,"[48.58451, 8.60934]",Ziegler,2
+1755,72250,Freudenstadt,Bahnhofstr. 34,"[48.461936, 8.420291]",Knörzer,2
+1756,72275,Alpirsbach,Gerbergasse 37,"[48.345693, 8.406403]",Heidlauf,2
+1757,72296,Schopfloch,Dornstetter Str. 21,"[48.458641, 8.548393]",Ziegler,9
+1758,72488,Sigmaringen,Schmeier Str. 1,"[48.090697, 9.189556]",Schnitzer,2
+1759,72517,Sigmaringendorf,Hauptstr. 4,"[48.068713, 9.279086]",Rebholz,3
+1760,72525,Münsingen,Lichtensteinstr. 3,"[48.413805, 9.492111]",Schneider,2
+1761,72532,Gomadingen,Hauptstr. 2,"[48.399954, 9.391179]",Glocker,4
+1762,72555,Metzingen,Wilhelmstr. 19,"[48.53737, 9.281769]",Sauter,2
+1763,72555,Metzingen,Eninger Str. 4,"[48.509441, 9.306297]",Gönninger,2
+1764,72555,Metzingen,Glemser Str. 6,"[48.527044, 9.306434]",Winter,3
+1765,72582,Grabenstetten,Böhringer Str. 2,"[48.521981, 9.460678]",Ladner,2
+1766,72587,Römerstein,Untere Lau 3,"[48.496241, 9.515057]",Becka-Beck,2
+1767,72622,Nürtingen,Mühlstr. 15,"[48.629722, 9.333864]",Schlachthofbäck,2
+1768,72622,Nürtingen,Neuffener Str. 12,"[48.62537, 9.342448]",Medla,5
+1769,72631,Aichtal,Waldenbucher Str. 49,"[48.621553, 9.237312]",Goißabeck,2
+1770,72631,Aichtal,Waldenbucher Str. 3,"[48.622907, 9.2398]",Stückle,2
+1771,72649,Wolfschlugen,Esslinger Str. 2,"[48.659343, 9.286509]",NaturBackladen,3
+1772,72658,Bempflingen,Lindenstr. 17,"[48.572962, 9.265713]",Maser,6
+1773,72762,Reutlingen,Willy-Brandt-Platz 10,"[48.492219, 9.208308]",Berger,2
+1774,72764,Reutlingen,Wilhelmstr. 127,"[48.490397, 9.214777]",Berger,19
+1775,72764,Reutlingen,Wilhelmstr. 9,"[48.491545, 9.212228]",Wucherer,4
+1776,72764,Reutlingen,Aispachstr. 1,"[48.49064, 9.222143]",Wollmertshäuser,2
+1777,72768,Reutlingen,Erlenmooserstr. 2,"[48.530703, 9.200222]",Schmidt,2
+1778,72770,Reutlingen,Jettenburger Str. 16,"[48.498111, 9.17252]",Bosch,7
+1779,72770,Reutlingen,Steinachstr. 1,"[48.499874, 9.176925]",Zum Schwan,2
+1780,72770,Reutlingen,Im Weiler 25,"[48.450488, 9.139585]",Künstle,2
+1781,72810,Gomaringen,LIndenstr. 32,"[48.453113, 9.094287]",Kurz,2
+1782,73035,Göppingen,Hirschstr. 9,"[48.70785, 9.617458]",Gehrer,2
+1783,73061,Ebersbach,Dorfstr. 13,"[48.693587, 9.503699]",Rau,28
+1784,73105,Dürnau,Raubeckstr. 5,"[48.63673, 9.6374]",Böhringer,9
+1785,73207,Plochingen,Hermannstr. 5,"[48.71402, 9.416501]",Berger,3
+1786,73207,Plochingen,Moltkestr. 25,"[48.712643, 9.421144]",Hoss,3
+1787,73230,Kirchheim,Marktstr. 38,"[48.647274, 9.451233]",Scholderbeck,4
+1788,73230,Kirchheim,Dreikönigstr. 11a,"[48.64718, 9.452685]",Backhaus,4
+1789,73235,Weilheim an der Teck,Marktplatz 10,"[48.615327, 9.537699]",Scholderbeck,2
+1790,73235,Weilheim an der Teck,Ostermayerstr. 1,"[48.617399, 9.53819]",Ecker,2
+1791,73274,Notzingen,Silcherstr. 4,"[48.672889, 9.463519]",Bernauer,2
+1792,73312,Geislingen an der Steige,Bahnhofstr. 64,"[48.623364, 9.835283]",Winkler,4
+1793,73337,Bad Überkingen,Otto-Neidhart-Platz 5,"[48.601122, 9.797202]",Siehler,2
+1794,73430,Aalen,Marktplatz 22,"[48.836717, 10.092932]",Walter,2
+1795,73431,Aalen,Alte Heidenheimer Str. 12,"[48.837901, 10.097682]",Eymann,5
+1796,73447,Oberkochen,Blumenstr. 35,"[48.786186, 10.107101]",Dickenherr,2
+1797,73457,Essingen,Bäckergasse 17,"[48.782614, 9.977751]",Maier,3
+1798,73479,Ellwangen,Obere Str. 3,"[48.961186, 10.135024]",Haaf,2
+1799,73491,Neuler,Hauptstr. 11,"[48.927833, 10.068583]",Munz,5
+1800,73525,Schwäbisch Gmünd,Vordere Schmiedgasse 13-15,"[48.802541, 9.803451]",Stemke,8
+1801,73614,Schorndorf,Schlichtener Str. 66,"[48.800465, 9.52723]",Buob,2
+1802,73614,Schorndorf,Moserstr. 7,"[48.80637, 9.528808]",Hetzinger,16
+1803,73635,Rudersberg,Dr.-Hockertz-Str. 14,"[48.881928, 9.529932]",Lämmle,3
+1804,7366,Blankenstein,Absangerstr. 9,"[50.399595, 11.695338]",BrotHaus,2
+1805,73660,Urbach,Ostlandstr. 45,"[48.812256, 9.573591]",Schulze,3
+1806,73660,Urbach,Beckengasse 11,"[48.817299, 9.573753]",Schulze,3
+1807,73660,Urbach,Schießgasse 4,"[48.809357, 9.578102]",Schulze,3
+1808,7368,Remptendorf,Ziegenrücker Str. 5,"[50.574452, 11.645817]",Bärschneider,2
+1809,73728,Esslingen,Olgastr. 54,"[48.738306, 9.318477]",Dieringer,3
+1810,73728,Esslingen,Küferstr. 3,"[48.74038, 9.309467]",Mohr,3
+1811,73730,Esslingen,Wickenweg 22,"[48.727831, 9.339855]",Bessey,2
+1812,73732,Esslingen,Wäldenbronner Str. 49,"[48.75218, 9.315611]",Conzelmann,8
+1813,73760,Ostfildern,Scharnhauser Str. 10,"[48.728962, 9.250864]",Raff,2
+1814,73760,Ostfildern,Esslinger Str. 12,"[48.713649, 9.301107]",Bluthardt,4
+1815,74080,Heilbronn,Im Kreuzgrund 50,"[49.15025, 9.185733]",Lang,4
+1816,74177,Bad Friedrichshall,Ahornweg 3,"[49.235303, 9.210144]",Hirth,2
+1817,74182,Obersulm,Marktstr. 9,"[49.136485, 9.356901]",Weissmann,2
+1818,74182,Obersulm,Neuhausstr. 2,"[49.127254, 9.363179]",Trunk,4
+1819,74189,Weinsberg,Hauptstr. 13,"[49.151519, 9.28688]",Hönnige,6
+1820,74223,Flein,Heilbronner Str. 11,"[49.101121, 9.212995]",Schützle,7
+1821,74226,Nordheim,Bahnhofstr. 40,"[49.107622, 9.137843]",Hoffmann,3
+1822,7426,Königsee,Schwarzburger Str. 8,"[50.6614, 11.097899]",Heinze,2
+1823,74348,Lauffen,Charlottenstr. 13,"[49.072532, 9.148607]",Claus,3
+1824,74357,Bönnigheim,Kirchstr. 11,"[49.041727, 9.094278]",Tabler,3
+1825,74357,Bönnigheim,Poststr. 1,"[49.039536, 9.094296]",Stolzenberger,2
+1826,74366,Kirchheim,Karlstr. 7,"[49.042125, 9.146289]",Schmid,4
+1827,74369,Löchgau,Weinstr. 13,"[49.002962, 9.109003]",Keller,3
+1828,74423,Obersontheim,Fischachstr. 11,"[49.043107, 9.862493]",Müller,3
+1829,74523,Schwäbisch Hall,Gelbinger Gasse 24,"[49.118341, 9.736527]",Kronmüller,3
+1830,74523,Schwäbisch Hall,Hauffstr. 14,"[49.10252, 9.736874]",Sölch,2
+1831,74523,Schwäbisch Hall,Heimbacher Gasse 15,"[49.1124, 9.730757]",Scheu,2
+1832,74538,Rosengarten,Kirchklingenweg 2/3,"[49.062516, 9.708569]",Tauberschmidt,2
+1833,74538,Rosengarten,Hauptstr. 18,"[49.069149, 9.724765]",Gräter,2
+1834,74547,Untermünkheim,Hohenloher Str. 39,"[49.153092, 9.734196]",Krimmers Backstub,4
+1835,74549,Wolpertshausen,Haller Str. 25,"[49.16879, 9.850363]",Schieber,3
+1836,74585,Rot am See,Hauptstr. 18,"[49.252371, 10.025091]",Burkard,2
+1837,74592,Kirchberg,Hauptstr. 14,"[49.203272, 9.963992]",Schlötter,13
+1838,74613,Öhringen,Rathausstr. 54,"[49.200113, 9.500304]",Langner,3
+1839,74653,Künzelsau,Hauptstr. 59,"[49.279869, 9.689936]",Heigold,5
+1840,74722,Buchen,Linsengasse 6,"[49.52162, 9.323723]",Lunkenheimer,2
+1841,74743,Seckach,Friedhofstr. 1,"[49.444238, 9.287984]",Fritze-Beck,3
+1842,74821,Mosbach,Hauptstr. 22,"[49.351225, 9.144622]",Dreschflegel,2
+1843,74889,Sinsheim,Stiftstr. 15,"[49.255682, 8.881602]",Stift,2
+1844,74921,Helmstadt-Bargen,Hausener Str. 2,"[49.330414, 8.976374]",Schieck,2
+1845,74939,Zuzenhausen,Mühlweg 9,"[49.293404, 8.827793]",Mühlenbäcker,3
+1846,75015,Bretten,An der Salzach 7,"[49.007146, 8.724383]",Leonhardt,2
+1847,75015,Bretten,Schwandorfstr. 55,"[49.040991, 8.677862]",Stiefel,10
+1848,75015,Bretten,Pforzheimer Str. 23,"[49.035663, 8.706884]",Leonhardt,2
+1849,75015,Bretten,Melanchthonstr. 67,"[49.037737, 8.70113]",Autenrieth,2
+1850,75031,Eppingen,Berliner Ring 13,"[49.131845, 8.905726]",Müller,4
+1851,75031,Eppingen,Altstadtstr. 20,"[49.139015, 8.912025]",Stier,4
+1852,75056,Sulzfeld,Mühlbacher Str. 5,"[49.104147, 8.857593]",Finck,4
+1853,75173,Pforzheim,Bleichstr. 101,"[48.886452, 8.695856]",Wiskandt,6
+1854,75177,Pforzheim,Hohenstaufenstr. 1,"[48.895567, 8.70349]",Toifl,3
+1855,75203,Königsbach-Stein,Wössinger Str. 1,"[48.968878, 8.609355]",Bräuer,16
+1856,75210,Keltern,Westliche Friedrichstr. 9,"[48.89595, 8.602754]",Wolff,3
+1857,75228,Ispringen,Kelterstr. 1,"[48.919514, 8.664392]",Nikolaus,3
+1858,75323,Bad Wildbad,König-Karl-Str. 19,"[48.750643, 8.549276]",Haag,3
+1859,75337,Enzklösterle,Wildbaderstr. 130,"[48.678291, 8.480404]",Haag,5
+1860,75365,Calw,Heckenackerstr. 3,"[48.716811, 8.716216]",Raisch,2
+1861,75417,Mühlacker,Bahnhofstr. 33,"[48.952501, 8.845419]",Heidinger,2
+1862,75417,Mühlacker,Bahnhofstr. 21,"[48.952501, 8.845419]",Dürrmenz,2
+1863,75417,Mühlacker,Mühlstr. 8,"[48.954527, 8.833026]",Schmid,2
+1864,75428,Illingen,Bahnhofstr. 9,"[48.956907, 8.919708]",Schäfer,2
+1865,75438,Knittlingen,Brettener Str. 15,"[49.02554, 8.758666]",Reinhardt,5
+1866,7548,Gera,Maler-Reinhold-Str. 7,"[50.887701, 12.064898]",Laudenbach,9
+1867,7548,Gera,Rubitzer Str. 12,"[50.900208, 12.03784]",Möbius,3
+1868,7554,Gera,Trebnitz 5,"[50.89646, 12.127362]",Behr,5
+1869,7557,Crimla,Crimla 19,"[50.803847, 12.045626]",Treibmann,2
+1870,7580,Linda,Zur Aue 1,"[50.806383, 12.188838]",Schumann,2
+1871,7607,Eisenberg,Kleiner Brühl 2,"[50.968064, 11.900475]",Gräfe,4
+1872,76131,Karlsruhe,Rudolfstr. 11,"[49.009919, 8.422269]",Visel,9
+1873,76133,Karlsruhe,Kaiserallee 65,"[49.010711, 8.375261]",Lörz,2
+1874,76133,Karlsruhe,Gartenstr. 8,"[49.004307, 8.397087]",Meier,10
+1875,76133,Karlsruhe,Herrenstr. 27,"[49.008288, 8.397808]",Neu,8
+1876,76133,Karlsruhe,Sophienstr. 99,"[49.007722, 8.381773]",Meier,10
+1877,76135,Karlsruhe,Goethestr. 31,"[49.009149, 8.378094]",Meier,17
+1878,76137,Karlsruhe,Baumeisterstr. 20,"[49.003878, 8.40644]",Gordani,8
+1879,76137,Karlsruhe,Jollystr. 27,"[49.001786, 8.391889]",Meier,13
+1880,76137,Karlsruhe,Klauprechtstr. 13,"[49.000707, 8.392562]",Lasch,6
+1881,76149,Karlsruhe,Kirchhofstr. 100,"[49.052535, 8.382216]",Schongar,2
+1882,76149,Karlsruhe,Neureuter Hauptstr. 114,"[49.048315, 8.372395]",Glutsch,6
+1883,76185,Karlsruhe,Kaiserallee 65,"[49.010711, 8.375261]",Lörz,42
+1884,76185,Karlsruhe,Rheinstr. 24,"[49.011694, 8.361669]",Lörz,42
+1885,76185,Karlsruhe,Rheinstr. 15,"[49.011238, 8.363525]",Lörz,42
+1886,76185,Karlsruhe,Hardtstr. 10,"[49.010124, 8.355941]",Lörz,42
+1887,76189,Karlsruhe,Valentinstr. 24,"[49.003328, 8.331846]",Schweikert,2
+1888,76189,Karlsruhe,Pfalzstr. 7,"[49.005534, 8.331392]",Stähle,2
+1889,76189,Karlsruhe,Staufenbergweg 2,"[48.991385, 8.347358]",Krämer,6
+1890,76199,Karlsruhe,Diakonissenstr. 7,"[48.972485, 8.406218]",Fuchs,3
+1891,76199,Karlsruhe,Belchenstr. 21,"[48.983288, 8.394731]",Winkler,11
+1892,76227,Karlsruhe,Westmarkstr. 12,"[48.992109, 8.460373]",Weber,15
+1893,76227,Karlsruhe,Pfinztalstr. 40/42,"[48.9993, 8.472375]",Fasanenbrot,5
+1894,76227,Karlsruhe,Pfinztalsstr. 12,"[49.014068, 8.404437]",Weber,15
+1895,76275,Ettlingen,Leopoldstr. 3,"[48.940675, 8.40714]",Badische Backstub',2
+1896,76275,Ettlingen,Rheinstr. 27,"[48.942335, 8.402248]",Reuss,5
+1897,76287,Rheinstetten,Karl-Friedrich-Str. 13,"[48.959726, 8.292405]",Weber,4
+1898,7629,Hermsdorf,Rodaer Str. 17,"[50.89046, 11.854569]",Nützer,3
+1899,76297,Stutensee,Hauptstr. 143,"[49.062522, 8.470694]",Seeger,5
+1900,76297,Stutensee,Lorenzstr. 7,"[49.074425, 8.458081]",Fasanenbrot,3
+1901,76297,Stutensee,Hauptstr. 168,"[49.064542, 8.471237]",Schultheiß,2
+1902,76316,Malsch,Richard-Wagner-Str. 48,"[48.87888, 8.333612]",Dietz,3
+1903,76327,Pfinztal,Hechtstr. 7,"[48.983305, 8.549882]",Reinbold,2
+1904,76327,Pfinztal,Pforzheimer Str. 7a,"[48.965901, 8.55417]",Bauer,3
+1905,76332,Bad Herrenalb,Ettlinger Str. 36,"[48.804695, 8.444724]",Waidner,3
+1906,76351,Linkenheim-Hochstetten,Hauptstr. 125,"[49.136265, 8.418128]",Krumholz,4
+1907,76351,Linkenheim-Hochstetten,Friedenstr. 13,"[49.119521, 8.414202]",Lang,7
+1908,76356,Weingarten,Bahnhofstr. 89,"[49.058687, 8.520698]",Karg,2
+1909,76467,Bietigheim,Kirchstr. 56,"[48.913661, 8.249757]",Westermann,2
+1910,76467,Bietigheim,Industriestr. 6,"[48.910874, 8.255289]",Föry,2
+1911,76532,Baden-Baden,Schwarzwaldstr. 67,"[48.779902, 8.206723]",Austen,6
+1912,76534,Baden-Baden,Yburgstr. 16,"[48.727776, 8.160619]",Eckerle,2
+1913,76547,Sinzheim,Dr.-Josef-Fischer-Str. 7,"[48.760705, 8.167118]",Bähr,4
+1914,76571,Gaggenau,Brunnenstr. 61,"[48.780394, 8.311432]",Hornung,16
+1915,76571,Gaggenau,Goethestr. 27,"[48.801777, 8.325717]",Braun,2
+1916,76571,Gaggenau,Eichelbergstr. 35,"[48.818684, 8.307215]",Liedtke,7
+1917,76593,Gernsbach,Schloßstr. 2,"[48.762688, 8.336271]",Häfele,2
+1918,76646,Bruchsal,Huttenstr. 30,"[49.125165, 8.602073]",Kircher,9
+1919,76646,Bruchsal,Bruchsaler Str. 29,"[49.098416, 8.564316]",Scherk,2
+1920,76669,Bad Schönborn,Bahnhofstr. 37,"[49.221351, 8.644901]",Holzer,3
+1921,76694,Forst,Kirchstr. 22,"[49.153586, 8.585041]",Böser,2
+1922,76703,Kraichtal,Bachstr. 72,"[49.148856, 8.691296]",Pfeifer,3
+1923,76829,Landau,Wollmesheimer Hauptstr. 50,"[49.179122, 8.070232]",Wind,2
+1924,76829,Landau,Neustadter Str. 11,"[49.201895, 8.114955]",Julier,4
+1925,76857,Wernersberg,Hauptstr. 2,"[49.190694, 7.929738]",Burkard,4
+1926,76863,Herxheim bei Landau,Obere Hauptstr. 77,"[49.146527, 8.209321]",Trauth,2
+1927,76863,Herxheim bei Landau,Untere Hauptstr. 65,"[49.148741, 8.223269]",Trauth,2
+1928,76889,Vorderweidenthal,Hauptstr. 33,"[49.128115, 7.876305]",Stengel,2
+1929,76889,Steinfeld,Bahnhofstr. 5,"[49.049601, 8.035397]",Strasser,2
+1930,76891,Bundenthal,Hauptstr. 67,"[49.095111, 7.810762]",Busch,2
+1931,7743,Jena,Johannisplatz 8,"[50.92938, 11.583393]",Gräfe,5
+1932,7743,Jena,Grietgasse 10,"[50.926156, 11.588249]",Boulangerie Patisserie Carlos P.,16
+1933,7743,Jena,Erfurter Str. 4,"[50.937382, 11.557401]",Germar,7
+1934,7743,Jena,Naumburgerstr. 76,"[50.961967, 11.622185]",Germar,7
+1935,7749,Jena,Karl-Liebknecht-Str. 15,"[50.928909, 11.598906]",Kwak,28
+1936,77654,Offenburg,Ortenberger Str. 10,"[48.467572, 7.949934]",Glatz,3
+1937,77654,Offenburg,Erzberger Str. 1,"[48.474344, 7.953383]",Siegwart,4
+1938,77656,Offenburg,Rabenplatz 3,"[48.460961, 7.925997]",Siegwart,7
+1939,7768,Kahla,Moskauer Str. 9,"[50.808201, 11.582678]",Blume,2
+1940,77694,Kehl,Hauptstr. 104,"[48.57166, 7.816865]",Rapp,2
+1941,77704,Oberkirch,Hauptstr. 24,"[48.530345, 8.079314]",Beiser,4
+1942,77716,Haslach im Kinzigtal,Kirchgasse 7,"[48.276721, 8.088662]",Jetter,2
+1943,77723,Gengenbach,Klosterstr. 7,"[48.403608, 8.016516]",Pfaff,2
+1944,77731,Willstätt,Kehler Str. 71,"[48.530121, 7.851869]",Walter,2
+1945,77743,Neuried,Großriedgasse 24,"[48.463527, 7.801867]",Marzluf,3
+1946,77746,Schutterwald,Hauptstr. 83,"[48.453822, 7.891281]",Haltmeyer,4
+1947,77756,Hausach,Hauptstr. 42,"[48.283926, 8.169778]",Waidele,2
+1948,77797,Ohlsbach,Hauptstr. 35,"[48.434308, 7.98075]",Martin,2
+1949,77855,Achern,Kirchstr. 7,"[48.630724, 8.072671]",Lott,3
+1950,77855,Achern,Wochenmarkt,"[48.630016, 8.073558]",Hobbybäckerin,2
+1951,77880,Sasbach,Kirchplatz 3,"[48.639291, 8.092869]",Seifermann,5
+1952,77933,Lahr,Bismarckstr. 23,"[48.339828, 7.876342]",Macco,4
+1953,77955,Ettenheim,Jakob-Dürrse-Str. 12,"[48.264336, 7.813335]",Möhringer,3
+1954,77955,Ettenheim,Friedrichstr. 45,"[48.255078, 7.813404]",Käufer,2
+1955,77960,Seelbach,Hauptstr. 61,"[48.316062, 7.938314]",Hug,2
+1956,78048,Villingen-Schwenningen,Konstanzer Str. 9,"[48.07045, 8.455293]",Hilsenbeck,2
+1957,78050,Villingen-Schwenningen,Mühlenstr. 26,"[48.046097, 8.469816]",Kutmühle,2
+1958,78050,Villingen-Schwenningen,Kanzleigasse 28,"[48.060672, 8.456969]",Beha,6
+1959,7806,Neustadt an der Orla,Arnshaugker Str. 15,"[50.735538, 11.743238]",Höfer,4
+1960,78073,Bad Dürrheim,Hauptstr. 46,"[47.976013, 8.605583]",Bäckerei Schmid,2
+1961,78112,St. Georgen,Belchenweg 21,"[48.13742, 8.341127]",Dold,2
+1962,78112,St. Georgen,Im Tal 4,"[48.161039, 8.316479]",Dold,2
+1963,78120,Furtwangen,Dörfle 50,"[48.026063, 8.173084]",Volk,3
+1964,78136,Schonach,Untertalstr. 21,"[48.138615, 8.210981]",Kienzler,2
+1965,78166,Donaueschingen,Käferstr. 5,"[47.952834, 8.494979]",Schmid,2
+1966,78183,Hüfingen,Hauptstr. 25,"[47.924049, 8.4888]",Hofmaier,6
+1967,78199,Bräunlingen,Zähringer Str. 28,"[47.929833, 8.446517]",Scherzinger,3
+1968,78224,Singen,Ekkehardstr. 75,"[47.762818, 8.841762]",Auer,2
+1969,78234,Engen,Gerwigstr. 21,"[47.853161, 8.794138]",Waldschütz,18
+1970,78244,Gottmadingen,Anneliese-Bilger-Platz 1,"[47.733731, 8.778999]",Eduard,9
+1971,78345,Moos,Hauptstr. 43,"[47.70689, 8.953741]",Engelmann,3
+1972,78462,Konstanz,Schulthaißstr. 1,"[47.662004, 9.166683]",Kutmühle Berthold Riegger,6
+1973,78462,Konstanz,Brauneggerstr. 14,"[47.663166, 9.17013]",Menge,20
+1974,78462,Konstanz,Gottlieber Str. 42,"[47.662898, 9.163823]",Menge,20
+1975,78462,Konstanz,Münzgasse 16,"[47.661222, 9.175015]",Reginbrot Reginbert Keller,30
+1976,78464,Konstanz,Friedrichstr. 28,"[47.67753, 9.185333]",Stickel,10
+1977,78464,Konstanz,Mainaustr. 165,"[47.683849, 9.202099]",Fricke,5
+1978,78465,Konstanz,Kapitän-Romer-Str. 20,"[47.736477, 9.116751]",Kopp,3
+1979,78465,Konstanz,Großherzog-Friedrich-Str. 3,"[47.713697, 9.175259]",Zuck,2
+1980,78467,Konstanz,Wollmatinger Str. 92,"[47.679689, 9.168136]",Deifel,3
+1981,78467,Konstanz,Gottmannplatz 2,"[47.672808, 9.170589]",Zuck & Kaun,5
+1982,78479,Reichenau,Freiherr-von-Hundbiss-Str. 8,"[47.696031, 9.062444]",Peter,2
+1983,78479,Reichenau,Zelleleweg 2,"[47.688519, 9.080899]",Laib & Seele,11
+1984,78532,Tuttlingen,Schaffhauser Str. 23,"[47.981748, 8.818341]",Schäfle,2
+1985,78532,Tuttlingen,Wochenmarkt,"[47.984438, 8.818666]",Panificio San Lorenzo,2
+1986,78549,Spaichingen,Hauptstr. 107,"[48.073965, 8.737772]",Büchle,7
+1987,78573,Wurmlingen,Rosenstr. 4,"[48.003653, 8.778693]",Russ,2
+1988,78647,Trossingen,Ernst-Haller-Str. 16,"[48.06714, 8.638923]",Link,6
+1989,78739,Hardt,Königsfelder Str. 8,"[48.171155, 8.419881]",Menrad,3
+1990,79098,Freiburg,Bertholdstr. 21,"[48.268897, 7.731569]",Faller,3
+1991,79098,Freiburg,Kaiser-Joseph-Str. 264,"[47.992307, 7.848426]",Pfeifle,3
+1992,79098,Freiburg,Schwabentorring 3,"[47.991181, 7.854513]",Lienhart,2
+1993,79100,Freiburg,Bayernstr. 2,"[47.985867, 7.839213]",Lay,17
+1994,79102,Freiburg,Schwarzwaldstr. 98,"[47.987911, 7.874965]",Faller,12
+1995,79102,Freiburg,Gerwigplatz 9,"[47.983027, 7.854034]",Schneider,3
+1996,79102,Freiburg,Zasiusstr. 9,"[47.986893, 7.850583]",Bühler,51
+1997,79102,Freiburg,Talstr. 34,"[47.913957, 8.209104]",Pfeifle,2
+1998,79106,Freiburg,Eschholzstr. 36,"[48.000015, 7.837229]",La Baguette,4
+1999,79110,Freiburg,Elsässer Str. 62,"[48.015547, 7.822594]",Ortlieb,2
+2000,79111,Freiburg,Blumenstr. 15,"[47.980201, 7.803835]",Steimle,2
+2001,79111,Freiburg,Blumenstr. 35,"[47.980201, 7.803835]",Hess,2
+2002,79114,Freiburg,Krozinger Str. 9,"[47.994172, 7.8106]",Pfeifle,2
+2003,79114,Freiburg,Bugginger Str. 54,"[47.997681, 7.806887]",Pfeifle,2
+2004,79115,Freiburg,Markgrafenstr. 6,"[47.991779, 7.816301]",Schöpflin,5
+2005,79115,Freiburg,Haslacher Str. 84,"[47.993892, 7.828788]",Der Backladen,2
+2006,79115,Freiburg,Carl-Kistner-Str. 20,"[47.990803, 7.817599]",Pfeifle,11
+2007,79117,Freiburg,Alemannenstr. 58a,"[47.977926, 7.901604]",Feger,4
+2008,79117,Freiburg,Großtalstr. 57,"[47.963898, 7.908903]",Brüstle,2
+2009,79183,Waldkirch,Schwarzwaldstr. 63,"[48.08233, 7.930817]",Zimmermann,5
+2010,79183,Waldkirch,Lange Str. 48,"[48.099329, 7.968312]",Schill,2
+2011,79183,Waldkirch,Marktplatz 10,"[48.093714, 7.961283]",Herr,5
+2012,79194,Gundelfingen,Talstr. 31,"[48.0318, 7.871744]",Ritter,3
+2013,79206,Breisach,Landhof Rothaus 1,"[47.997761, 7.629431]",Rothaus,3
+2014,79211,Denzlingen,Hindenburgstr. 80,"[48.069433, 7.886957]",Dick,7
+2015,79219,Staufen,Hauptstr. 70,"[47.881291, 7.73029]",Decker,3
+2016,79219,Staufen,Hauptstr. 27,"[47.882502, 7.73127]",Faller,3
+2017,79227,Schallstadt,Baslerstr. 82,"[47.956628, 7.756184]",Kaisers Gute Backstube,2
+2018,79227,Schallstadt,Baslerstr. 39,"[47.958414, 7.763528]",Kaisers Gute Backstube,2
+2019,79232,March,Bottinger Str. 7,"[48.072032, 7.796668]",Zipfel,5
+2020,79238,Ehrenkirchen,Gewerbestr. 2,"[47.923513, 7.727285]",Kaisers Gute Backstube,2
+2021,79249,Merzhausen,Dorfstr. 5,"[47.965382, 7.827738]",Lay,2
+2022,79268,Bötzingen,Hauptstr. 64,"[48.072341, 7.720114]",Rinklin,3
+2023,79268,Bötzingen,Markgrafenstr. 5,"[48.067129, 7.716647]",Barleon,2
+2024,79279,Vörstetten,Freiburger Str. 9,"[48.064433, 7.850626]",Ritter,2
+2025,79295,Sulzburg,Hauptstr. 54,"[47.84323, 7.703973]",Ruf,5
+2026,79312,Emmendingen,Karl-Friedrich-Str. 51,"[48.122847, 7.843639]",Müller,2
+2027,79341,Kenzingen,Hauptstr. 4,"[48.224733, 7.777197]",Bilharz,4
+2028,79346,Endingen,Hauptstr. 64,"[48.141984, 7.703232]",Griesbaum,4
+2029,79348,Freiamt,Mühlenweg 4,"[48.157548, 7.923397]",Mellert,2
+2030,79359,Riegel,Hauptstr. 27,"[48.191307, 7.768357]",Rösch,2
+2031,79369,Wyhl,Endinger Str. 38,"[48.159049, 7.664225]",Schwab,2
+2032,79379,Müllheim,Kanalgasse 5,"[47.809403, 7.614319]",Kotz,4
+2033,79379,Müllheim,Staltengasse 2,"[47.807038, 7.629951]",Kirschner,4
+2034,79395,Neuenburg,Zähringerstr. 17,"[47.813162, 7.566331]",Schweikert,2
+2035,79424,Auggen,Hauptstr. 31,"[47.788078, 7.590544]",Singer,6
+2036,79539,Lörrach,Palmstr. 20,"[47.614068, 7.662313]",Paul,16
+2037,79540,Lörrach,Dinkelbergstr. 5,"[47.604658, 7.684617]",Bender,2
+2038,79541,Lörrach,Hauinger Str. 2,"[47.638766, 7.684163]",Schmid,3
+2039,7957,Langenwetzendorf,Hauptstr. 45,"[50.718716, 12.112774]",Kroll,2
+2040,79576,Weil am Rhein,Hauptstr. 49,"[47.590109, 7.602098]",Fuchs,7
+2041,79585,Steinen,Rathausstr. 1,"[47.63936, 7.747025]",Seeger,3
+2042,79618,Rheinfelden,Hauptstr. 38a,"[47.56061, 7.741617]",Patane,2
+2043,79639,Grenzach-Wyhlen,Hauptstr. 23,"[47.555214, 7.662431]",Surdmann,4
+2044,79650,Schopfheim,Wallstr. 15,"[47.650856, 7.819547]",Bender,5
+2045,79650,Schopfheim,Hebelstr. 6,"[47.646437, 7.82619]",Trefzger,2
+2046,79686,Hasel,Klingentalstr. 2,"[47.656281, 7.897604]",Geiger,3
+2047,79713,Bad Säckingen,Dorfstr. 15,"[47.57275, 8.000169]",Geng,2
+2048,79730,Murg,Hännerstr. 8,"[47.585323, 8.032704]",Huber,2
+2049,79733,Görwihl,Hauptstr. 51,"[47.643143, 8.077761]",Baumgartner,2
+2050,79822,Titisee-Neustadt,Vordertal 4,"[47.978592, 8.172819]",Beha,3
+2051,80331,München,Neuturmstr. 3,"[48.137624, 11.581004]",Knapp & Wenig,10
+2052,80331,München,Viktualienmarkt 3,"[48.135685, 11.577033]",Karnoll,2
+2053,80331,München,Dienerstr. 12,"[48.138609, 11.577672]",Manufactum,3
+2054,80333,München,Theresienstr. 49,"[48.150532, 11.565988]",Griesbeck,2
+2055,80333,München,Augustenstr. 70,"[48.149605, 11.563382]",Schmidt,3
+2056,80335,München,Kreittmayrstr. 5,"[48.150639, 11.556508]",Hofpfisterei,4
+2057,80339,München,Bergmannstr. 44,"[48.134312, 11.536682]",Amandine,10
+2058,80469,München,Klenzestr. 69,"[48.128497, 11.570986]",Dukatz,2
+2059,80469,München,Hans-Sachs-Str. 12,"[48.129857, 11.569699]",Alof,5
+2060,80538,München,Oettingenstr. 44,"[48.146406, 11.593393]",Schmidt,2
+2061,8056,Zwickau,Marienstr. 72,"[50.719043, 12.495442]",Engelmann,17
+2062,8060,Zwickau,Erntestr. 2,"[50.717542, 12.455674]",Roggenfeldt,4
+2063,80634,München,Aldrianstr. 1,"[48.150682, 11.526187]",Sedlmayr,3
+2064,80634,München,Volkartstr. 11,"[48.154982, 11.533389]",Neulinger,24
+2065,80636,München,Volkartstr. 48,"[48.157003, 11.538953]",Neulinger,20
+2066,80637,München,Orffstr. 22-24,"[48.158877, 11.534982]",Ruffini,6
+2067,80687,München,Perhamerstr. 42,"[48.142058, 11.495982]",Bonert,3
+2068,80687,München,Reutterstr. 42,"[48.141032, 11.489298]",Hoffmann,3
+2069,80687,München,Agnes-Bernauer-Str. 122,"[48.140058, 11.495948]",Leuchtenberg,2
+2070,80796,München,Bauerstr. 1,"[48.158729, 11.574616]",Münchener Boulangerie,4
+2071,80796,München,Tengstr. 31,"[48.159466, 11.568894]",Dompierre,7
+2072,80803,München,Herzogstr. 6,"[48.162248, 11.584742]",Brotraum,18
+2073,80805,München,Gundelindenstr. 1,"[48.169157, 11.593991]",K.O. Back,5
+2074,80807,München,Keferloherstr. 86,"[48.181662, 11.57163]",Unser Brotladen,2
+2075,80997,München,Rueßstr. 14,"[48.184178, 11.473814]",Schmidt,2
+2076,80999,München,Ludwigsfelder Str. 1,"[48.197177, 11.459303]",Schuhmair,4
+2077,8112,Wilkau-Haßlau,Dorfstr. 4,"[50.654634, 12.508912]",Heyne,3
+2078,81241,München,Gräfstr. 68,"[48.142674, 11.461343]",Keller,4
+2079,81241,München,Planegger Str. 92,"[48.136017, 11.453191]",Eckl,4
+2080,81243,München,Seldeneckstr. 29,"[48.151513, 11.423075]",Meyer,2
+2081,81245,München,Altostr. 20,"[48.158077, 11.415376]",Mayer,3
+2082,81245,München,Sibeliusstr. 20,"[48.15581, 11.472138]",Müllritter,5
+2083,8132,Mülsen,Schulstr. 2,"[50.756989, 12.620853]",Korb,2
+2084,81369,München,Johann-Clanze-Str. 104,"[48.112911, 11.520618]",Gattinger,2
+2085,81479,München,Festingstr. 4,"[48.078028, 11.518093]",Reis,13
+2086,81667,München,Wörthstr. 17,"[48.131112, 11.599674]",Neulinger,5
+2087,81667,München,Lothringer Str. 15,"[48.127392, 11.598057]",Obori,3
+2088,81667,München,Steinstr. 27,"[48.132634, 11.596448]",Schmidt,10
+2089,81669,München,Klagenfurterstr. 15,"[48.11271, 11.604785]",Ilmberger,3
+2090,81669,München,Rablstr. 38,"[48.126761, 11.59355]",Fritz,8
+2091,81673,München,Baumkirchner Str. 13,"[48.128651, 11.630313]",Aumüller,2
+2092,81675,München,Steinstr. 27,"[48.128508, 11.593915]",Schmidt,4
+2093,81675,München,Goetheplatz 2,"[48.129989, 11.557949]",Schmidt,4
+2094,81675,München,Ismaninger Str. 91,"[48.146873, 11.603842]",Schmidt,4
+2095,81675,München,Einsteinstr. 86,"[48.135553, 11.606223]",Stadler,3
+2096,81677,München,Prinzregentenstr. 111,"[48.138633, 11.611299]",Chocolatte,8
+2097,81735,München,Hofangerstr. 39,"[48.11506, 11.629734]",Haggenmüller,4
+2098,81737,München,Neubiberger Str. 11,"[48.098739, 11.631357]",Brücklmaier,6
+2099,81825,München,St.-Augustinus-Str. 32,"[48.115657, 11.659687]",Biber,6
+2100,81827,München,Wasserburger Landstr. 205,"[48.113719, 11.700451]",Kronawitter,3
+2101,81925,München,Cosimastr. 175,"[48.167819, 11.631277]",Kistenpfennig,2
+2102,82024,Taufkirchen,Tölzer Str. 6,"[48.04296, 11.618872]",Götz,4
+2103,82031,Grünwald,Bodenschneidstr. 1,"[48.034863, 11.530018]",BrotZeit,20
+2104,82031,Grünwald,Marktplatz 7,"[48.03928, 11.521559]",Hauer,6
+2105,82031,Grünwald,Wilhelm-Keim-Str. 3,"[48.042016, 11.524235]",Amandine et Chocolat,2
+2106,82054,Sauerlach,Von-Aychsteter-Str. 2,"[47.974476, 11.652967]",Dorfbäckerei,4
+2107,82061,Neuried,Gautinger Str. 3,"[48.09249, 11.464994]",Vor Ort,6
+2108,82069,Schäftlarn,Schorner Str. 3,"[47.991904, 11.452811]",Valent,3
+2109,8209,Auerbach,Ottostr. 13,"[50.497659, 12.395783]",Trützschler,2
+2110,82131,Gauting,Starnberger Str. 18,"[48.065216, 11.378493]",Cramer,2
+2111,82140,Olching,Jeisstr. 5,"[48.218346, 11.327489]",Bömmel,3
+2112,82140,Olching,Daxer Str. 18,"[48.211306, 11.339559]",Bihler,3
+2113,82140,Olching,Feursstr. 21,"[48.212483, 11.337023]",Ganser,3
+2114,82166,Gräfelfing,Aubinger Str. 4b,"[48.129906, 11.431444]",Sickinger,4
+2115,82178,Puchheim,Lagerstr. 25a,"[48.179542, 11.361416]",Schönleben,6
+2116,82223,Eichenau,Hauptstr. 9,"[48.171055, 11.322704]",Fritz,3
+2117,82229,Seefeld,Marienplatz 5,"[48.036259, 11.21929]",Zobel,2
+2118,82234,Weßling,Gautinger Str. 65,"[48.074042, 11.263726]",Böck,2
+2119,82256,Fürstenfeldbruck,Hauptstr. 21,"[48.17879, 11.254617]",Bücherl,4
+2120,82291,Mammendorf,Augsburger Str. 19,"[48.207031, 11.160526]",Winkler,5
+2121,82296,Schöngeising,Amperstr. 35,"[48.1408, 11.203186]",Eider,2
+2122,82319,Starnberg,Weilheimer Str. 15g,"[47.994097, 11.335198]",Tonis Backstube,3
+2123,82346,Andechs,Andechser Str. 25,"[47.970234, 11.184065]",Benedikter,2
+2124,82347,Bernried,Dorfstr. 2,"[47.867714, 11.293197]",Ziegler,2
+2125,82362,Weilheim,Obere Stadt 45,"[47.838326, 11.147504]",Schwarzmaier,6
+2126,8237,Steinberg,Hauptstr. 14,"[53.928694, 9.461555]",Näser,2
+2127,82380,Peißenberg,Hauptstr. 65,"[47.800009, 11.069935]",Bauer,2
+2128,82393,Iffeldorf,Hofmark 18,"[47.770841, 11.320013]",Huber,4
+2129,82395,Obersöchering,Alpenstr. 35,"[47.739621, 11.219771]",Tichelkamp,2
+2130,82396,Pähl,Gut Kerschlach 1,"[47.905663, 11.175103]",Bäckerei Kasprowicz,2
+2131,82398,Polling,Mühlweg 11,"[47.797204, 11.164847]",Schwarzmaier,2
+2132,82418,Murnau,Obermarkt 48,"[47.680623, 11.201351]",Meister & Erl,3
+2133,82467,Garmisch-Patenkirchen,Zugspitzstr. 112,"[47.547163, 10.964097]",Nuß,2
+2134,82538,Geretsried,Schlesische Str. 11,"[47.878319, 11.466814]",Schmid-Bäck,2
+2135,82541,Münsing,Ammerlander Hauptstr. 15,"[47.901672, 11.342991]",Graf,3
+2136,82541,Münsing,Hauptstr. 6,"[47.902532, 11.36881]",Wagner,6
+2137,82549,Königsdorf,Hauptstr. 4,"[47.818273, 11.482562]",Königsdorfer Backstube,2
+2138,8297,Zwönitz,Dorfchemnitzer Str. 20,"[50.646001, 12.826267]",Wetzel,2
+2139,83022,Rosenheim,Max-Josefs-Platz 15,"[47.856022, 12.127143]",Bergmeister,2
+2140,83022,Rosenheim,Ludwigsplatz 15,"[47.856811, 12.129664]",Wolter,17
+2141,83026,Rosenheim,Nussbaumstr. 22,"[47.826696, 12.105451]",Mooslechner,2
+2142,8304,Schönheide,Hauptstr. 61,"[50.502923, 12.532884]",Schelz,4
+2143,83052,Bruckmühl,Vagener Str. 10,"[47.879747, 11.909172]",Huber,4
+2144,83088,Kiefersfelden,Franz-Huber-Str. 26,"[47.637259, 12.170611]",Brunschmid,2
+2145,8315,Lauter-Bernsbach,Lauterer Str. 61,"[50.571293, 12.766524]",Ullmann,2
+2146,83209,Prien,Jahnstr. 8,"[47.861141, 12.354114]",Müller,8
+2147,83233,Bernau,Priener Str. 7,"[47.812272, 12.372574]",Obermaier,3
+2148,83246,Unterwössen,Hauptstr. 38,"[47.738268, 12.45848]",Guggenbichler,3
+2149,83339,Chieming,Hauptstr. 27,"[47.895462, 12.543683]",Stumhofer,6
+2150,83349,Palling,Postweg 1,"[48.001405, 12.637746]",Mirlach,3
+2151,83377,Vachendorf,Hauptstr. 10,"[47.842125, 12.607295]",Wagner,7
+2152,83395,Freilassing,Marienplatz 6,"[47.837804, 12.978141]",Hartl,2
+2153,8340,Schwarzenberg,Obere Schloßstr. 8,"[47.754266, 11.950519]",Kittel,2
+2154,83404,Ainring,Ulrichshögler Str. 8,"[47.811338, 12.942128]",Götzinger,2
+2155,83410,Laufen,Bahnhofstr. 5,"[47.935803, 12.92654]",Noppinger,3
+2156,83410,Laufen,Marienplatz 1,"[47.939881, 12.936593]",Hartl,5
+2157,8344,Grünhain-Beierfeld,August-Bebel-Str. 89,"[50.563945, 12.78937]",Lenk,4
+2158,83454,Anger,Pfaffendorfstr. 9,"[47.801749, 12.85799]",Wolfgruber,2
+2159,83457,Bayerisch Gmain,Berchtesgadener Str. 53,"[47.719314, 12.904314]",Neumeier,4
+2160,83512,Wasserburg,Marienplatz 1,"[48.061012, 12.233672]",Schranne,5
+2161,83512,Wasserburg,Bahnhofstr. 18,"[48.060177, 12.193872]",Straßgütl,2
+2162,83556,Griesstätt,Rosenheimer Str. 2,"[48.002797, 12.180943]",Zeilinger,2
+2163,83564,Soyen,Dorfstr. 7,"[48.11116, 12.209943]",Federkiel,2
+2164,83569,Vogtareuth,Rosenheimer Str. 4,"[47.945327, 12.180552]",Adlmaier,2
+2165,8359,Breitenbrunn,Siedlereck 19,"[50.474192, 12.768439]",Müller,3
+2166,83607,Holzkirchen,Münchner Str. 36,"[47.886418, 11.688538]",Hohenadl,3
+2167,83620,Feldkirchen-Westerham,Neuburgstr. 2,"[47.874137, 11.885994]",Steingraber,3
+2168,83623,Dietramszell,Am Richteranger 2,"[47.849507, 11.595274]",Ehegartner,2
+2169,83646,Bad Tölz,Marktstr. 50,"[47.760944, 11.561313]",Hegmann-Büttner,2
+2170,83646,Bad Tölz,Nockhergasse 1,"[47.761736, 11.560106]",Detter,3
+2171,83661,Lenggries,Marktstr. 8,"[47.682032, 11.57679]",Waldherr,2
+2172,83661,Lenggries,Karwendelstr. 18,"[47.679154, 11.577626]",Kellner,2
+2173,83671,Benediktbeuern,Dorfstr. 37,"[47.704781, 11.415368]",Lugauer,3
+2174,83673,Bichl,Kocheler Str. 10,"[47.719609, 11.412599]",Eberl,4
+2175,83677,Reichersbeuern,Richtergasse 6,"[47.766931, 11.637603]",Meier,2
+2176,83684,Tegernsee,Schwaighofstr. 78,"[47.694396, 11.772084]",Eberwein,3
+2177,8371,Glauchau,Hans-Lorenz-Str. 1,"[50.82472, 12.542605]",Forster,2
+2178,83714,Miesbach,Marktplatz 8,"[47.788484, 11.83161]",Grabmaier,2
+2179,83727,Schliersee,Karl-Haider-Str. 4,"[47.736191, 11.861916]",Zanger,3
+2180,84028,Landshut,Schirmgasse 278,"[48.534938, 12.153372]",Gebel,2
+2181,84034,Landshut,Seligenthaler Str. 50,"[48.545129, 12.143442]",Oberprieler,4
+2182,84079,Bruckberg,Dorfstr. 6,"[48.523535, 11.994637]",Günthner,4
+2183,84130,Dingolfing,Am Herrenweiher 2,"[48.626367, 12.496504]",Glück,2
+2184,84137,Vilsbiburg,Schwalbenfeldstr. 19,"[48.449664, 12.343031]",Mareis,2
+2185,84155,Bodenkirchen,Erdmannsdorfer Str. 4,"[48.399231, 12.392573]",Eder,2
+2186,8427,Fraureuth,Hauptstr. 80,"[50.701655, 12.35258]",Ketterl,3
+2187,84335,Mitterskirchen,Hofmarkstr. 7,"[48.349532, 12.732816]",Bruckmeier,2
+2188,84405,Dorfen,Unterer Marktplatz 23,"[48.274636, 12.15301]",Zauner,2
+2189,84419,Schwindegg,Mühldorfer Str. 15,"[48.272141, 12.256437]",Lohmayer,3
+2190,84453,Mühldorf,Katharinenplatz 22,"[48.243073, 12.519409]",Sax,2
+2191,84503,Altötting,Herrenmühlstr. 6,"[48.228876, 12.678076]",Schwarzmaier,2
+2192,84524,Neuötting,Frauengasse 14,"[48.239404, 12.687665]",Hofstetter,2
+2193,84539,Ampfing,Kirchenplatz 13,"[48.255463, 12.416146]",Auer & Greimel,3
+2194,84543,Winhöring,Obere Hofmark 11,"[48.26559, 12.65056]",Schmidhuber,2
+2195,84570,Polling,Annabrunner Str. 2,"[48.224275, 12.505378]",Bauer,2
+2196,8468,Reichenbach im Vogtland,Obermylauer Weg 39,"[50.623924, 12.279159]",Forbriger,2
+2197,8485,Lengenfeld,Poststr. 13,"[50.567517, 12.363661]",Lenk,3
+2198,8485,Lengenfeld,Bahnhofstr. 22,"[50.571475, 12.36973]",Fenderl,2
+2199,85049,Ingolstadt,Harderstr. 15,"[48.7665, 11.422564]",Sengl,2
+2200,85072,Eichstätt,Weißenburger Str. 25,"[48.895002, 11.177012]",Schneller,8
+2201,85084,Reichertshofen,Marktstr. 11,"[48.657751, 11.468399]",Heiglbeck,2
+2202,85221,Dachau,Münchner Str. 11,"[48.255893, 11.437575]",Denk,5
+2203,85229,Markt Indersdorf,Marktplatz 6,"[48.361424, 11.375104]",Seidl,2
+2204,8523,Plauen,Feldstr. 24,"[50.495728, 12.129519]",Müller,3
+2205,8523,Plauen,Stresemannstr. 54,"[50.495412, 12.144556]",Winter,3
+2206,85238,Petershausen,Pertrichplatz 9,"[48.409258, 11.468215]",Kloiber,2
+2207,85241,Hebertshausen,Dachauer Str. 9,"[48.302547, 11.487299]",Polz,2
+2208,85247,Schwabhausen,Friedberger Str. 13,"[48.30788, 11.327643]",Gürtner,7
+2209,85276,Pfaffenhofen,Hauptplatz 16,"[48.530029, 11.507124]",Bergmeister,2
+2210,85276,Pfaffenhofen,Moosburger Str. 5,"[48.527971, 11.510963]",Breitner,6
+2211,85283,Wolnzach,Schlossstr. 3,"[48.603001, 11.626338]",Stammler,2
+2212,85354,Freising,Vöttinger Str. 59,"[48.398124, 11.738245]",Vieregg,4
+2213,85354,Freising,Obere Hauptstr. 38,"[48.399322, 11.740695]",Muschler,3
+2214,85356,Freising,Gute Änger 1,"[48.383789, 11.759554]",Schweller,2
+2215,85356,Freising,Landshuter Str. 62-64,"[48.405236, 11.757015]",Muschler,6
+2216,85368,Moosburg an der Isar,Neustadtstr. 43,"[48.480275, 11.937012]",Grundner,2
+2217,85395,Attenkirchen,Hopfenstr. 1,"[48.507373, 11.757088]",Schindele,6
+2218,85399,Hallbergmoos,Freisinger Str. 50,"[48.302362, 11.707126]",Schröppel,2
+2219,85402,Kranzberg,Obere Dorfstr. 27,"[48.406005, 11.611835]",Stiele,2
+2220,85419,Mauern,Hauptstr. 8,"[48.517195, 11.896396]",Schrafstetter,2
+2221,85435,Erding,Landshuter Str. 26,"[48.30592, 11.910617]",Neumaier,3
+2222,85452,Moosinning,Dorfstr. 18,"[48.273769, 11.844181]",Ways,2
+2223,85462,Eitting,Obere Hauptstr. 3,"[48.359555, 11.890557]",Emslander,2
+2224,85540,Haar,Salmdorfer Str. 1,"[48.109734, 11.725998]",Dümig,7
+2225,85567,Grafing,Am Schammacher Feld 10,"[48.034884, 11.943545]",Martins Holzofenbäckerei,2
+2226,85570,Markt Schwaben,Schulstr. 17,"[48.191433, 11.867376]",Hupfer,2
+2227,85609,Aschheim,Erdinger Landstr. 15,"[48.154233, 11.691536]",Hornburger,5
+2228,85614,Kirchseeon,Marktplatz 10,"[48.070823, 11.889201]",Rau,2
+2229,85614,Kirchseeon,Bucher Str. 2,"[48.081459, 11.85932]",Gmeinwieser,8
+2230,85625,Glonn,Herrmannsdorf 7,"[47.99334, 11.898184]",Herrmannsdorfer,2
+2231,85625,Baiern,Raphaelweg 14,"[47.958251, 11.895999]",Glonntaler Backkultur,2
+2232,85646,Anzing,Högerstr. 19,"[48.152191, 11.853956]",Tobi's Backstube,2
+2233,85653,Aying,Münchener Str. 28,"[47.972853, 11.773497]",Fritz,3
+2234,85757,Karlsfeld,Jägerstr. 18,"[48.21723, 11.463944]",Slanitz,2
+2235,85777,Fahrenzhausen,Gewerbering 13,"[48.339729, 11.573815]",Kistenpfennig,2
+2236,86150,Augsburg,Maximilianstr. 4,"[48.368381, 10.89726]",Wolf,2
+2237,86150,Augsburg,Spitalgasse 6,"[48.361746, 10.902613]",Laxgang,4
+2238,86150,Augsburg,Ludwigstr. 1,"[48.369938, 10.895642]",Wolf,2
+2239,86153,Augsburg,Berliner Allee 40,"[48.371805, 10.921239]",Schubert,2
+2240,86154,Augsburg,Stuttgarter Str. 17,"[48.398375, 10.873865]",Wolf,3
+2241,86179,Augsburg,Bürgermeister-Widmeier-Str. 39,"[48.312832, 10.910873]",Gesswein,7
+2242,86199,Augsburg,Bobinger Str. 81,"[48.312601, 10.85653]",Bauer,2
+2243,86199,Augsburg,Wellenburger Str. 35,"[48.33899, 10.860449]",Degle,4
+2244,86316,Friedberg,Ludwigstr. 14,"[48.354828, 10.980178]",Schwab,2
+2245,86316,Friedberg,Herrgottsruhstr. 2,"[48.355989, 10.985344]",Scharold,3
+2246,86316,Friedberg,St.-Michaels-Platz 5,"[48.333295, 11.007992]",Geppert,3
+2247,86391,Stadtbergen,Schloßstr. 65,"[48.350756, 10.836078]",Klemm,2
+2248,86399,Bobingen,Lindauer Str. 5,"[48.265137, 10.827386]",Kästele,2
+2249,86444,Affing,Gebenhofner Str. 6,"[48.457856, 10.982251]",Eichner,2
+2250,86470,Thannhausen,Frühmeßstr. 21,"[48.28372, 10.468093]",Sahlender,4
+2251,86492,Egling,Hauptstr. 15,"[48.181062, 10.971251]",Schickinger,2
+2252,86510,Ried,Bachernstr. 1,"[48.292433, 11.041252]",Moser,2
+2253,86567,Hilgertshausen-Tandern,Dachauer Str. 20,"[48.421958, 11.309168]",Regnath,2
+2254,86633,Neuburg,Franziskaner Str. 201,"[53.944958, 11.590298]",Schlegl,4
+2255,86825,Bad Wörishofen,Gammenrieder Str. 3,"[48.000514, 10.59346]",Kaiser,2
+2256,86836,Untermeitingen,Keltenstr. 5,"[48.162961, 10.815158]",Immel,2
+2257,86899,Landsberg,Katharinenstr. 17,"[48.042533, 10.865964]",Lahner,9
+2258,86911,Dießen,Johann-Michael-Fischer-Str. 6,"[47.944728, 11.089664]",Helmer,2
+2259,86919,Utting,Kirchberg 2,"[48.027404, 11.086462]",Neu,3
+2260,86935,Rott,Weilheimerstr. 3,"[47.906347, 10.970763]",Storch,2
+2261,86938,Schondorf,Landsberger Str. 49,"[48.0500384, 11.0836389]",Lindner,3
+2262,86944,Unterdießen,Am Wiesbach 17,"[47.979667, 10.82805]",Pfatischer,8
+2263,86956,Schongau,Karwendelring 1,"[47.80562, 10.875648]",Enzensperger,2
+2264,87435,Kempten,Maler-Lochbihler-Str. 2,"[47.716736, 10.311739]",Franz & Xaver,2
+2265,87448,Waltenhofen,Rathausstr. 7,"[47.672092, 10.304307]",Speiser,3
+2266,87488,Betzigau,Hauptstr. 10,"[47.736568, 10.381502]",Reitberger,2
+2267,87490,Haldenwang,Schafgasse 13,"[47.802076, 10.343403]",Einsiedler,5
+2268,87494,Rückholz,Ottenerstr. 1,"[47.660805, 10.547708]",Lipp,5
+2269,87509,Immenstadt,Hirschstr. 2,"[47.560362, 10.21861]",Ettensperger,2
+2270,87544,Blaichach,Sonthofener Str. 11,"[47.537168, 10.258154]",Härle,3
+2271,87600,Kaufbeuren,Hafenmarkt 4,"[47.880847, 10.621247]",Dolp,8
+2272,87600,Kaufbeuren,Sudetenstr. 112,"[47.911622, 10.635568]",Posselt,2
+2273,87600,Kaufbeuren,Liegnitzer Str. 35,"[47.895362, 10.631019]",Körber,5
+2274,87616,Marktoberdorf,Hohenwartstr. 10,"[47.778364, 10.622323]",Druckmiller,3
+2275,87629,Füssen,Franziskanergasse 9,"[47.567713, 10.701231]",Eder,5
+2276,87634,Obergünzburg,Unterer Markt 33,"[47.847217, 10.419105]",Kohlhund,2
+2277,87660,Irsee,Mühlstr. 9,"[47.908805, 10.569684]",Koneberg,2
+2278,87671,Ronsberg,Heinrich-Nicolaus-Str. 10,"[47.898845, 10.413765]",Glas,2
+2279,87700,Memmingen,Waldhornstr. 8,"[47.984365, 10.185098]",Blaschke,2
+2280,87719,Mindelheim,Maximilianstr. 17,"[48.046527, 10.489564]",Fäßler,10
+2281,87724,Ottobeuren,Bahnhofstr. 3,"[47.942963, 10.306038]",Hasebäck,3
+2282,88045,Friedrichshafen,Pacellistr. 11,"[47.670175, 9.468488]",Rieser,2
+2283,88046,Friedrichshafen,Albrecht-Dürer-Str. 60,"[47.656863, 9.493276]",Weber,2
+2284,88069,Tettnang,Storchenstr. 13,"[47.671878, 9.590934]",Reck,6
+2285,88074,Meckenbeuren,Hirschlatter Str. 2,"[47.68364, 9.547494]",Müller,4
+2286,88074,Meckenbeuren,Oskar-von-Miller-Platz 2,"[47.700895, 9.557938]",Weber,2
+2287,88079,Kressbronn am Bodensee,Seestr. 21,"[47.590779, 9.59996]",Zeh,2
+2288,88085,Langenargen,Klosterstr. 1,"[47.598852, 9.539429]",Metzler,9
+2289,88085,Langenargen,Bleichweg 4,"[47.592566, 9.548624]",Ebner,2
+2290,88090,Immenstaad,Bachstr. 10,"[47.665001, 9.366069]",Heger,2
+2291,88131,Lindau,Schneeberggasse 7,"[47.546998, 9.683539]",Schönegg,11
+2292,88131,Lindau,Schneeberggasse 7,"[47.546998, 9.683539]",Schönegg,11
+2293,88171,Weiler-Simmerberg,Alte Salzstr. 35,"[47.586044, 9.945662]",Rieser,3
+2294,88212,Ravensburg,Kirchstr. 15,"[47.782883, 9.614123]",Honold,6
+2295,88212,Ravensburg,Herrenstr. 20,"[47.782164, 9.61555]",Decker,5
+2296,88213,Ravensburg,Schlosshalde 31,"[47.807503, 9.548307]",Müller,9
+2297,88214,Ravensburg,Goethestr. 9,"[54.326079, 10.125]",Schwendinger,2
+2298,88239,Wangen,Paradiesstr. 3,"[47.685781, 9.833394]",Fidelisbäck,10
+2299,88239,Wangen,Lindauerstr. 43,"[47.680683, 9.821806]",Vogel,2
+2300,88250,Weingarten,Löwenplatz 8,"[47.806732, 9.639851]",Schmidt,3
+2301,88250,Weingarten,Schützenstr. 9,"[47.808757, 9.641808]",Frick,9
+2302,88267,Vogt,Ravensburger Str. 15,"[47.774836, 9.763047]",Denzel,2
+2303,88284,Wolpertswende,Mochenwangener Str. 1,"[47.894073, 9.615019]",Hausmann,3
+2304,88287,Grünkraut,Bodnegger Str. 12,"[47.74219, 9.653662]",Glahs,2
+2305,88299,Leutkirch,Kornhausstr. 7,"[47.826614, 10.02262]",Wandinger,14
+2306,88316,Isny,Untere Achstr. 4,"[47.694861, 10.039336]",Lambert,4
+2307,88339,Bad Waldsee,Biberacherstr. 120,"[47.932548, 9.759275]",Gueter,2
+2308,88339,Bad Waldsee,Ravensburger Str. 4,"[47.920004, 9.754656]",Herrmann,2
+2309,88361,Altshausen,Schwärzbühl 8,"[47.93483, 9.53555]",König,2
+2310,88364,Wolfegg,Rötenbacher Str. 2,"[47.819871, 9.793114]",Heinzelmann,3
+2311,88400,Biberach an der Riß,Buchauer Str. 10,"[48.092607, 9.707471]",Engel,2
+2312,88400,Biberach an der Riß,Schwanenstr. 8,"[48.100124, 9.789258]",Grün,3
+2313,88400,Biberach an der Riß,Pfluggasse 11,"[48.098659, 9.791187]",Häring,9
+2314,88416,Ochsenhausen,Poststr. 10,"[48.071357, 9.952218]",Grieser,3
+2315,88427,Bad Schussenried,Hauptstr. 65,"[47.973124, 9.642901]",Laux,4
+2316,88433,Schemmerhofen,Alte Biberacher Str. 13,"[48.173214, 9.790487]",Keck,4
+2317,88471,Laupheim,Oberdorf 14,"[48.230583, 9.827648]",Mast,3
+2318,88487,Mietingen,Baltringer Hauptstr. 20,"[48.170981, 9.865077]",Vorhauer,2
+2319,88499,Altheim,Schmiedgasse 1,"[48.145338, 9.450064]",Unger,2
+2320,88521,Ertingen,Riedlinger Str. 9,"[48.099871, 9.463371]",Kapp,2
+2321,88529,Zwiefalten,Loretto 1,"[48.250263, 9.462589]",Loretto,4
+2322,88633,Heiligenberg,Postplatz 6,"[47.818958, 9.310941]",Neyer,2
+2323,88662,Überlingen,Aufkircher Str. 42,"[47.770346, 9.158062]",Baader,2
+2324,88662,Überlingen,In den Mühlen 1,"[47.763063, 9.17056]",Alfredo,2
+2325,88677,Markdorf,Hauptstr. 34,"[47.721984, 9.385521]",Neumann,4
+2326,88682,Salem,Bodenseestr. 136,"[47.760815, 9.28488]",Straub,3
+2327,88682,Salem,Nüffernstr. 23,"[47.762159, 9.3108]",Weber,2
+2328,88709,Hagnau am Bodensee,Hansjakobstr. 2,"[47.675512, 9.318739]",Löwen,6
+2329,89073,Ulm,Herrenkellergasse 17,"[48.400369, 9.992211]",Ulmer Zuckerbäcker Zaiser,25
+2330,89073,Ulm,Münsterplatz,"[48.398332, 9.99107]",Bailer,3
+2331,89075,Ulm,Burgsteige 1,"[48.40667, 9.984608]",Kunath,5
+2332,89077,Ulm,Schlößlesgasse 9,"[48.396215, 9.955103]",Mack,6
+2333,89077,Ulm,Haßlerstr. 25,"[48.389865, 9.979389]",Dreikönigsbäckerei,3
+2334,89077,Ulm,Gneisenaustr. 62,"[48.394581, 9.972078]",Adelbert,14
+2335,89079,Ulm,Schloßstr. 6,"[48.359745, 9.98945]",Wegerer,2
+2336,89079,Ulm,Donautalstr. 5,"[48.360382, 9.987345]",Steck,3
+2337,89129,Langenau,Kirchgasse 5,"[48.49729, 10.119133]",Wildermuth,4
+2338,89129,Langenau,Lange Str. 14,"[48.500558, 10.122354]",Buck,8
+2339,89134,Blaustein,Martinstr. 7,"[48.416039, 9.920517]",Wiedensohler,2
+2340,89150,Laichingen,Gottlieb-Daimler-Str. 13,"[48.489403, 9.70368]",Juhn,2
+2341,89160,Dornstadt,Kreuzstr. 1,"[48.465744, 9.941808]",Schmid,2
+2342,89179,Beimerstetten,Bahnhofstr. 20,"[48.482311, 9.981948]",Kornmühle,4
+2343,89180,Berghülen,Brechgasse 5,"[48.458987, 9.779973]",Mangold,2
+2344,89231,Neu-Ulm,Bahnhofstr. 9,"[48.393101, 10.002306]",Dreihäupl,2
+2345,89269,Vöhringen,Wannengasse 7,"[48.276501, 10.077884]",Wiedenmayer,3
+2346,89312,Günzburg,Marktplatz 34,"[48.455215, 10.275572]",Reiter,2
+2347,89312,Günzburg,St. Blasiusstr. 16,"[48.438996, 10.321137]",Hurler,2
+2348,89415,Lauingen,Geiselinastr. 8,"[48.570035, 10.431164]",Himmelbäck,4
+2349,89426,Mödingen,Bergstr. 7,"[48.634196, 10.456217]",Werner,2
+2350,89443,Schwenningen,Hintere Gasse 1,"[48.634602, 10.648006]",Häußler,3
+2351,89537,Giengen an der Brenz,Ulmer Str. 58,"[48.619169, 10.233356]",Hochstatter,4
+2352,89597,Munderkingen,Donaustr. 25,"[48.235864, 9.643733]",Doll,11
+2353,90403,Nürnberg,Bergstr. 23,"[49.457096, 11.07473]",Düll,2
+2354,90403,Nürnberg,Neutorstr. 12,"[49.456249, 11.071944]",Pabst,5
+2355,90408,Nürnberg,Meuschelstr. 61,"[49.462372, 11.082614]",Krietsch,2
+2356,90409,Nürnberg,Parkstr. 10,"[49.463826, 11.08769]",Albert,3
+2357,90409,Nürnberg,Pirckheimerstr. 98,"[49.461107, 11.087321]",Walzel,3
+2358,90411,Nürnberg,Ziegelsteinstr. 137,"[49.483234, 11.104772]",Schwarz,5
+2359,90419,Nürnberg,Kirschgartenstr. 8,"[49.458052, 11.053189]",Kugler,4
+2360,90425,Nürnberg,Kleinreuther Weg 149,"[49.475312, 11.071183]",Döllner,4
+2361,90429,Nürnberg,Kernstr. 7,"[49.450615, 11.054671]",Gabsteiger,5
+2362,90443,Nürnberg,Gibitzenhofstr. 42,"[49.439705, 11.067047]",Ipta,2
+2363,90453,Nürnberg,Mühlhofer Hauptstr. 6,"[49.376257, 11.025326]",Frauenknecht,2
+2364,90455,Nürnberg,An der Radrunde 151,"[49.371381, 11.08194]",Gugel,6
+2365,90455,Nürnberg,Kornburger Hauptstr. 22,"[49.355945, 11.099235]",Nusselt,2
+2366,90459,Nürnberg,Wirthstr. 52,"[49.439352, 11.087651]",Griessinger,18
+2367,90459,Nürnberg,Ammanstr. 14,"[49.439081, 11.079461]",Bauer,2
+2368,90461,Nürnberg,Wilhelm-Spaeth-Str. 8,"[49.442194, 11.093794]",Balota,5
+2369,90469,Nürnberg,Saarbrückener Str. 4,"[49.395818, 11.085196]",Woitinek,4
+2370,90475,Nürnberg,Löwenberger Str. 137,"[49.408322, 11.166157]",Gstatter,4
+2371,90475,Nürnberg,Fischbacher Hauptstr. 136,"[49.419101, 11.187527]",Auer,3
+2372,90478,Nürnberg,Schloßstr. 48,"[49.445685, 11.106183]",Hildes Backwut,43
+2373,90478,Nürnberg,Glockenhofstr. 41,"[49.444457, 11.089933]",Ludwig,2
+2374,90478,Nürnberg,Dürrenhofstr. 29,"[49.447104, 11.097909]",Imhof,4
+2375,90482,Nürnberg,Laufamholzstr. 5,"[49.461344, 11.132346]",Beck,2
+2376,90489,Nürnberg,Sulzbacher Str. 99,"[49.459771, 11.101306]",Böhmer,7
+2377,90489,Nürnberg,Mathildenstr. 28,"[49.461661, 11.100358]",Düll,3
+2378,90513,Zirndorf,Hauptstr. 6,"[49.441771, 10.955617]",Popp,3
+2379,90513,Zirndorf,Nürnberger Str. 51,"[49.438881, 10.96485]",Hartmann,3
+2380,90518,Altdorf,Neumarkter Str. 14,"[49.384736, 11.360753]",Fuchs,8
+2381,90522,Oberasbach,Bahnhofstr. 55,"[49.420094, 10.983334]",Neumeister,2
+2382,90530,Wendelstein,Hauptstr. 19,"[49.355583, 11.14348]",Enßer,3
+2383,90562,Heroldsberg,Hauptstr. 48,"[49.531689, 11.151491]",Volland,4
+2384,90587,Veitsbronn,Retzelfembacher Hauptstr. 36,"[49.509482, 10.858154]",Berthold,2
+2385,90592,Schwarzenbruck,Neumarkter Str. 1,"[49.33711, 11.296854]",Gmelch,4
+2386,90613,Großhabersdorf,Nürnberger Str. 20,"[49.404431, 10.791164]",Streicher,4
+2387,90614,Ammerndorf,Rothenburger Str. 36,"[49.420629, 10.850208]",Zwanziger,2
+2388,90762,Fürth,Jakobinenstr. 6,"[49.468818, 11.001836]",Barbante,12
+2389,90762,Fürth,Ottostr. 19,"[49.471928, 10.986343]",Göllner,18
+2390,90762,Fürth,Theaterstr. 28,"[49.474159, 10.983465]",Wehr,22
+2391,90763,Fürth,Kaiserstr. 70,"[49.46197, 10.984495]",Wild,4
+2392,90763,Fürth,Fichtenstr. 62,"[49.466028, 10.99105]",Schuhmann,13
+2393,90763,Fürth,Leyher Str. 7,"[49.466316, 11.001285]",Fehr,7
+2394,90768,Fürth,Regelsbacher Str. 30,"[49.48664, 10.924204]",Wein-Mühle,4
+2395,90768,Fürth,Herzogenauracher Str. 2,"[49.530652, 10.965074]",Hentschel,3
+2396,91052,Erlangen,Kirchenstr. 12,"[49.600998, 11.003819]",Trapper,3
+2397,91054,Erlangen,Bergstr. 1,"[49.605797, 11.004956]",Gulden,6
+2398,91054,Erlangen,Paulistr. 6,"[49.597989, 11.002585]",Frank,8
+2399,91056,Erlangen,Herdegenplatz 7,"[49.568788, 10.959509]",Mörtel,4
+2400,91056,Erlangen,Naturbadstr. 3,"[49.628355, 10.939867]",Seitz,3
+2401,91056,Erlangen,Schallershofer Str. 72,"[49.588729, 10.97444]",Trapper,2
+2402,91074,Herzogenaurach,Hauptstr. 34,"[49.568129, 10.884358]",Lang,2
+2403,91077,Hetzles,Hintere Dorfstr. 16,"[49.633086, 11.129151]",Mehl,2
+2404,91077,Neunkirchen,Äußerer Markt 8,"[49.613922, 11.128848]",Merkel,2
+2405,91080,Uttenreuth,Erlanger Str. 81,"[49.596552, 11.070267]",Böhm,4
+2406,91088,Bubenreuth,Eichenplatz 4,"[49.619677, 11.008106]",Patz,5
+2407,91094,Langensendelbach,Hauptstr. 9,"[49.640946, 11.071937]",Singer,5
+2408,91094,Langensendelbach,Hauptstr. 2,"[49.641556, 11.070361]",Kögel,2
+2409,91126,Schwabach,Markgrafenstr. 17,"[49.329897, 10.992039]",Sproßmann,13
+2410,9116,Chemnitz,Limbacher Str. 146,"[50.835026, 12.885982]",Pietschmann,3
+2411,9117,Chemnitz,Hohensteiner Str. 19,"[50.81262, 12.823297]",Herrmann,2
+2412,91174,Spalt,Steinschraube 2,"[49.199045, 10.877856]",Frey,5
+2413,91186,Büchenbach,Breitenloher Str. 4,"[49.263326, 11.050644]",Paul,4
+2414,91207,Lauf,Welserstr. 7,"[49.553754, 11.232054]",Windisch,2
+2415,9123,Chemnitz,Markersdorfer Str. 59,"[50.793002, 12.902343]",Werner,2
+2416,91257,Pegnitz,Lehm 6,"[49.75649, 11.540944]",Buchauer Holzofenbäckerei,6
+2417,9126,Chemnitz,Stadlerstr. 23,"[50.820291, 12.929367]",Hahn Bäck,30
+2418,9130,Chemnitz,Reinhardtstr. 41,"[50.843648, 12.941894]",Peuckert,2
+2419,91301,Forchheim,Hauptstr. 21,"[49.720232, 11.058239]",Nagel,3
+2420,91301,Forchheim,Wiesentstr. 38,"[49.719932, 11.062613]",Wölker,7
+2421,91315,Höchstadt,Hauptstr. 30,"[49.704563, 10.805344]",Baier,2
+2422,91320,Ebermannstadt,Am Marktplatz 8,"[49.779845, 11.187372]",Hetz,3
+2423,91327,Gößweinstein,Behringersmühle 6,"[49.78064, 11.333338]",4-Täler-Beck,2
+2424,91336,Heroldsbach,Hausener Str. 1,"[49.691594, 11.009326]",Ort,2
+2425,91362,Pretzfeld,Wannbach 20,"[49.746378, 11.2133]",Sitter,3
+2426,91438,Bad Windsheim,Rothenburger Str. 18,"[49.499908, 10.412664]",Wimmer,6
+2427,91443,Scheinfeld,Hauptstr. 22,"[49.665822, 10.464734]",Mergenthaler,2
+2428,91448,Emskirchen,Marktstr. 3,"[49.550861, 10.718095]",Fuhrmann,2
+2429,91459,Markt Erlbach,Hauptstr. 43,"[49.493004, 10.65236]",Schindler,5
+2430,91462,Dachsbach,Hindenburgplatz 1,"[49.641837, 10.706713]",Erbel,12
+2431,91522,Ansbach,Philipp-Zorn-Str. 16,"[49.293125, 10.580386]",Zwirner,2
+2432,91522,Ansbach,Fischstr. 4,"[49.303629, 10.576278]",Eberlein,4
+2433,91572,Bechhofen,Dinkelsbühler Str. 6,"[49.157317, 10.548506]",Rieß,2
+2434,91604,Flachslanden,Ansbacher Str. 12,"[49.39689, 10.512078]",Meyer,3
+2435,91732,Merkendorf,Hauptstr. 20a,"[49.200597, 10.699974]",Rosenrot,3
+2436,91785,Pleinfeld,Nürnberger Str. 1,"[49.104698, 10.989183]",Ernst,4
+2437,91785,Pleinfeld,Mäusleinsmühle 5,"[49.104404, 10.978041]",Mäusleinsmühle,2
+2438,91790,Burgsalach,Hauptstr. 20,"[49.033557, 11.093181]",Strauß,3
+2439,91792,Ellingen,Weißenburger Str. 12,"[49.058703, 10.968258]",Specht,2
+2440,9212,Limbach-Oberfrohna,Albertstr. 26,"[50.859098, 12.752279]",Kempt,2
+2441,9221,Neukirchen,Stollberger Str. 12,"[50.778783, 12.865283]",Barth,2
+2442,92224,Amberg,Marktplatz 1,"[49.44165, 11.861728]",Kellermann,3
+2443,92224,Amberg,Georgenstr. 53,"[49.444107, 11.85257]",Kredler,2
+2444,92224,Amberg,Bayreuther Str. 59,"[49.451479, 11.853605]",Kredler,2
+2445,92237,Sulzbach-Rosenberg,Hauptstr. 12a,"[49.490433, 11.765474]",Fischer,2
+2446,9224,Chemnitz,Chemnitzer Str. 80,"[50.81197, 12.791538]",Bösewetter,2
+2447,92262,Schwend,Hauptstr. 16,"[49.4137, 11.641229]",Pilhöfer,2
+2448,92318,Neumarkt,Unterer Markt 2,"[49.279624, 11.459466]",Düring,2
+2449,92345,Dietfurt,Vogelthal 8,"[49.036248, 11.583544]",Huber,2
+2450,92348,Berg,Postweg 2a,"[49.384559, 11.439679]",Wehr,3
+2451,92421,Schwandorf,Neubäckergasse 2,"[49.328858, 12.106746]",Glaab,2
+2452,92507,Nabburg,Georgenstr. 14,"[49.451755, 12.180681]",Urban,4
+2453,92533,Wernberg-Köblitz,Marktplatz 2,"[49.539379, 12.160896]",Meillinger,2
+2454,92637,Weiden,Rehbühlstr. 101,"[49.684852, 12.146085]",Retzer,3
+2455,92637,Weiden,Lerchenfeldstr. 2,"[49.673089, 12.152044]",Beyer,3
+2456,92705,Leuchtenberg,Lückenrieth 1,"[49.590361, 12.245543]",Lindner,3
+2457,92708,Mantel,Etzenrichter Str. 7,"[49.651325, 12.043383]",Grünbauer,2
+2458,92712,Pirk,Rathausplatz 10,"[49.634103, 12.165245]",Häring,4
+2459,92714,Pleystein,Finkenhammer 1,"[49.645926, 12.409979]",Finkenhammer,2
+2460,93047,Regensburg,Obere Bachgasse 7,"[49.017894, 12.094874]",Schwarzer Kipferl,2
+2461,93047,Regensburg,Arnulfsplatz 5,"[49.019918, 12.089058]",Arnulfsbäckerei,2
+2462,93047,Regensburg,Ostengasse 6,"[49.019825, 12.101855]",Hummel,8
+2463,93049,Regensburg,Großprüfening 29,"[49.010255, 12.0343]",Dorfbackhaus,3
+2464,93049,Regensburg,Prüfeninger Str. 44a,"[49.016984, 12.074369]",Opera,2
+2465,93051,Regensburg,Augsburger Str. 64,"[48.995727, 12.070977]",Ellerbeck,2
+2466,93059,Regensburg,Schwandorfer Str. 18,"[49.029813, 12.099586]",Butz,2
+2467,93059,Regensburg,Donaustaufer Str. 20,"[49.030356, 12.105784]",Frohnhöfer,3
+2468,93083,Obertraubling,Landshuter Str. 8,"[48.965648, 12.166808]",Magerl,2
+2469,93087,Alteglofsheim,Thalmassinger Str. 4,"[48.920047, 12.201953]",Schmidbauer,2
+2470,93152,Nittendorf,Nittendorfer Str. 3,"[49.013871, 11.959611]",Altmann,2
+2471,93176,Beratzhausen,Schloßhof 7,"[49.095408, 11.806134]",Schloßbeck,2
+2472,93333,Neustadt,Neustädter Str. 12,"[48.821979, 11.782508]",Regner,4
+2473,9337,Hohenstein-Ernstthal,Conrad-Clauß-Str. 2e,"[50.800545, 12.705176]",Müller,2
+2474,93437,Furth im Wald,Stadtplatz 16,"[49.309198, 12.84459]",Limmer,2
+2475,93449,Waldmündchen,Bahnhofstr. 2,"[49.37759, 12.701779]",Kraus,3
+2476,93449,Waldmündchen,Schulstr. 19,"[49.3789, 12.706493]",Philipps,5
+2477,93453,Neukirchen,Marktstr. 18,"[49.26587, 12.966126]",Jogl,2
+2478,9366,Stollberg,Ernst-Thälmann-Str. 24,"[48.541955, 13.691862]",Seidel,2
+2479,94032,Passau,Bratfischwinkel 14,"[48.575294, 13.457316]",Edelmühle,3
+2480,94032,Passau,Ludwigsplatz 4,"[48.574321, 13.457237]",Wagner,5
+2481,94032,Passau,Spitalhofstr. 88,"[48.57039, 13.425327]",Hoft,2
+2482,94110,Wegscheid,Kasberg 24,"[48.599651, 13.788363]",Stemplinger,2
+2483,94136,Thyrnau,Grafmühle 1,"[48.614874, 13.537947]",Grafmühle,3
+2484,94139,Breitenberg,Lindenweg 1,"[48.691753, 13.778856]",Pilger,2
+2485,94161,Ruderting,Passauer Str. 25,"[48.653083, 13.409349]",Wagner,7
+2486,9419,Thum,Marktstr. 6,"[50.671563, 12.951658]",Graupner,2
+2487,94234,Viechtach,Mönchshofstr. 5,"[49.076078, 12.888981]",Laumer,6
+2488,94234,Viechtach,Linprunstr. 8,"[49.078986, 12.88409]",Sirtl,2
+2489,9427,Ehrenfriedersdorf,Markt 15,"[50.646626, 12.96998]",Nönnig,2
+2490,9430,Drebach,Karl-Stülpner-Weg 16,"[50.705592, 13.056412]",Haase,3
+2491,94315,Straubing,Grasiger Weg 1,"[48.864971, 12.588745]",Steinleitner,2
+2492,94315,Straubing,Fraunhofer Str. 7,"[48.882633, 12.570793]",Steinleitner,2
+2493,94344,Wiesenfelden,Straubinger Str. 11,"[49.036703, 12.539193]",Forster,3
+2494,94365,Parkstetten,Straubinger Str. 10,"[48.916841, 12.599206]",Schaller,5
+2495,94469,Deggendorf,Amanstr. 16,"[48.836657, 12.962706]",Simeth,2
+2496,94491,Hengersberg,Bahnhofstr. 5,"[48.772454, 13.051151]",Zacher,2
+2497,9456,Mildenau,Dorfstr. 94,"[50.565325, 13.079636]",Hertel,4
+2498,9496,Marienberg,Kirchstr. 13,"[50.651743, 13.164002]",Förster,2
+2499,95028,Hof,Oberkotzauer Str. 13,"[50.292827, 11.93525]",Reinel,2
+2500,95028,Hof,Oelznitzerstr. 10,"[50.321902, 11.917881]",Laubmann,4
+2501,95032,Hof,Oberkotzauer Str. 13,"[50.292827, 11.93525]",Reinel,8
+2502,95032,Hof,Heinrich-Heine-Str. 1,"[50.296189, 11.906655]",Schirner,2
+2503,95100,Selb,Jahnstr. 21,"[50.167021, 12.131796]",Vogel,3
+2504,95111,Rehau,Wallstr. 17,"[50.249003, 12.037008]",Beck ums Eck,9
+2505,95111,Rehau,Pfarrstr. 2,"[50.250005, 12.033289]",Neukirchner,2
+2506,95126,Schwarzenbach,Königsberger Str. 9,"[50.21636, 11.945013]",Eheim,5
+2507,95126,Schwarzenbach,Rehauer Str. 7,"[50.22583, 11.943177]",Fiedler,3
+2508,95131,Schwarzenbach,Ringstr. 10,"[50.292975, 11.62729]",Friedrich,3
+2509,95138,Bad Steben,Schleeknock 3,"[50.382213, 11.616395]",Schleeknocker,2
+2510,95145,Oberkotzau,Von-Kotzau-Str. 10,"[50.260579, 11.93805]",Klein,2
+2511,95179,Geroldsgrün,Am Hügel 5,"[50.375362, 11.59344]",Stelzer,3
+2512,95182,Döhlau,Hofer Str. 30,"[50.281114, 11.945418]",Griesbach,3
+2513,95183,Töpen,Schleizer Str. 31,"[50.386462, 11.876731]",Schultz,4
+2514,95194,Regnitzlosau,Nentschau 35,"[50.301251, 12.047593]",Herbert,2
+2515,95195,Röslau,Egerstr. 5,"[50.081727, 11.977934]",Prell,3
+2516,95195,Röslau,Ludwigsfelde Str. 8,"[50.085634, 11.973392]",Prell,3
+2517,95213,Münchberg,Luitpoldstr. 16,"[50.190988, 11.784428]",Fickenscher,12
+2518,95213,Münchberg,Friedrich-Ebert-Str. 79,"[50.186474, 11.792744]",Popp,5
+2519,95234,Sparneck,Münchberger Str. 8,"[50.162148, 11.843085]",Günther,2
+2520,95326,Kulmbach,Spitalgasse 7,"[50.107901, 11.458176]",Schoberth,3
+2521,95326,Kulmbach,Grünwehr 14,"[50.110472, 11.46295]",Groß,9
+2522,95362,Kupferberg,Kulmbacher Str. 2,"[50.136139, 11.570056]",Dumler,2
+2523,95444,Bayreuth,Richard-Wagner-Str. 25,"[49.942612, 11.580936]",Hulinsky,2
+2524,95444,Bayreuth,Jean-Paul-Str. 7,"[49.93994, 11.576658]",Lang,19
+2525,95497,Goldkronach,Bayreuther Str. 11,"[50.009685, 11.68572]",Beck,2
+2526,95500,Heinersreuth,Postweg 1,"[49.966469, 11.533297]",Hübsch,3
+2527,95694,Mehlmeisel,Webergasse 29,"[49.972829, 11.85733]",Hoss,2
+2528,9599,Freiberg,Körnerstr. 21,"[50.913052, 13.343093]",cafelounge,2
+2529,9599,Freiberg,Stollngasse 9,"[50.9166, 13.345424]",Klemm,4
+2530,9599,Freiberg,Kesselgasse 12,"[50.917174, 13.345025]",Schaarschmidt,5
+2531,9599,Freiberg,Petersstr. 12,"[50.916281, 13.341836]",Otto,3
+2532,96047,Bamberg,Kapuzinerstr. 6,"[49.893458, 10.886177]",Kapuzinerbeck,12
+2533,96047,Bamberg,Lange Str. 35,"[49.892164, 10.891352]",Beckstein,14
+2534,96047,Bamberg,Ottostr. 12,"[49.887854, 10.896113]",Schüller,14
+2535,96049,Bamberg,Lugbank 8,"[49.890537, 10.88522]",Seel,7
+2536,96050,Bamberg,Erlichstr. 46,"[49.887919, 10.910085]",Loskarn,2
+2537,96052,Bamberg,Ferdinand-Tietz-Str. 10,"[49.90906, 10.922219]",Kerling,11
+2538,96052,Bamberg,Rodezstr. 1,"[49.913767, 10.908833]",Fuchs,2
+2539,96052,Bamberg,Obere Königstr. 7,"[49.897173, 10.892062]",Kerling,11
+2540,96110,Scheßlitz,Drosendorfer Str. 22,"[49.959527, 11.000837]",Rahmer,2
+2541,96110,Scheßlitz,Altenbach 37,"[49.9745, 11.036897]",Schmittinger,2
+2542,96114,Hirschaid,Bamberger Str. 30,"[49.81903, 10.987492]",Göller,2
+2543,96114,Hirschaid,Kirchplatz 9,"[49.817081, 10.989299]",Göller,2
+2544,96117,Memmelsdorf,Hauptstr. 30,"[49.9334, 10.955277]",Ohland,3
+2545,96135,Stegaurach,Bamberger Str. 13,"[49.863641, 10.845223]",Nöth,2
+2546,96145,Seßlach,Luitpoldstr. 31,"[50.188403, 10.842502]",Schoder,4
+2547,96181,Rauhenebrach,Hauptstr. 19,"[49.894132, 10.579627]",Oppel,8
+2548,96231,Bad Staffelstein,Serkendorfer Str. 18,"[50.085837, 11.073049]",Schauer,2
+2549,96231,Bad Staffelstein,Bamberger Str. 12,"[50.101094, 10.998839]",Kerling,3
+2550,96231,Bad Staffelstein,Bahnhofstr. 29,"[50.102635, 10.998847]",Tischer,2
+2551,96253,Untersiemau,Birkenstr. 1,"[50.180978, 10.995065]",Wicklein,2
+2552,96317,Kronach,Klosterstr. 2,"[50.242391, 11.322889]",Österlein,3
+2553,96332,Pressig,Am Markt 12,"[50.363712, 11.317145]",Schelhorn,3
+2554,96355,Tettau,Hauptstr. 16,"[50.472695, 11.259087]",Ruß,7
+2555,96450,Coburg,Creidlitzer Str. 102,"[50.226551, 10.982291]",Feiler,2
+2556,96450,Coburg,Lützelbucher Str. 17,"[50.26325, 10.968803]",Weber,3
+2557,96465,Neustadt,Bettelhecker Str. 5,"[50.347425, 11.131574]",Motschmann,2
+2558,96465,Neustadt,Heubischer Str. 1,"[50.320784, 11.126887]",Süßenguth,2
+2559,9648,Mittweida,Rochlitzer Str. 65,"[50.986184, 12.974968]",Wonneberger,12
+2560,9648,Mittweida,Rochlitzer Str. 80,"[50.986325, 12.974305]",Blochberger,2
+2561,96482,Ahorn,Hauptstr. 26,"[50.237026, 10.953654]",Schoder,2
+2562,96515,Sonneberg,Oberlinder Marktplatz 5,"[50.340949, 11.180493]",Steiner,2
+2563,96529,Mengersgereuth-Hämmern,Hammerberg 1,"[50.392388, 11.122635]",Langhammer,2
+2564,97070,Würzburg,Haugerpfarrgasse 4,"[49.79763, 9.93413]",Zierlein,20
+2565,97070,Würzburg,Karmelitenstr. 1,"[49.793303, 9.927492]",Köhler,7
+2566,97072,Würzburg,Arndtstr. 14,"[49.779001, 9.933657]",Köhler,3
+2567,97072,Würzburg,St.-Benedikt-Str. 10,"[49.791553, 9.945134]",Schiffer,2
+2568,97074,Würzburg,Erthalstr. 48,"[49.78472, 9.948883]",Hanselmann,6
+2569,97074,Würzburg,Meyer-Olbersleben-Str. 1,"[49.789473, 9.953955]",Fehrer,2
+2570,97084,Würzburg,Klosterstr. 32,"[49.764022, 9.951867]",Körner,3
+2571,97084,Würzburg,Klosterstr. 6,"[49.764216, 9.949642]",Roth,19
+2572,97084,Würzburg,Am Schloss 2,"[49.720004, 9.967122]",Köhler,5
+2573,97209,Veitshöchheim,Heidenfelderstr. 7,"[49.834518, 9.891005]",Grünwald,2
+2574,97225,Zellingen,Brückenstr. 22,"[49.898749, 9.818743]",Jäger,2
+2575,97246,Eibelstadt,Oberer Graben 21,"[49.724826, 10.001232]",Falltor,6
+2576,97261,Güntersleben,Thüngersheimer Str. 11,"[49.869946, 9.902045]",Beck,3
+2577,97270,Kist,Untere Dorfstr. 29,"[49.745113, 9.842179]",Popp,3
+2578,97276,Margetshöchheim,Zur Mainfähre 1,"[49.83601, 9.866451]",Maxl Bäck,2
+2579,97279,Prosselsheim,Dorfstr. 22,"[49.878552, 10.123156]",Josef Schwind,2
+2580,97282,Retzstadt,Hauptstr. 23,"[49.91087, 9.881909]",Engel,2
+2581,97286,Winterhausen,Alte Brückenstr. 3,"[49.706091, 10.016262]",Fuchs,2
+2582,97318,Kitzingen,Falterstr. 6,"[49.73651, 10.160277]",Will,9
+2583,97318,Kitzingen,Kaiserstr. 16,"[49.738679, 10.160377]",Gebert,2
+2584,97340,Marktbreit,Weetgasse 4,"[49.638195, 10.120603]",Gebert,2
+2585,97342,Obernbreit,Schwarzenberger Str. 1,"[49.656826, 10.166296]",Pröschel,2
+2586,97346,Iphofen,Maxstr. 27,"[49.703737, 10.259246]",Iphöfer Franzenbäck,3
+2587,97357,Prichsenstadt,Würzburger Str. 29,"[49.834351, 10.326857]",Trapp,2
+2588,97421,Schweinfurt,Neue Gasse 38,"[50.046467, 10.229608]",Zimmermann,2
+2589,97422,Schweinfurt,Birkenstr. 11,"[50.057294, 10.234972]",Drescher,6
+2590,97447,Gerolzhofen,Marktstr. 25,"[49.901528, 10.348053]",Kleinschrodt,3
+2591,97447,Frankenwinheim,Gerolzhöfer Str. 3,"[49.887577, 10.313425]",Schmitt,2
+2592,97523,Schwanfeld,Wipfelder Str. 4,"[49.921492, 10.138358]",Weidinger,2
+2593,97688,Bad Kissingen,Scheffelstr. 7,"[50.205515, 10.090647]",Motsch,2
+2594,97688,Bad Kissingen,Kirchbergstr. 1,"[50.189175, 10.04923]",Murk,2
+2595,97708,Bad Bocklet,Von-Henneberg-Str. 2,"[50.256768, 10.06165]",Laudensack,4
+2596,97753,Karlstadt,Werntalstr. 36,"[49.961682, 9.765512]",Schraut,3
+2597,97762,Hammelburg,Am Hahn 1,"[50.147132, 9.878064]",Schneider,3
+2598,97854,Steinfeld,Rathausstr. 7,"[49.951214, 9.671364]",Scherg,2
+2599,97877,Wertheim,Hundheimer Str. 26,"[49.712757, 9.502017]",Steinruck,5
+2600,97922,Lauda-Königshofen,Rathausstr. 22,"[49.570672, 9.703905]",Kuhn,2
+2601,97941,Tauberbischofsheim,Frauenstr. 38,"[49.623503, 9.663914]",Brotkörble,3
+2602,97950,Großrinderfeld,Würzburger Str. 33,"[49.707141, 9.781997]",Dittmann,3
+2603,97953,Königheim,Schloßstr. 42,"[49.594442, 9.587108]",Berberich,2
+2604,97959,Assamstadt,Neunstetter Str. 3,"[49.426057, 9.68323]",Fischer,2
+2605,97990,Schäftersheim,Würzburger Str. 22,"[49.497774, 9.901692]",Rajo,2
+2606,97999,Igersheim,Bad Mergentheimer Str. 13,"[49.492743, 9.815644]",Bamberger,2
+2607,98527,Suhl,Steinweg 16,"[50.609335, 10.691707]",Krüger,3
+2608,98529,Suhl,Meininger Str. 114,"[50.599697, 10.658228]",Striebe,2
+2609,98530,Suhl,Hauptstr. 278,"[50.601566, 10.593398]",Schubert,2
+2610,98553,Schleusingen,Bertholdstr. 10,"[50.510769, 10.755896]",Salzmann,2
+2611,98574,Schmalkalden,Talstr. 113,"[50.727361, 10.493575]",Endter,2
+2612,98596,Brotterode-Trusetal,Karl-Liebknecht-Str. 17,"[50.822968, 10.43735]",Weyh,2
+2613,98617,Meiningen,Hauptstr. 4,"[50.55924, 10.38631]",Stay,2
+2614,98617,Meiningen,Anton-Ulrich-Str. 37,"[50.565572, 10.414372]",Huhle,2
+2615,98617,Meiningen,Leipziger Str. 58,"[50.582058, 10.417131]",Grünstein,3
+2616,98693,Ilmenau,Weimarer Str. 2,"[50.687048, 10.914838]",Schindler,6
+2617,98716,Geraberg,Arnstädter Str. 35,"[50.720206, 10.848696]",Weisheit,2
+2618,99084,Erfurt,Cyriakstr. 1,"[50.971127, 11.011336]",Bauer,2
+2619,99084,Erfurt,Benediktsplatz,"[50.978666, 11.029726]",Backstube,13
+2620,99085,Erfurt,Ruhrstr. 39,"[50.977129, 11.043798]",Wamser,21
+2621,99086,Erfurt,Magdeburger Allee 129,"[50.995026, 11.025492]",Roth,3
+2622,99089,Erfurt,Auenstr. 76,"[50.985334, 11.02148]",Weißleder,14
+2623,99094,Erfurt,Cyriakstr. 1,"[50.971127, 11.011336]",Bauer,6
+2624,99096,Erfurt,Damaschkestr. 18,"[50.965804, 11.040534]",Lobenstein,2
+2625,99189,Elxleben,Thomas-Müntzer-Str. 33,"[51.044782, 10.95133]",Michalowski,2
+2626,99192,Ingersleben,Karl-Marx-Str. 41a,"[50.920438, 10.936083]",Meyer,3
+2627,99310,Arnstadt,Erfurter Str. 9,"[50.836236, 10.947839]",Nagel,9
+2628,99310,Arnstadt,Kirchgasse 9,"[50.832819, 10.94564]",Zänker,2
+2629,99310,Arnstadt,Holzmarkt 6,"[50.833575, 10.947823]",Fischer,2
+2630,99423,Weimar,Döllstädtstr. 5,"[50.985765, 11.321072]",Buczek,4
+2631,99423,Weimar,Erfurter Str. 49,"[50.980707, 11.315448]",Höhne,2
+2632,99423,Weimar,Schützengasse 12,"[50.978152, 11.326466]",Rost,6
+2633,99423,Weimar,Heinrich-Heine-Str. 20,"[50.979794, 11.323675]",Albrecht,3
+2634,99423,Weimar,Carl-von-Ossietzky-Str. 71,"[50.988272, 11.324887]",Huschebeth,6
+2635,99423,Weimar,Graben 19,"[50.982445, 11.327457]",Preußel,2
+2636,99423,Weimar,Herderplatz 15,"[50.981215, 11.330147]",Rose,16
+2637,99425,Weimar,Weimarische Str. 8,"[50.960316, 11.345447]",Heinemann,3
+2638,99425,Weimar,Henry-van-de-Veldestr.1,"[50.961825, 11.322001]",Rose,2
+2639,99425,Weimar,Hellerweg 31,"[50.982931, 11.339828]",Preußel,2
+2640,99427,Weimar,Dorfstr. 12,"[51.014593, 11.352831]",Thriemer,3
+2641,99510,Niederroßla,Apoldaer Str. 7,"[51.035591, 11.490653]",Peter,3
+2642,99610,Orlishausen,Schloßvippacher Str. 5,"[51.155139, 11.192018]",Süpke,2
+2643,99817,Eisenach,Treboniusstr. 14,"[50.986562, 10.311612]",Winkler,8
+2644,99817,Eisenach,Stresemannstr. 1a,"[50.984848, 10.328122]",Rost,2
+2645,99817,Eisenach,Lutherstr. 7,"[50.972933, 10.320848]",Liebetrau,2
+2646,99826,Mihla,Am Anger 8,"[51.077558, 10.333534]",Scheibe,2
+2647,99842,Ruhla,Carl-Gareis-Str. 31,"[50.891315, 10.367087]",Jung,2
+2648,99842,Ruhla,Obere Lindenstr. 40,"[50.889411, 10.369408]",Breunig,4
+2649,99867,Gotha,Hauptmarkt 42,"[50.948551, 10.702046]",Junghans,2
+2650,99867,Gotha,Friedrichstr. 16,"[50.947544, 10.709635]",Meininger,2
+2651,99880,Waltershausen,Hauptstr. 41,"[50.899447, 10.558244]",Eberhardt,3
+2652,99891,Tabarz/Thüringer Wald,Karl-Kornhaß-Str. 13,"[50.876825, 10.518539]",Reinhardt,2

@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Selbstbackende Bäckereien in Deutschland</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
+	<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+</head>
+<body>
+
+<div id="mapid" style="width: 100%; height: 100%; position: absolute; top: 0; bottom: 0;"></div>
+<script type="text/javascript">
+	// ref: http://stackoverflow.com/a/1293163/2343
+	// This will parse a delimited string into an array of
+	// arrays. The default delimiter is the comma, but this
+	// can be overriden in the second argument.
+	function CSVToArray( strData, strDelimiter ){
+		// Check to see if the delimiter is defined. If not,
+		// then default to comma.
+		strDelimiter = (strDelimiter || ",");
+
+		// Create a regular expression to parse the CSV values.
+		var objPattern = new RegExp(
+			(
+				// Delimiters.
+				"(\\" + strDelimiter + "|\\r?\\n|\\r|^)" +
+
+				// Quoted fields.
+				"(?:\"([^\"]*(?:\"\"[^\"]*)*)\"|" +
+
+				// Standard fields.
+				"([^\"\\" + strDelimiter + "\\r\\n]*))"
+			),
+			"gi"
+			);
+
+
+		// Create an array to hold our data. Give the array
+		// a default empty first row.
+		var arrData = [[]];
+
+		// Create an array to hold our individual pattern
+		// matching groups.
+		var arrMatches = null;
+
+
+		// Keep looping over the regular expression matches
+		// until we can no longer find a match.
+		while (arrMatches = objPattern.exec( strData )){
+
+			// Get the delimiter that was found.
+			var strMatchedDelimiter = arrMatches[ 1 ];
+
+			// Check to see if the given delimiter has a length
+			// (is not the start of string) and if it matches
+			// field delimiter. If id does not, then we know
+			// that this delimiter is a row delimiter.
+			if (
+				strMatchedDelimiter.length &&
+				strMatchedDelimiter !== strDelimiter
+				){
+
+				// Since we have reached a new row of data,
+				// add an empty row to our data array.
+				arrData.push( [] );
+
+			}
+
+			var strMatchedValue;
+
+			// Now that we have our delimiter out of the way,
+			// let's check to see which kind of value we
+			// captured (quoted or unquoted).
+			if (arrMatches[ 2 ]){
+
+				// We found a quoted value. When we capture
+				// this value, unescape any double quotes.
+				strMatchedValue = arrMatches[ 2 ].replace(
+					new RegExp( "\"\"", "g" ),
+					"\""
+					);
+
+			} else {
+
+				// We found a non-quoted value.
+				strMatchedValue = arrMatches[ 3 ];
+
+			}
+
+
+			// Now that we have our value string, let's add
+			// it to the data array.
+			arrData[ arrData.length - 1 ].push( strMatchedValue );
+		}
+
+		// Return the parsed data.
+		return( arrData );
+	}
+
+	var mymap = L.map('mapid')
+	mymap.fitBounds(L.latLngBounds(L.latLng(47.3024876979, 5.98865807458), L.latLng(54.983104153, 15.0169958839)))
+	
+	L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+		maxZoom: 18,
+		attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
+			'<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+			'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+		id: 'mapbox/streets-v11',
+		tileSize: 512,
+		zoomOffset: -1
+	}).addTo(mymap);
+
+	var xhttp = new XMLHttpRequest();
+	xhttp.onreadystatechange = function() {
+		if (this.readyState == 4 && this.status == 200) {
+			let data = CSVToArray(xhttp.responseText, ",")
+			
+			let coordRegex = new RegExp(/\[([^,]+), ([^,]+)\]/, "gi")
+			
+			var maxLat = -Number.MAX_VALUE, minLat = Number.MAX_VALUE, maxLon = -Number.MAX_VALUE, minLon = Number.MAX_VALUE;
+			
+			var numValid = 0;
+			
+			for (var i = 1; i < data.length; i++) {
+			
+				let coords = coordRegex.exec(data[i][4])
+				
+				if (coords == null || coords.length != 3)
+					continue
+					
+				let lat = coords[1]
+				let lon = coords[2]
+				let street = data[i][3]
+				let city = data[i][2]
+				let zip = data[i][1]
+				
+				let name = data[i][5]
+				
+				minLat = Math.min(lat, minLat)
+				minLon = Math.min(lon, minLon)
+				maxLat = Math.max(lat, maxLat)
+				maxLon = Math.max(lon, maxLon)
+				
+				var marker = L.marker([coords[1],coords[2]]).addTo(mymap);
+				marker.bindPopup("<div id=\"popup\"><h3>Bäckerei " + name + "</h3>" + street + "<br/>" + zip + " "+ city + "</div>")
+				
+				++numValid;
+			}
+			
+			if (numValid == 0)
+				return
+			
+			mymap.fitBounds(L.latLngBounds(L.latLng(minLat, minLon), L.latLng(maxLat, maxLon)))
+		}
+	};
+	xhttp.open("GET", "https://raw.githubusercontent.com/tifa365/Selbstbackende_Baeckereien/master/B%C3%A4ckereien%2C%20die%20noch%20selbst%20backen.csv", true);
+	xhttp.send();
+</script>
+</body>
+</html>
